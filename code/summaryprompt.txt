@@ -1,0 +1,1 @@
+"As an expert malware analyst, your task is to describe the functions in the following PowerShell script with details. Your answer should start with 'DESCRIPTION:'.\n"
