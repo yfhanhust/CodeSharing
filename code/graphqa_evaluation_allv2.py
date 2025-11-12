@@ -11,8 +11,6 @@ file_hash = []
 good_response_list = []
 for k in range(1,len(file_set)):
     records = file_set[k].split('\t')
-    #if records[0] == 'Get-WordHeader.json':
-    #    continue
     file_hash.append(records[0])
     good_response_list.append([int(records[j]) for j in range(1,len(records))])
 
