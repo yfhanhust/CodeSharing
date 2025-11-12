@@ -2,10 +2,8 @@ import pickle
 import numpy as np 
 from sklearn.metrics import roc_curve, auc
 
-file_folder = '/home/yhan/Documents/research/KGCodeReasoning/Mistral22_baseline/KG_query_likelihood_benignware_graph_query_prompt_response.csv'
+file_folder = '/KG_query_likelihood_benignware_graph_query_prompt_response.csv'
 ### KG_query_test_benignware_graph_query_prompt_response.csv
-#file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_llamastorm/KG_query_likelihood_benignware_graph_query_prompt_response.csv'
-#file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/test_set/KG_query_test_malware_graph_query_prompt_response.csv'
 with open(file_folder,'r') as f:
     file_set = f.readlines()
 
@@ -14,8 +12,6 @@ file_hash = []
 good_response_list = []
 for k in range(1,len(file_set)):
     records = file_set[k].split('\t')
-    #if records[0] == 'Get-WordHeader.json':
-    #    continue
     file_hash.append(records[0])
     good_response_list.append([int(records[j]) for j in range(1,len(records))])
 
@@ -23,9 +19,7 @@ question_list_good = [file_hd[j] for j in range(1,len(file_hd)-1)]
 good_response_list = np.array(good_response_list)
 
 
-file_folder = '/home/yhan/Documents/research/KGCodeReasoning/Mistral22_baseline/KG_query_likelihood_benignware_graph_query_prompt_response.csv'
-#file_folder  = '/Users/yhan/Documents/research/malware/KGreasoning/test_llamastorm/KG_query_likelihood_malware_graph_query_prompt_response.csv'
-#file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/test_set/KG_query_test_benignware_graph_query_prompt_response.csv'
+file_folder = '/KG_query_likelihood_benignware_graph_query_prompt_response.csv'
 with open(file_folder,'r') as f:
     file_set = f.readlines()
 
@@ -34,33 +28,12 @@ file_hash = []
 mal_response_list = []
 for k in range(1,len(file_set)):
     records = file_set[k].split('\t')
-    #if records[0] == 'c0393a6d5e0362c379778829c4d354c94687ba987e5830ac64601beea0bf511b.json':
-    #    continue 
     file_hash.append(records[0])
     mal_response_list.append([int(records[j]) for j in range(1,len(records))])
 
 question_list_mal = [file_hd[j] for j in range(1,len(file_hd)-1)]
 mal_response_list = np.array(mal_response_list)
 
-
-'''
-file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/benignware_200_graph_query_prompt_response.csv'
-with open(file_folder,'r') as f:
-    file_set = f.readlines()
-
-file_hd = file_set[0].split('\t')
-file_hash = []
-good_response_list_test = []
-for k in range(1,len(file_set)):
-    records = file_set[k].split('\t')
-    file_hash.append(records[0])
-    good_response_list_test.append([int(records[j]) for j in range(1,len(records))])
-
-question_list_good_test = [file_hd[j] for j in range(1,len(file_hd)-1)]
-good_response_list_test = np.array(good_response_list_test)
-
-good_response_list_all = np.concatenate((good_response_list,good_response_list_test))
-'''
 ### check if the two question lists are the same
 count_same = 0
 for k in range(len(question_list_good)):
@@ -84,10 +57,10 @@ for k in range(nqa):
 
 ll_ranking_list = np.argsort(-1.*np.array(ll_score))
 
-print(np.array(question_list_good)[ll_ranking_list[:120]])
+print(np.array(question_list_good)[ll_ranking_list[:100]])
 
-with open('/home/yhan/Documents/research/KGCodeReasoning/Mistral22_baseline/question_top120_mistral22b.csv','w') as f:
-    for k in range(120):
+with open('/Mistral22_baseline/question_top100_mistral22b.csv','w') as f:
+    for k in range(100):
         f.write(question_list_good[ll_ranking_list[k]]+'\n')
 
 
@@ -125,19 +98,19 @@ significant_indices = [i for i, p in enumerate(p_corrected) if p < alpha]
 print(f"\nSignificantly large variables: {significant_indices}")
 
 ### top questions 
-with open('/Users/yhan/Documents/research/malware/KGreasoning/test_llamastorm/top62_questions.csv','w') as f:
-    for k in range(62):
+with open('/top80_questions.csv','w') as f:
+    for k in range(80):
         print(question_list_mal[ll_ranking_list[k]])
         f.write(question_list_mal[ll_ranking_list[k]] + '\n')
 
 #### compute overlappin ratio
-with open('/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/validation_set/top62_questions.csv','r') as f:
+with open('/top80_questions.csv','r') as f:
     question_top_qwen = f.readlines(10000000000)
 
-for k in range(62):
+for k in range(80):
     question_top_qwen[k] = question_top_qwen[k][:-1]
 
-question_top_storm = np.array(question_list_mal)[ll_ranking_list[:62]]
+question_top_storm = np.array(question_list_mal)[ll_ranking_list[:80]]
 print((np.intersect1d(np.array(question_top_qwen),question_top_storm)))
 set_qwen = set(question_top_qwen)
 set_storm = set(question_top_storm)
@@ -283,7 +256,6 @@ for iround in range(nround):
     print(iround)
     auc_score_list = []
     for fraction in [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]:
-        #auc_score, mean_fpr, interp_tpr = graphqa_roc(good_response_list_all,mal_response_list,fraction,60)
         auc_score, mean_fpr, interp_tpr = graphqa_rocv2(good_response_list,mal_response_list,fraction,ll_ranking_list,62)
         if fraction == 0.4:
             mean_fprs.append(mean_fpr)
@@ -292,11 +264,7 @@ for iround in range(nround):
         auc_score_list.append(auc_score)
     
     auc_score_round.append(auc_score_list)
-    #print('fraction: ' + str(fraction) + '\t' + str(graphqa_roc(good_response_list,mal_response_list,fraction,question_list_mal))+'\n')
 
-
-#fraction = 0.9
-#print(graphqa_roc(good_response_list,mal_response_list,fraction,question_list_mal))
 auc_score_round = np.array(auc_score_round)
 print(auc_score_round.shape)
 print(np.mean(auc_score_round,axis=0))
