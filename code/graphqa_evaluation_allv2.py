@@ -2,8 +2,7 @@ import pickle
 import numpy as np 
 from sklearn.metrics import roc_curve, auc
 
-file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/graph_query_prompt_response_benignware.csv'
-#file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/KG_query_likelihood_benignware_graph_query_prompt_response.csv'
+file_folder = '/graph_query_prompt_response_benignware.csv'
 with open(file_folder,'r') as f:
     file_set = f.readlines()
 
@@ -21,8 +20,7 @@ question_list_good = [file_hd[j] for j in range(1,len(file_hd)-1)]
 good_response_list = np.array(good_response_list)
 
 
-file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/graph_query_prompt_response_malware.csv'
-#file_folder  = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/KG_query_likelihood_malware_graph_query_prompt_response.csv'
+file_folder = '/graph_query_prompt_response_malware.csv'
 with open(file_folder,'r') as f:
     file_set = f.readlines()
 
@@ -31,32 +29,13 @@ file_hash = []
 mal_response_list = []
 for k in range(1,len(file_set)):
     records = file_set[k].split('\t')
-    #if records[0] == 'c0393a6d5e0362c379778829c4d354c94687ba987e5830ac64601beea0bf511b.json':
-    #    continue 
     file_hash.append(records[0])
     mal_response_list.append([int(records[j]) for j in range(1,len(records))])
 
 question_list_mal = [file_hd[j] for j in range(1,len(file_hd)-1)]
 mal_response_list = np.array(mal_response_list)
 
-'''
-file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/benignware_200_graph_query_prompt_response.csv'
-with open(file_folder,'r') as f:
-    file_set = f.readlines()
 
-file_hd = file_set[0].split('\t')
-file_hash = []
-good_response_list_test = []
-for k in range(1,len(file_set)):
-    records = file_set[k].split('\t')
-    file_hash.append(records[0])
-    good_response_list_test.append([int(records[j]) for j in range(1,len(records))])
-
-question_list_good_test = [file_hd[j] for j in range(1,len(file_hd)-1)]
-good_response_list_test = np.array(good_response_list_test)
-
-good_response_list_all = np.concatenate((good_response_list,good_response_list_test))
-'''
 ### check if the two question lists are the same
 count_same = 0
 for k in range(len(question_list_good)):
@@ -79,12 +58,7 @@ for k in range(nqa):
     ll_score.append(np.log(ll+1e-5))
 
 ll_ranking_list = np.argsort(-1.*np.array(ll_score))
-#print(np.array(ll_score)[ll_ranking_list])
 
-#question_list = question_list[:-1]
-#print(np.array(question_list_mal)[ll_ranking_list[0:64]])
-
-### 
 benign_ll_score = np.zeros(good_response_list_all.shape[0])
 mal_ll_score = np.zeros(mal_response_list.shape[0])
 
@@ -220,25 +194,15 @@ for iround in range(nround):
         auc_score_list.append(auc_score)
     
     auc_score_round.append(auc_score_list)
-    #print('fraction: ' + str(fraction) + '\t' + str(graphqa_roc(good_response_list,mal_response_list,fraction,question_list_mal))+'\n')
 
 
-#fraction = 0.9
-#print(graphqa_roc(good_response_list,mal_response_list,fraction,question_list_mal))
 auc_score_round = np.array(auc_score_round)
 print(auc_score_round.shape)
 print(np.mean(auc_score_round,axis=0))
 print(np.std(auc_score_round,axis=0))
 
-#### report FPR and TPR 
-#mean_fpr = np.mean(np.array(mean_fprs),axis=0)
-#mean_tpr = np.mean(np.array(interp_tprs),axis=0)
-#print(auc(mean_fpr,mean_tpr))
-#print(mean_tpr[np.where(mean_fpr <= 0.011)[0]])
-#print(mean_fpr[np.where(mean_fpr <= 0.011)[0]])
-
 #### apply for the 200 new benignware samples 
-file_folder = '/Users/yhan/Documents/research/malware/KGreasoning/test_qwen7b/benignware_200_graph_query_prompt_response.csv'
+file_folder = '/benignware_200_graph_query_prompt_response.csv'
 with open(file_folder,'r') as f:
     file_set = f.readlines()
 
@@ -270,10 +234,10 @@ else:
     print('Exception')
 
 
-print(np.array(question_list_mal)[ll_ranking_list[0:60]])
+print(np.array(question_list_mal)[ll_ranking_list[0:100]])
 
-#### save the top 60 questions
-with open('top60_questions.csv','w') as f:
-    for k in range(60):
+#### save the top 100 questions
+with open('top100_questions.csv','w') as f:
+    for k in range(100):
         f.write(question_list_mal[ll_ranking_list[k]] + '\n')
 
