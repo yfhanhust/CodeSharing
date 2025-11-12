@@ -1,14 +1,6 @@
 import os
 import time
-#import vertexai
 from datetime import datetime
-#from vertexai.language_models import CodeGenerationModel
-#import openai
-# Initialize Vertex AI with your project details
-#project_id = "codeattack"
-#vertexai.init(project=project_id, location="us-central1")
-
-# Define a maximum character count threshold
 MAX_TOKEN_COUNT = 500  # Adjust this value as needed
 MAX_CHAR_COUNT = 20000
 from mistralai import Mistral
