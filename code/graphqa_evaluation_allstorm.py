@@ -95,16 +95,16 @@ significant_indices = [i for i, p in enumerate(p_corrected) if p < alpha]
 print(f"\nSignificantly large variables: {significant_indices}")
 
 ### top questions 
-with open('/test_llamastorm/top62_questions.csv','w') as f:
+with open('/top100_questions.csv','w') as f:
     for k in range(100):
         print(question_list_mal[ll_ranking_list[k]])
         f.write(question_list_mal[ll_ranking_list[k]] + '\n')
 
 #### compute overlappin ratio
-with open('/validation_set/top100_questions.csv','r') as f:
+with open('/top100_questions.csv','r') as f:
     question_top_qwen = f.readlines(10000000000)
 
-for k in range(62):
+for k in range(100):
     question_top_qwen[k] = question_top_qwen[k][:-1]
 
 question_top_storm = np.array(question_list_mal)[ll_ranking_list[:100]]
@@ -254,7 +254,7 @@ for iround in range(nround):
     auc_score_list = []
     for fraction in [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]:
         #auc_score, mean_fpr, interp_tpr = graphqa_roc(good_response_list_all,mal_response_list,fraction,60)
-        auc_score, mean_fpr, interp_tpr = graphqa_rocv2(good_response_list,mal_response_list,fraction,ll_ranking_list,62)
+        auc_score, mean_fpr, interp_tpr = graphqa_rocv2(good_response_list,mal_response_list,fraction,ll_ranking_list,100)
         if fraction == 0.4:
             mean_fprs.append(mean_fpr)
             interp_tprs.append(interp_tpr)
