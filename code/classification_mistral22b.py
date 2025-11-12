@@ -40,7 +40,6 @@ def load_qwen_response(path_to_validation_good,path_to_validation_mal):
 
 
     #### check if the questions have the same order
-    #/Users/yhan/Documents/research/malware/KGreasoning/qwen7b_evaluation/classification_qwen.py
     count_same_val = 0
     for k in range(len(question_good_val)):
         if question_good_val[k] == question_mal_val[k]:
@@ -143,7 +142,6 @@ def compute_metrics(y_true,y_pred):
     interp_tpr[0] = 0.0
     auc_score = roc_auc_score(y_true, y_pred)
 
-    #### we fix FPR levels = 5e-3, 1e-2 and 5e-2, we report FNR correspondingly
     mean_fpr_diff = np.abs(mean_fpr - 5e-3)
     fnr_fpr005 = 1. - np.max(interp_tpr[np.where(mean_fpr_diff < eps_tol_fpr)[0]])  
     mean_fpr_diff = np.abs(mean_fpr - 1e-2)
@@ -156,17 +154,12 @@ def compute_metrics(y_true,y_pred):
     precision, recall, _ = precision_recall_curve(y_true,y_pred)
     interp_precision = np.interp(mean_recall,recall,precision)
     interp_precision[0] = 0.0
-    #print(0.88)
     mean_recall_diff = np.abs(recall - 0.88)
-    #print(np.where(mean_recall_diff < eps_tol_recall)[0])
     precision_recall088 = np.mean(precision[np.where(mean_recall_diff < eps_tol_recall)[0]])
     f1_score_recall088 = compute_f1(precision_recall088,np.mean(recall[np.where(mean_recall_diff < eps_tol_recall)[0]]))
-    #print(0.80)
     mean_recall_diff = np.abs(recall - 0.80)
-    #print(np.where(mean_recall_diff < eps_tol_recall)[0])
     precision_recall080 = np.mean(precision[np.where(mean_recall_diff < eps_tol_recall)[0]])
     f1_score_recall080 = compute_f1(precision_recall080,np.mean(recall[np.where(mean_recall_diff < eps_tol_recall)[0]]))
-    #print(0.60)
     mean_recall_diff = np.abs(recall - 0.60)
     if len(np.where(mean_recall_diff < eps_tol_recall)[0]) == 0:
         precision_recall060 = np.mean(precision[np.where(mean_recall_diff < 1e-1)[0]])
@@ -217,7 +210,6 @@ def compute_metrics(y_true,y_pred):
 
 #### cross-validation
 def graphqa_roc_nb(good_response_list,mal_response_list,fraction,ntop):
-    #### select 200 training samples for likelihood score computation
     ll_score = []
     nqa = good_response_list.shape[1] 
     ngood = good_response_list.shape[0]
@@ -227,9 +219,7 @@ def graphqa_roc_nb(good_response_list,mal_response_list,fraction,ntop):
     np.random.shuffle(mal_data_idx)
     np.random.shuffle(good_data_idx)
     good_train_num = int(ngood * fraction)
-    #good_test_num = ngood - good_train_num
     mal_train_num = int(nmal * fraction)
-    #mal_test_num = nmal - mal_train_num
     good_train_idx = good_data_idx[:good_train_num]
     good_test_idx = good_data_idx[good_train_num:]
     mal_train_idx = mal_data_idx[:mal_train_num]
@@ -297,17 +287,12 @@ def graphqa_roc_nb(good_response_list,mal_response_list,fraction,ntop):
     precision, recall, _ = precision_recall_curve(y_true,y_pred)
     interp_precision = np.interp(mean_recall,recall,precision)
     interp_precision[0] = 0.0
-    #print(0.88)
     mean_recall_diff = np.abs(recall - 0.88)
-    #print(np.where(mean_recall_diff < eps_tol_recall)[0])
     precision_recall088 = np.mean(precision[np.where(mean_recall_diff < eps_tol_recall)[0]])
     f1_score_recall088 = compute_f1(precision_recall088,np.mean(recall[np.where(mean_recall_diff < eps_tol_recall)[0]]))
-    #print(0.80)
     mean_recall_diff = np.abs(recall - 0.80)
-    #print(np.where(mean_recall_diff < eps_tol_recall)[0])
     precision_recall080 = np.mean(precision[np.where(mean_recall_diff < eps_tol_recall)[0]])
     f1_score_recall080 = compute_f1(precision_recall080,np.mean(recall[np.where(mean_recall_diff < eps_tol_recall)[0]]))
-    #print(0.60)
     mean_recall_diff = np.abs(recall - 0.60)
     if len(np.where(mean_recall_diff < eps_tol_recall)[0]) == 0:
         precision_recall060 = np.mean(precision[np.where(mean_recall_diff < 1e-1)[0]])
@@ -357,7 +342,7 @@ def graphqa_roc_nb(good_response_list,mal_response_list,fraction,ntop):
     return [auc_score, fnr_fpr005, fnr_fpr01,fnr_fpr05,precision_recall088,precision_recall080,precision_recall060,precision_recall050,precision_recall030,precision_recall020,f1_score_recall088,f1_score_recall080,f1_score_recall060,f1_score_recall050,f1_score_recall030,f1_score_recall020]
 
 
-file_path = '/home/yhan/Documents/research/KGCodeReasoning/Mistral22_baseline/'
+file_path = '/Mistral22_baseline/'
 #### file paths to save responses over benignware / malware samples in the validation dataset 
 path_to_validation_good = file_path + 'KG_query_likelihood_benignware_graph_query_prompt_response.csv'
 path_to_validation_mal  = file_path + 'KG_query_likelihood_malware_graph_query_prompt_response.csv'
@@ -408,7 +393,6 @@ for iround in range(nround):
     print(iround)
     result_metric_list = []
     for fraction in [0.3,0.4,0.5,0.6,0.7]:
-        #auc_score, mean_fpr, interp_tpr = graphqa_roc(good_response_list_all,mal_response_list,fraction,60)
         result_metrics = graphqa_roc_nb(good_response_all,mal_response_all,fraction,len(question_list_test))
         has_nan = np.isnan(result_metrics).any()
         if has_nan:
@@ -437,7 +421,6 @@ df.index.name = 'training data fraction number'  # optional: name the index colu
 df.to_csv(path_to_exp1_var)
 
 
-####  [auc_score,fnr_fpr01,fnr_fpr05,precision_recall088,precision_recall080,precision_recall060,precision_recall050,precision_recall030,precision_recall020,f1_score_recall088,f1_score_recall080,f1_score_recall060,f1_score_recall050,f1_score_recall030,f1_score_recall020]
 
 #### Exp.2 cross-validation with diffrent numbers of query questions
 #### fix train_frac = 0.5 
@@ -450,7 +433,6 @@ for iround in range(nround):
     print(iround)
     result_metric_list_ntop = []
     for ntop in [30,40,50,60,62,70,80,90,100]:
-        #auc_score, mean_fpr, interp_tpr = graphqa_roc(good_response_list_all,mal_response_list,fraction,60)
         result_metrics = graphqa_roc_nb(good_response_all,mal_response_all,0.5,ntop)
         has_nan = np.isnan(result_metrics).any()
         if has_nan:
